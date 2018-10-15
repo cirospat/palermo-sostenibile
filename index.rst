@@ -28,7 +28,7 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
 
 .. |REPLACE1| raw:: html
 
-    <img src=”https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/ambi.png” />
+    <img src=”static/ambi.png” />
     <img src=”https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/territorio.png” /> 
     <img src=”https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/ciclo.png” /> 
 .. |REPLACE2| raw:: html
