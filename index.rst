@@ -6,7 +6,11 @@ Sostenibilità a Palermo
 
 edizione 2018
 
-.. figure:: static/ambi.png   .. figure:: static/territorio.png   .. figure:: static/ciclo.png
+.. figure:: static/ambi.png      ambiente
+
+.. figure:: static/territorio.png      territorio
+
+.. figure:: static/ciclo.png       ciclabilità
 
 
 |REPLACE1|
