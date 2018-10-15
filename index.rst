@@ -9,9 +9,7 @@ edizione 2018
 
 |REPLACE1|
 
-Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa con testo e mappe.
-
-Bla bla bla ...
+Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa con testo e mappe. Bla bla bla ...
 
 
 .. toctree:: 
