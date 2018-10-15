@@ -6,6 +6,15 @@ Sostenibilità a Palermo
 
 edizione 2018
 
+.. figure:: static/ambi.png
+
+
+.. figure:: static/territorio.png
+    :option: value
+    :option: value
+
+    content
+
 
 |REPLACE1|
 
