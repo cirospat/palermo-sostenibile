@@ -6,9 +6,10 @@ Sostenibilità a Palermo
 
 edizione 2018
 
-Questo documento illustra le informazioni sulla sostenibilità a Palermo. 
 
-Lo fa con testo e mappe.
+|REPLACE1|
+
+Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa con testo e mappe.
 
 Bla bla bla ...
 
@@ -19,9 +20,6 @@ Bla bla bla ...
 
     ambiente
     mobilita
-
-
-|REPLACE1|
 
 
 |REPLACE2|
