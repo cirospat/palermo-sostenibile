@@ -19,7 +19,6 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
     ambiente
     mobilita
 
-\ |STYLE0|\ 
 
 |REPLACE2|
 
@@ -27,10 +26,10 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
 |REPLACE3|
 
 
+|REPLACE4|
+
+
 .. bottom of content
-
-
-.. |STYLE0| replace:: **Servizi digitali comunali**
 
 
 .. |REPLACE1| raw:: html
@@ -40,7 +39,10 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/ciclo.png" />
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+    <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Servizi digitali comunali</span></strong>
 .. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+.. |REPLACE4| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a></p>
