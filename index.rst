@@ -7,8 +7,8 @@ Sostenibilità a Palermo
 edizione 2018
 
 
-.. figure:: static/ambi.png      
-   ambiente
+.. figure:: static/ambi.png
+
 
 
 |REPLACE1|
@@ -32,7 +32,7 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
 
 .. |REPLACE1| raw:: html
 
-    <img src=”https://github.com/cirospat/palermo-sostenibile/blob/master/static/ambi.png” />
+    <img src=”/static/ambi.png” />
     
     <img src=”https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/territorio.png” /> 
     
