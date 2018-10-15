@@ -8,12 +8,9 @@ edizione 2018
 
 .. figure:: static/ambi.png
 
-
 .. figure:: static/territorio.png
-    :option: value
-    :option: value
 
-    content
+.. figure:: static/ciclo.png
 
 
 |REPLACE1|
