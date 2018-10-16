@@ -41,6 +41,7 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/ambi.png" />
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/ciclo.png" />
     <img src="https://opendata.comune.palermo.it/img/temi/mobilita.png" />
+    <img src="https://opendata.comune.palermo.it/img/temi/opere.png" />
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a></p>
