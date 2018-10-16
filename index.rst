@@ -4,7 +4,7 @@
 Sostenibilità a Palermo
 #######################
 
-Dalla Carta di Bologna alla sostenibilità nel territorio comunale di Palermo.
+Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo.
 
 [Edizione 2018]
 
@@ -43,3 +43,8 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a></p>
+
+.. |LINK1| raw:: html
+
+    <a href="http://www.comune.bologna.it/sites/default/files/documenti/Carta%20di%20bologna%20per%20l%27ambiente.pdf" target="_blank">Carta di Bologna</a>
+
