@@ -4,20 +4,30 @@
 Sostenibilità a Palermo
 #######################
 
-edizione 2018
+Dalla Carta di Bologna alla sostenibilità nel territorio comunale di Palermo.
+
+[Edizione 2018]
 
 
 |REPLACE1|
 
-Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa con testo e mappe. Bla bla bla ...
+Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa con testo e mappe. 
 
 
 .. toctree:: 
     :maxdepth: 3
     :caption: Indice dei contenuti 
 
+    dati-inquadramento-generale
+    adattamento-cambiamenti-climatici
     ambiente
-    mobilita
+    economia-circolare
+    ecosistemi-verdeurbano-tutelabiodiversita
+    mobilita-sostenibile
+    qualita-acque
+    qualita-aria
+    transizione-energetica
+    uso-sostenibile-suolo
 
 
 |REPLACE2|
