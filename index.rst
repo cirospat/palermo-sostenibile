@@ -4,9 +4,7 @@
 Sostenibilità a Palermo
 #######################
 
-Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo.
-
-[Edizione 2018]
+Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. [Edizione 2018].
 
 
 |REPLACE1|
