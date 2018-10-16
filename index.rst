@@ -26,11 +26,17 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
     transizione-energetica
     uso-sostenibile-suolo
 
+|
+
+\ |STYLE0|\  (fonte: \ |LINK2|\ )
 
 |REPLACE2|
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Mappa della tipologia delle risorse naturali a Palermo**
 
 
 .. |REPLACE1| raw:: html
@@ -47,4 +53,8 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
 .. |LINK1| raw:: html
 
     <a href="http://www.comune.bologna.it/sites/default/files/documenti/Carta%20di%20bologna%20per%20l%27ambiente.pdf" target="_blank">Carta di Bologna</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano Strategico di Palermo, 2008</a>
 
