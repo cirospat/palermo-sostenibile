@@ -34,5 +34,6 @@ Trasporto pubblico su gomma
 Trasporto pubblico su ferro
 ***************************
 
+open data: https://opendata.comune.palermo.it/opendata-dataset.php?dataset=290
 
 .. bottom of content
