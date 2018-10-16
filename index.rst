@@ -20,7 +20,6 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
 
     dati-inquadramento-generale
     adattamento-cambiamenti-climatici
-    ambiente
     economia-circolare
     ecosistemi-verdeurbano-tutelabiodiversita
     mobilita-sostenibile
