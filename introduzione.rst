@@ -15,23 +15,41 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
 .. admonition:: Obiettivi generali per le Green City
 
     \ |STYLE0|\ 
+    
     LG 1 - Puntare sulla qualità urbanistica e architettonica delle città 
+    
     LG 2 - Garantire un’adeguata dotazione di infrastrutture verdi urbane e periurbane 
+    
     LG 3 - Assicurare una buona qualità dell’aria 
+    
     LG 4 - Rendere più sostenibile la mobilità urbana
+    
     \ |STYLE1|\ 
+    
     LG 5 - Puntare sulla rigenerazione urbana e rafforzare la tutela del suolo
+    
     LG 6 - Estendere la riqualificazione, il recupero e la manutenzione del patrimonio edilizio esistente
+    
     LG 7 - Sviluppare la prevenzione e il riciclo dei rifiuti verso un’economia circolare
+    
     LG 8 - Gestire l’acqua come risorsa strategica
+    
     \ |STYLE2|\ 
+    
     LG 9 - Abbattere le emissioni di gas serra 
+    
     LG 10 - Ridurre i consumi di energia 
+    
     LG 11 - Sviluppare la produzione e l’uso di energia da fonti rinnovabili
+    
     LG 12 - Adottare misure per l’adattamento al cambiamento climatico
+    
     \ |STYLE3|\ 
+    
     LG 13 - Promuovere l’eco-innovazione 
+    
     LG 14 - Sviluppare la green economy
+    
     LG 15 - Migliorare la governance
 
 Gli \ |STYLE4|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
