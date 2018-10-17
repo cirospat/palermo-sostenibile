@@ -6,7 +6,12 @@ Introduzione alla Carta di Bologna
 
 I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giugno 2017 in occasione dell'incontro dei Ministri all'Ambiente dei paesi del G7, hanno sottoscritto la Carta di Bologna per l’Ambiente Le Città metropolitane per lo sviluppo sostenibile.
 
-Gli obiettivi di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
+
+..  Note:: 
+
+    Il Comune di Palermo, attraverso il Sindaco, ha siglato nel giugno 2017, la Carta di Bologna in occasione del G7 Ambiente. Con Deliberazione di Giunta Municipale n. 134 del 20.09.2018 sono state adottate le \ |LINK1|\ .
+
+Gli \ |STYLE0|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
 
 .. _h2ff136d6661d726c646d0a537053:
 
@@ -328,3 +333,12 @@ Prospettive nazionali
 * Attuazione di quanto contenuto nel documento Elementi per una roadmap per la mobilità sostenibile elaborato dal Tavolo sulla mobilità della Presidenza del Consiglio dei Ministri, ed elaborazione da parte di Anci di linee guida per i comuni al fine di omogeneizzare la regolamentazione urbana della mobilità, compresa la limitazione alla circolazione dei veicoli più inquinanti nelle aree urbane con particolare riferimento ai motori diesel. 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **obiettivi**
+
+
+.. |LINK1| raw:: html
+
+    <a href="https://www.fondazionesvilupposostenibile.org/wp-content/uploads/dlm_uploads/2018/09/Linee-Guida-per-le-Green-City_web.pdf" target="_blank">Linee Guida per le Green Cities</a>
+
