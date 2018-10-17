@@ -1,8 +1,8 @@
 
-.. _h2f65316220271965446c384555203553:
+.. _h583456048404b1c1532602d1e662f:
 
-Introduzione
-############
+Introduzione alla Carta di Bologna
+##################################
 
 I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giugno 2017 in occasione dell'incontro dei Ministri all'Ambiente dei paesi del G7, hanno sottoscritto la Carta di Bologna per l’Ambiente Le Città metropolitane per lo sviluppo sostenibile.
 
