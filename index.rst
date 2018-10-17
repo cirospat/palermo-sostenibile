@@ -9,14 +9,20 @@ Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo
 
 |REPLACE1|
 
+
+.. toctree:: 
+    :maxdepth: 3
+    :caption: Introduzione 
+
+    introduzione
+    dati-inquadramento-generale
+
  
 
 .. toctree:: 
     :maxdepth: 3
     :caption: Indice dei contenuti 
 
-    introduzione
-    dati-inquadramento-generale
     adattamento-cambiamenti-climatici
     economia-circolare
     ecosistemi-verdeurbano-tutelabiodiversita
