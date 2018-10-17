@@ -16,6 +16,7 @@ Questo documento illustra le informazioni sulla sostenibilità a Palermo.  Lo fa
     :maxdepth: 3
     :caption: Indice dei contenuti 
 
+    introduzione
     dati-inquadramento-generale
     adattamento-cambiamenti-climatici
     economia-circolare
