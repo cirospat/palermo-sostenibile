@@ -52,6 +52,8 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
     
     LG 15 - Migliorare la governance
 
+|
+
 Gli \ |STYLE4|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
 
 .. _h2ff136d6661d726c646d0a537053:
