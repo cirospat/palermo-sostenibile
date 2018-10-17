@@ -12,6 +12,9 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
     Il Comune di Palermo, attraverso il Sindaco, ha siglato nel giugno 2017, la Carta di Bologna in occasione del G7 Ambiente. Con Deliberazione di Giunta Municipale n. 134 del 20.09.2018 sono state adottate le \ |LINK1|\ .
 
 
+|REPLACE1|
+
+
 .. admonition:: Obiettivi generali per le Green City
 
     \ |STYLE0|\ 
@@ -388,6 +391,11 @@ Prospettive nazionali
 
 .. |STYLE4| replace:: **obiettivi**
 
+
+.. |REPLACE1| raw:: html
+
+    <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/greencity.PNG" width=250 /> 
+    
 
 .. |LINK1| raw:: html
 
