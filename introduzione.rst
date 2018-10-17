@@ -9,7 +9,7 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
 
 ..  Note:: 
 
-    Con Deliberazione di Giunta Municipale n. 134 del 20.09.2018 sono state adottate le \ |LINK1|\ .
+    Con \ |LINK1|\  sono state adottate le \ |LINK2|\ .
 
 
 |REPLACE1|
@@ -398,6 +398,10 @@ Prospettive nazionali
     
 
 .. |LINK1| raw:: html
+
+    <a href="https://docs.google.com/document/u/1/d/e/2PACX-1vSpSuW1f9yylBCszBp5smA5WsqQ25A5K2qfF74M6QdQIphOED5uMy9B3cAQK9BP6gF2ZkkB__lFgJmG/pub" target="_blank">Deliberazione di Giunta Municipale n. 134 del 20.09.2018</a>
+
+.. |LINK2| raw:: html
 
     <a href="https://www.fondazionesvilupposostenibile.org/wp-content/uploads/dlm_uploads/2018/09/Linee-Guida-per-le-Green-City_web.pdf" target="_blank">Linee Guida per le Green Cities</a>
 
