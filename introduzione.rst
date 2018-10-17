@@ -4,12 +4,12 @@
 Introduzione alla Carta di Bologna
 ##################################
 
-I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giugno 2017 in occasione dell'incontro dei Ministri all'Ambiente dei paesi del G7, hanno sottoscritto la Carta di Bologna per l’Ambiente Le Città metropolitane per lo sviluppo sostenibile.
+I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giugno 2017 in occasione dell'incontro dei Ministri all'Ambiente dei paesi del G7, hanno sottoscritto la Carta di Bologna per l’Ambiente.
 
 
 ..  Note:: 
 
-    Il Comune di Palermo, attraverso il Sindaco, ha siglato nel giugno 2017, la Carta di Bologna in occasione del G7 Ambiente. Con Deliberazione di Giunta Municipale n. 134 del 20.09.2018 sono state adottate le \ |LINK1|\ .
+    Con Deliberazione di Giunta Municipale n. 134 del 20.09.2018 sono state adottate le \ |LINK1|\ .
 
 
 |REPLACE1|
