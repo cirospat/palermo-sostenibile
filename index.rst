@@ -7,7 +7,7 @@ Sostenibilità a Palermo
 
 |REPLACE1|
 
-Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo documento illustra con testo e mappe le informazioni sulla sostenibilità a Palermo. [Edizione 2018].
+Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo documento illustra, con testo e mappe, le informazioni sulla sostenibilità a Palermo. [Edizione 2018].
 
 
 |REPLACE2|
