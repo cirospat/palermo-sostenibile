@@ -29,7 +29,7 @@ assetto amministrativo
 
 .. |REPLACE1| raw:: html
 
-    <img src=”https://elezioni.comune.palermo.it/img/aqu_79.png" />
+    <img src="https://elezioni.comune.palermo.it/img/aqu_79.png" />
 .. |REPLACE2| raw:: html
 
     <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Servizi digitali comunali</span></strong>
