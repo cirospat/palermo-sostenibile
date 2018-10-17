@@ -4,10 +4,10 @@
 Sostenibilità a Palermo
 #######################
 
-Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo documento illustra con testo e mappe le informazioni sulla sostenibilità a Palermo. [Edizione 2018].
-
 
 |REPLACE1|
+
+Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo documento illustra con testo e mappe le informazioni sulla sostenibilità a Palermo. [Edizione 2018].
 
 
 |REPLACE2|
@@ -50,15 +50,14 @@ Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="500" src="https://www.youtube.com/embed/hyke-OUTW68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    La Carta di Bologna
-.. |REPLACE2| raw:: html
-
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/territorio.png" width=50 />
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/ambi.png" width=50 />
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/ciclo.png" width=50 />
     <img src="https://opendata.comune.palermo.it/img/temi/mobilita.png" width=50 />
     <img src="https://opendata.comune.palermo.it/img/temi/opere.png" width=50 />
+.. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/hyke-OUTW68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a></p>
