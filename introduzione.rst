@@ -11,7 +11,30 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
 
     Il Comune di Palermo, attraverso il Sindaco, ha siglato nel giugno 2017, la Carta di Bologna in occasione del G7 Ambiente. Con Deliberazione di Giunta Municipale n. 134 del 20.09.2018 sono state adottate le \ |LINK1|\ .
 
-Gli \ |STYLE0|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
+
+.. admonition:: Obiettivi generali per le Green City
+
+    \ |STYLE0|\ 
+    LG 1 - Puntare sulla qualità urbanistica e architettonica delle città 
+    LG 2 - Garantire un’adeguata dotazione di infrastrutture verdi urbane e periurbane 
+    LG 3 - Assicurare una buona qualità dell’aria 
+    LG 4 - Rendere più sostenibile la mobilità urbana
+    \ |STYLE1|\ 
+    LG 5 - Puntare sulla rigenerazione urbana e rafforzare la tutela del suolo
+    LG 6 - Estendere la riqualificazione, il recupero e la manutenzione del patrimonio edilizio esistente
+    LG 7 - Sviluppare la prevenzione e il riciclo dei rifiuti verso un’economia circolare
+    LG 8 - Gestire l’acqua come risorsa strategica
+    \ |STYLE2|\ 
+    LG 9 - Abbattere le emissioni di gas serra 
+    LG 10 - Ridurre i consumi di energia 
+    LG 11 - Sviluppare la produzione e l’uso di energia da fonti rinnovabili
+    LG 12 - Adottare misure per l’adattamento al cambiamento climatico
+    \ |STYLE3|\ 
+    LG 13 - Promuovere l’eco-innovazione 
+    LG 14 - Sviluppare la green economy
+    LG 15 - Migliorare la governance
+
+Gli \ |STYLE4|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
 
 .. _h2ff136d6661d726c646d0a537053:
 
@@ -335,7 +358,15 @@ Prospettive nazionali
 .. bottom of content
 
 
-.. |STYLE0| replace:: **obiettivi**
+.. |STYLE0| replace:: **1° obiettivo generale: assicurare un’elevata qualità ambientale**
+
+.. |STYLE1| replace:: **2° obiettivo generale: utilizzare le risorse in modo efficiente e circolare**
+
+.. |STYLE2| replace:: **3° obiettivo generale: adottare misure per contrastare il cambiamento climatico**
+
+.. |STYLE3| replace:: **4° obiettivo generale: promuovere l’eco-innovazione, la green economy e il miglioramento della governance**
+
+.. |STYLE4| replace:: **obiettivi**
 
 
 .. |LINK1| raw:: html
