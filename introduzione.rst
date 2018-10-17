@@ -394,7 +394,7 @@ Prospettive nazionali
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/greencity.PNG" width=250 /> 
+    <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/greencity.PNG" width=400 /> 
     
 
 .. |LINK1| raw:: html
