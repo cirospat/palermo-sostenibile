@@ -6,7 +6,7 @@ Introduzione alla Carta di Bologna
 
 I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giugno 2017 in occasione dell'incontro dei Ministri all'Ambiente dei paesi del G7, hanno sottoscritto la Carta di Bologna per l’Ambiente Le Città metropolitane per lo sviluppo sostenibile.
 
-Gli obiettivi di riferimento delle agende metropolitane per lo sviluppo sostenibile sono:
+Gli obiettivi di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
 
 .. _h2ff136d6661d726c646d0a537053:
 
@@ -43,6 +43,8 @@ Prospettive nazionali
 * Piano di azione nazionale concordato con Regioni ed enti locali per il conseguimento dell’obiettivo. 
 
 * Accelerazione dei processi di bonifica dei suoli nei Siti di importanza nazionale (Sin).
+
+|
 
 .. _h7e19407f64197e30522596a264981:
 
@@ -84,6 +86,8 @@ Prospettive nazionali
 
 * Promozione della prevenzione dei rifiuti rafforzando le misure già previste nel Piano nazionale del 2013 che va aggiornato in base ai nuovi obiettivi europei. 
 
+|
+
 .. _h127e3c627818437513547c207d464b36:
 
 3 - Adattamento ai cambiamenti climatici e riduzione del rischio
@@ -122,6 +126,8 @@ Prospettive nazionali
 
 * Attuazione rigorosa della norma della legge di Bilancio per il 2017 (legge n. 232 del 2016, articolo 1, comma 460) che dal 2018 prevede la destinazione esclusiva degli oneri di urbanizzazione alla realizzazione delle opere e ad interventi di rigenerazione urbana e di riqualificazione dell’ambiente compresa la prevenzione e la mitigazione del rischio idrogeologico e sismico.
 
+|
+
 .. _h161b624e44184d6e62417e7e9197432:
 
 4 - Transizione energetica
@@ -142,10 +148,10 @@ Obiettivi internazionali
 
 * Si calcola che per raggiungere l’obiettivo fondamentale dell’accordo della Cop 21 di Parigi, cioè il contenimento dell’aumento di temperatura al di sotto di 2° C raggiungendo la soglia di 1,5° C, gli obiettivi Ue al 2030 andrebbero rivisti in modo ancor più ambizioso.
 
-.. _h86d3a423f192c713f5f2a4777703372:
+.. _h16193c35572d5a7e61a3e231e1e12d:
 
- Obiettivi per le città metropolitane e le aree urbane
-======================================================
+Obiettivi per le città metropolitane e le aree urbane
+=====================================================
 
 Anticipare al 2025 gli obiettivi europei al 2030 anche attraverso i Piani di azione per l’energia sostenibile e il clima (Paesc) del Nuovo Patto dei Sindaci.
 
@@ -161,6 +167,8 @@ Prospettive nazionali
 * Coordinamento nazionale tra tutti i soggetti e tutti i livelli di governo per il conseguimento degli obiettivi stabiliti superando l’attuale frammentazione tra le competenze dei diversi Ministeri. 
 
 * Sostegno alle città per l’attuazione dei Paesc e obbligo di fornitura con dettaglio comunale dei dati sui consumi energetici da parte degli erogatori dei servizi.
+
+|
 
 .. _h233c398c29113996556e3e1d3b62:
 
@@ -195,6 +203,8 @@ Prospettive
 * Sviluppo di strumenti di informazione e comunicazione univoci e coordinati. 
 
 * Verifica dello stato di attuazione dei Piani regionali e del Piano congiunto Governo – Regioni della Pianura padana del 2013, per valutare l’efficacia delle azioni adottate nei diversi ambiti (trasporti, industria, agricoltura, energia) e la messa a sistema dei relativi interventi.
+
+|
 
 .. _h351e253b125636a31442c5f5f693bb:
 
@@ -232,7 +242,12 @@ Prospettive nazionali
 
 * Divieto di rilascio di concessioni di derivazione d’acqua a scopo idroelettrico nei Siti di importanza comunitaria (Sic) e nelle Zone speciali di conservazione (Zsc), nelle aree protette ricadenti nei territori facenti parte dei Bacini imbriferi montani (Bim), nei bacini idrografici la cui superficie sottesa dall’impianto in progetto sia minore di 10 kmq. Abrogazione delle tariffe incentivate per gli impianti di potenza installata inferiore o uguale a 1 Mw con l’eccezione di quelli che utilizzino infrastrutture acquedottistiche o quelli costruiti su canali a destinazione irrigua, purché utilizzino esclusivamente le acque già concesse, nei limiti delle portate istantanee e dei periodi di utilizzo. Destinazione di almeno il 10% dell’impo rto complessivo annuo dei proventi dei canoni derivanti dalle concessioni ad interventi di miglioramento delle reti irrigue e di riconversione dei sistemi di irrigazione con preferenza verso il sistema a goccia. 
 
-.
+|
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _h287d19631a6a17576465e7c46302650:
 
@@ -273,6 +288,8 @@ Prospettive nazionali
 * Promozione di meccanismi compensativi preventivi per le trasformazioni territoriali. 
 
 * Quantificare le opere di compensazione ecologico-ambientale da richiedere ai proponenti nell’ambito dei procedimenti di Valutazione Ambientale in termini di superficie, tipologia, valore economico corrispondente in relazione ai diversi tipi di intervento. 
+
+|
 
 .. _h71248013c14497019214c3a64697e5b:
 
