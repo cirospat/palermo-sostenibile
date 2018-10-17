@@ -44,7 +44,7 @@ h1, h2, h3 {
 
 /* reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
 .wy-side-nav-search {
-    background-color: #098748;
+    background-color: #4c80ad;
 }
 
 /* testo caption menu sx - setta i colori dell'indice nel menu a sx */
@@ -72,6 +72,7 @@ h1, h2, h3 {
 /* .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); } */
 
 /* mobile settings */
+/* mobile settings header */
 .wy-nav-top {background: #098748; }
 
 /* lo sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
