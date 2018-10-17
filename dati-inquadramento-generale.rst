@@ -59,6 +59,26 @@ Servizi digitali comunali
 
 |REPLACE2|
 
+.. _h347b306d6366966a5f4325626df:
+
+Team di lavoro 
+***************
+
+ll Team di lavoro comunale per la raccolta e aggiornamento dei dati e delle informazioni contenute nella presente pubblicazione è costituito da:
+
+* Arch. Paola Caselli (Area Servizi alla città) \ |LINK18|\ . Funzioni di coordinamento. 
+
+* Arch. …..
+
+* …….
+
+* Geom. Ciro Spataro (Area Servizi alla città) \ |LINK19|\ . Elaborazione dei dati e informazioni per la pubblicazione online con lo stile “Read the Docs”. 
+
+* …..
+
+* ……
+
+* …..
 
 .. bottom of content
 
@@ -137,4 +157,12 @@ Servizi digitali comunali
 .. |LINK17| raw:: html
 
     <a href="https://www.comune.palermo.it/masterpage.php?apt=4" target="_blank">Fonte dati</a>
+
+.. |LINK18| raw:: html
+
+    <a href="mailto:p.caselli@comune.palermo.it">p.caselli@comune.palermo.it</a>
+
+.. |LINK19| raw:: html
+
+    <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
 
