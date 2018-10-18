@@ -32,7 +32,7 @@ Il  PGTU  è  un  piano  di  breve  termine. Gli  obiettivi  di  carattere gener
 
 * fluidificare  la  circolazione  sulle  aste  stradali, soprattutto  alle  intersezioni,  anche attraverso itinerari alternativi in grado di deviare il traffico di transito; 
 
-* creare le  condizioni affinché l’utenza debole” (pedoni e ciclisti) sia agevolata e possa muoversi, per quanto possibile, su sedi separate e comunque in sicurezza; 
+* creare le  condizioni affinché l’utenza debole (pedoni e ciclisti) sia agevolata e possa muoversi, per quanto possibile, su sedi separate e comunque in sicurezza; 
 
 * ricostituire un equilibrio fra domanda e offerta di sosta operando sia sull’una che sull’altra; 
 
@@ -100,7 +100,7 @@ Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le per
 
 .. |REPLACE1| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span> <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=290" target="_blank" rel="noopener">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=290</a></p>
+    <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=290" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
 
 .. |LINK1| raw:: html
 
