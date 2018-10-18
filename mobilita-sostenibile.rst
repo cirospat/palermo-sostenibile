@@ -14,10 +14,24 @@ inquadramento generale: politiche e strategie
 dati di riferimento: indicatore/indicatori
 ******************************************
 
-.. _h2b78f22504c262a4a2021177927f65:
+.. _h5e421b4f70244e6d11d676b134357:
 
-governance territoriale (?)
-***************************
+governance territoriale 
+************************
+
+.. _h202f4b4c523449462666581e4a2a1377:
+
+\ |LINK1|\  (edizione 2007)
+===========================
+
+Il Piano Strategico è dunque uno strumento aggiuntivo di cui l’Amministrazione comunale si dota “volontariamente”, che non sostituisce gli ordinari strumenti della pianificazione generale e di settore, regionali o locali che siano, ma piuttosto li integra, anche superandone l’approccio per ambito amministrativo,  per  metterli  a  sistema  in  una  strategia  di  sviluppo  complessiva  e  strutturale.
+
+.. _h3b106d223e66626f60753651d7427b:
+
+\ |LINK2|\  (edizione 2017)
+===========================
+
+Estratto dalla sezione Mobilità: Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
 
 .. _h647b6431691d2335f764b73220427b:
 
@@ -54,3 +68,13 @@ azioni di medio periodo
 open data: https://opendata.comune.palermo.it/opendata-dataset.php?dataset=290
 
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano Strategico per la Mobilità Sostenibile</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana</a>
+
