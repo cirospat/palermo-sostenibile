@@ -4,24 +4,17 @@
 Qualità dell’aria
 #################
 
-.. _h312f4c1f535a32d326b2172121bc59:
-
 La società partecipata comunale RAP SpA gestisce la rete di rilevamento della qualità dell’aria del Comune di Palermo. La rete è costituita da 10 stazioni ubicate in vari punti rappresentativi della città, dotate di apparecchiature per il controllo continuo dell’inquinamento atmosferico.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. _h11864f4f163c186d3fb11c3f475:
 
 I dati rilevati sono trasmessi telematicamente al centro operativo della sede impiantistica di Bellolampo, dove si provvede al loro controllo, elaborazione ed archiviazione, ai sensi del D.Lgs. n. 155/2010.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. _h6434272f2ae26485f397526767743f:
 
 Il bollettino giornaliero, contenente la sintesi dei dati di qualità dell’aria rilevati nel corso del ciclo di monitoraggio del giorno immediatamente precedente (dalle ore 0.00 alle 24.00), ed il bollettino riepilogativo mensile sono rispettivamente pubblicati giornalmente e mensilmente sul sito della RAP \ |LINK1|\ .
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * \ |LINK2|\ 
 
 * \ |LINK3|\ 
+
+|
 
 .. _h38574b6734656724137b6c421c635e:
 
