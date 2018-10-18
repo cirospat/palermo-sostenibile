@@ -39,5 +39,17 @@ azioni in corso
 azioni di medio periodo
 ***********************
 
+--------
+
+
+|REPLACE1|
+
+--------
+
 
 .. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
