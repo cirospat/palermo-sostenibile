@@ -401,7 +401,7 @@ Prospettive nazionali
     
 .. |REPLACE2| raw:: html
 
-    <strong>Obiettivi della</strong> <p><a href="http://www.comune.bologna.it/sites/default/files/documenti/Carta%20di%20bologna%20per%20l%27ambiente.pdf" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Carta di Bologna</span></a></p>
+    <p><strong>Obiettivi della</strong> <a href="http://www.comune.bologna.it/sites/default/files/documenti/Carta%20di%20bologna%20per%20l%27ambiente.pdf" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Carta di Bologna</span></a></p>
 
 .. |LINK1| raw:: html
 
