@@ -6,6 +6,8 @@ Qualità dell’aria
 
 La società partecipata comunale RAP SpA gestisce la rete di rilevamento della qualità dell’aria del Comune di Palermo. La rete è costituita da 10 stazioni ubicate in vari punti rappresentativi della città, dotate di apparecchiature per il controllo continuo dell’inquinamento atmosferico.
 
+|REPLACE1|
+
 I dati rilevati sono trasmessi telematicamente al centro operativo della sede impiantistica di Bellolampo, dove si provvede al loro controllo, elaborazione ed archiviazione, ai sensi del D.Lgs. n. 155/2010.
 
 Il bollettino giornaliero, contenente la sintesi dei dati di qualità dell’aria rilevati nel corso del ciclo di monitoraggio del giorno immediatamente precedente (dalle ore 0.00 alle 24.00), ed il bollettino riepilogativo mensile sono rispettivamente pubblicati giornalmente e mensilmente sul sito della RAP \ |LINK1|\ .
@@ -68,7 +70,7 @@ anello ferroviario
 --------
 
 
-|REPLACE1|
+|REPLACE2|
 
 --------
 
@@ -77,6 +79,9 @@ anello ferroviario
 
 
 .. |REPLACE1| raw:: html
+
+    <img src=”http://www.rapspa.it/site/wp-content/uploads/2016/03/cabine-768x576.jpg” />
+.. |REPLACE2| raw:: html
 
     <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
 
