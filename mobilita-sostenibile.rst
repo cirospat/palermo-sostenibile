@@ -67,8 +67,6 @@ strategie
 azioni in corso
 ***************
 
-Ciclabilità 
-
 Piste ciclabili
 
 Bike sharing
@@ -77,20 +75,30 @@ Trasporto pubblico su gomma
 
 Trasporto pubblico su ferro 
 
+Pedonalizzazioni
+
 .. _h433254da6b476c4e23225cf134b78:
 
 azioni di medio periodo
 ***********************
 
+Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le periferie urbane.
+
 --------
 
-open data: https://opendata.comune.palermo.it/opendata-dataset.php?dataset=290
+
+|REPLACE1|
+
 
 .. bottom of content
 
 
 .. |STYLE0| replace:: **- Estratto dalla sezione Mobilità**
 
+
+.. |REPLACE1| raw:: html
+
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span> <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=290" target="_blank" rel="noopener">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=290</a></p>
 
 .. |LINK1| raw:: html
 
