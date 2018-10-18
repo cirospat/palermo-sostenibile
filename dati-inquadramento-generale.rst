@@ -80,6 +80,14 @@ ll Team di lavoro comunale per la raccolta e aggiornamento dei dati e delle info
 
 * …..
 
+--------
+
+
+|REPLACE3|
+
+--------
+
+
 .. bottom of content
 
 
@@ -89,6 +97,9 @@ ll Team di lavoro comunale per la raccolta e aggiornamento dei dati e delle info
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+.. |REPLACE3| raw:: html
+
+    <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
 
 .. |LINK1| raw:: html
 
