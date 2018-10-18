@@ -17,6 +17,10 @@ inquadramento generale: politiche e strategie
 
 |REPLACE1|
 
+\ |STYLE1|\ 
+
+|REPLACE2|
+
 |
 
 .. _h394831537a6f64b71731e4776636875:
@@ -76,10 +80,15 @@ aaaa
 
 .. |STYLE0| replace:: **Mappa della tipologia delle risorse naturali a Palermo**
 
+.. |STYLE1| replace:: **Biodiversità, mappa dell’Orto Botanico di Palermo**
+
 
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a></p>
+.. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="300px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521">Visualizza a schermo intero</a></p>
 
 .. |LINK1| raw:: html
 
