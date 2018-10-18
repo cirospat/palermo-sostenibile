@@ -41,6 +41,13 @@ Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo
 
 |REPLACE3|
 
+--------
+
+
+|REPLACE4|
+
+--------
+
 
 .. bottom of content
 
@@ -61,6 +68,9 @@ Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a></p>
+.. |REPLACE4| raw:: html
+
+    <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
 
 .. |LINK1| raw:: html
 
