@@ -57,10 +57,8 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
 
 |
 
-.. _h63147315572e757162161e3478426649:
 
-Obiettivi della Carta di Bologna
-================================
+|REPLACE2|
 
 Gli \ |STYLE4|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
 
@@ -401,6 +399,9 @@ Prospettive nazionali
 
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/greencity.PNG" width=400 /> 
     
+.. |REPLACE2| raw:: html
+
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Obiettivi della Carta di Bologna</span></p>
 
 .. |LINK1| raw:: html
 
