@@ -25,6 +25,12 @@ inquadramento generale: politiche e strategie
 
 |
 
+\ |STYLE2|\ 
+
+|REPLACE3|
+
+|
+
 .. _h394831537a6f64b71731e4776636875:
 
 dati di riferimento: indicatore/indicatori
@@ -84,6 +90,8 @@ aaaa
 
 .. |STYLE1| replace:: **Biodiversità, mappa dell’Orto Botanico di Palermo**
 
+.. |STYLE2| replace:: **Mappa degli spazi verdi pubblici fruibili di Palermo**
+
 
 .. |REPLACE1| raw:: html
 
@@ -91,6 +99,9 @@ aaaa
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521">Visualizza a schermo intero</a></p>
+.. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/es/map/spazi-verdi-fruibili-a-palermo-italia_14577#12/38.1529/13.3673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521">Visualizza a schermo intero</a></p>
 
 .. |LINK1| raw:: html
 
