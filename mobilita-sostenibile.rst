@@ -26,7 +26,7 @@ Piano Generale del Traffico Urbano (2013)
 
 \ |LINK1|\  - Il  Piano  Generale  del  Traffico Urbano  della  città  di Palermo costituisce  la definizione di 1° livello della fase progettuale preliminare e conoscitiva.
 
-Il  PGTU  è  un  piano  di  breve  termine. Gli  obiettivi  di  carattere generale   proposti   dalle  Direttive   Ministeriali   (miglioramento   delle   condizioni   di circolazione,  miglioramento  della  sicurezza  stradale,  riduzione  dell’ inquinamento atmosferico  ed  acustico,  risparmio  energetico) da  conseguirsi  in  accordo  con  gli strumenti  urbanistici  vigenti  e  nel  rispetto  dei  valori  ambientali  ed  applicati  alla  realtà specifica di Palermo, sono traducibili in obiettivi specifici ed operativi quali: 
+Il  PGTU  è  un  piano  di  breve  termine. Gli  obiettivi  di  carattere generale   proposti   dalle  Direttive   Ministeriali   (miglioramento   delle   condizioni   di circolazione,  miglioramento  della  sicurezza  stradale,  riduzione  dell’inquinamento atmosferico  ed  acustico,  risparmio  energetico) da  conseguirsi  in  accordo  con  gli strumenti  urbanistici  vigenti  e  nel  rispetto  dei  valori  ambientali  ed  applicati  alla  realtà specifica di Palermo, sono traducibili in obiettivi specifici ed operativi quali: 
 
 * gerarchizzare la rete viaria esistente, distinguendo le funzioni delle diverse strade ed adeguandole alla tipologia delle aree attraversate; 
 
