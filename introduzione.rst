@@ -57,6 +57,11 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
 
 |
 
+.. _h63147315572e757162161e3478426649:
+
+Obiettivi della Carta di Bologna
+================================
+
 Gli \ |STYLE4|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
 
 .. _h2ff136d6661d726c646d0a537053:
