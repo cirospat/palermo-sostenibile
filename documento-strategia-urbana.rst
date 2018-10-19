@@ -1,11 +1,18 @@
-Documento di Strategia Urbana della Città di Palermo - PON Città Metropolitane 2014 - 2020
+Documento di Strategia Urbana della Città di Palermo - PON Città Metropolitane 2014 - 2020. [\ |LINK1|\ ]
 
-[\ |LINK1|\ ]
+|REPLACE1|
 
 .. _h5672142b2c2d794a79647f700327672:
 
 Strategia di Sviluppo Urbano Sostenibile della Città di Palermo (ai sensi dell’art.7 Regolamento UE n. 1301/2013)
 #################################################################################################################
+
+
+.. toctree:: 
+    :maxdepth: 4
+    :caption: indice del documento di strategia urbana 
+
+    documento-strategia-urbana
 
 .. _h601c5a6b30495b283b802f2519774:
 
@@ -106,11 +113,7 @@ Si presentano alcuni dati che meglio possono illustrare la condizione sopra desc
 
 * 1173 famiglie in emergenza abitativa: 110 hanno un disabile in famiglia; 258 composti da uno o due componenti. 
 
-La condizione alloggiativa del 60% (702) è così composta (da autocertificazione): il 9% (65)
-
-privo di alloggio; il 45% (335) alloggi impropri così classificati: 162 in magazzini, scuole,
-
-baracche, ed. culto; 13 campo nomadi; 49 in comunità e centro accoglienza, 36 presso l’ex ONPI,65 via Brigata Aosta e 10 ex container; 1 con housing sociale Caritas.
+La condizione alloggiativa del 60% (702) è così composta (da autocertificazione): il 9% (65) privo di alloggio; il 45% (335) alloggi impropri così classificati: 162 in magazzini, scuole, baracche, ed. culto; 13 campo nomadi; 49 in comunità e centro accoglienza, 36 presso l’ex ONPI,65 via Brigata Aosta e 10 ex container; 1 con housing sociale Caritas. 
 
 I dati riferiti alla coabitazione (più nuclei familiari insieme) sono il 30% pari a 196. 
 
@@ -138,7 +141,7 @@ Sotto l’aspetto degli interventi strutturali con l’ultima programmazione FES
 
 Famiglie basso redditi o senza reddito: il dato riferibile a questo tipo di beneficiari è desumibile dalle  richieste  di  prestazione  sociale  quali  integrazione  all’affitto  13.000 istanze, social card 5000 istanze ammissibili, iscrizione all’emergenza abitativa 1173;
 
-* n. 33 soggetti ricoverati c/o comunità alloggio del territorio, di cui il 50% sono anziani e gli altri sono persone tra i 50 ed i 60 anni; le persone ricoverate con provvedimento dell’Autorità giudiziaria sono n. 27.
+* n. 33 soggetti ricoverati c/o comunità alloggio del territorio, di cui il 50% sono anziani e gli altri sono persone tra i 50 ed i 60 anni; le persone ricoverate con provvedimento dell’Autorità giudiziaria sono n. 27. 
 
 Anziani soli autosufficienti e non:
 
@@ -148,9 +151,9 @@ I dati riferiti alla richieste di Assistenza Domiciliare è di 718 richieste nel
 
 Riguardo alla popolazione anziana che necessita di ricovero in struttura i dati disponibili sono fermi all’anno 2009 dai quali risultano n. 100 persone in lista di attesa. 
 
-* 165 anziani ospiti in strutture del territorio; 
+* n. 165 anziani ospiti in strutture del territorio;  
 
-* n. 136 di essi è emerso un bisogno sociale di natura relazionale; 
+* n. 136 di essi è emerso un bisogno sociale di natura relazionale;  
 
 * per n. 128 è stata confermata la permanenza in struttura; 
 
@@ -192,9 +195,7 @@ Le attività messe in campo dall’assessorato riguardano:
 
 * Creazione/potenziamento di punti unici di accesso per i servizi rivolti alla platea dei beneficiari. Attualmente il Settore con il finanziamento di € 1.155.000,00 di un PO FESR 2007/2013 denominato SIGISASS sta realizzando l’informatizzazione del Settore e predisponendo le basi per un interfaccia con i presidi del territorio coinvolti nella presa in carico dei cittadini.
 
-Il quadro dei servizi sociali attualmente messo in campo dall’Amministrazione Comunale
-
-vede  servizi  di  primo  livello  e  che  quindi  accolgono  la  domanda  di  servizi  spesso complessa ed indifferenziata e servizi di specializzazione che nel tempo hanno strutturato delle risposte più complesse rispetto anche a bisogni nuovi legati all’evoluzione della società (mediazione familiare, Spazio Neutro, Mediazione Penale, Servi di Emergenza con reperibilità  costante).  Il  taglio  alla  spesa  sociale  e  il  conseguente  ridimensionamento  sul Bilancio Comunale di voci di spesa legate ai servizi sociali, hanno spinto l’Amministrazione a spostare  su specifiche fonti di finanziamento L.328/00 e L285/97 la programmazione di servizi,  di  fatto  di  base,  per  potere  offrire  una  risposta  ai  bisogni  della  popolazione cittadina. 
+Il quadro dei servizi sociali attualmente messo in campo dall’Amministrazione Comunale vede  servizi  di  primo  livello  e  che  quindi  accolgono  la  domanda  di  servizi  spesso complessa ed indifferenziata e servizi di specializzazione che nel tempo hanno strutturato delle risposte più complesse rispetto anche a bisogni nuovi legati all’evoluzione della società (mediazione familiare, Spazio Neutro, Mediazione Penale, Servi di Emergenza con reperibilità  costante).  Il  taglio  alla  spesa  sociale  e  il  conseguente  ridimensionamento  sul Bilancio Comunale di voci di spesa legate ai servizi sociali, hanno spinto l’Amministrazione a spostare  su specifiche fonti di finanziamento L.328/00 e L285/97 la programmazione di servizi,  di  fatto  di  base,  per  potere  offrire  una  risposta  ai  bisogni  della  popolazione cittadina. 
 
 Il   progressivo   aumento   delle   fasce   economiche   svantaggiate   ha   comportato   una necessaria  rivisitazione  dei  servizi  che  sempre  più  si  occupano  di  povertà  e  disagio economico  collegato  a  quello  abitativo.  La  casa  è  un  diritto  essenziale  della  persona, elemento  fondamentale  di  tranquillità  e  sicurezza.  In  questi  anni,  infatti,  proprio  il "fattore casa" è stato un elemento che ha fatto scivolare molte famiglie sotto la soglia di povertà,  facendole  precipitare  nell'area  dell'esclusione  sociale.  Per  questo  motivo  si ritiene  che  attraverso  lo  sviluppo  di  efficaci \ |STYLE5|\  si  possa  garantire  la tenuta complessiva della coesione sociale, con la finalità di \ |STYLE6|\  che affrontino  temi  quali  sostenibilità  ambientale,  qualità  abitativa,  recupero  del  degrado, inclusione urbana e sociale, \ |STYLE7|\ . 
 
@@ -210,7 +211,9 @@ Dall’analisi della situazione socio - lavorativa  e  abitativa  della  Città 
 3 - a Elementi di unitarietà della strategia
 ============================================
 
-Il programma “PON METRO area metropolitana di Palermo” si pone come uno dei processi decisionali che si caratterizza per i  suoi aspetti estremamente operativi, ben orientati, decisi e alimentati da una governance multilivello che tende a coinvolgere differenti organi istituzionali sociali, imprenditoriali ed economici, tutti impegnati a garantire un ruolo di città dei servizi per i cittadini. Esso costituisce un’eccezionale “leva” per la riorganizzazione dei servizi della città e della qualità della vita all’interno di un quadro prestabilito di strategie di sviluppo attraverso  azioni integrate  che, nel caso specifico, tendono a sopperire al degrado di alcune aree urbane non pienamente valorizzate in relazione alle loro vocazioni. Sono confermati gli obiettivi necessari a dotare il  territorio di qualificati servizi di base sempre più innovativi, ad integrazione di processi di riqualificazione e infrastrutturazione, puntando, nel caso in esame, sulle politiche di trasporto (parcheggi, reti metro‐ ferroviarie), sull'efficienza energetica, sulla inclusione sociale creando terreno fertile per fenomeni attrattivi di eventi culturali,  di crescita di flussi turistici o produttivi ecc. Nell’ambito dei risultati attesi si prevede: 
+Il programma “PON METRO area metropolitana di Palermo” si pone come uno dei processi decisionali che si caratterizza per i  suoi aspetti estremamente operativi, ben orientati, decisi e alimentati da una governance multilivello che tende a coinvolgere differenti organi istituzionali sociali, imprenditoriali ed economici, tutti impegnati a garantire un ruolo di città dei servizi per i cittadini. Esso costituisce un’eccezionale “leva” per la riorganizzazione dei servizi della città e della qualità della vita all’interno di un quadro prestabilito di strategie di sviluppo attraverso  azioni integrate  che, nel caso specifico, tendono a sopperire al degrado di alcune aree urbane non pienamente valorizzate in relazione alle loro vocazioni. Sono confermati gli obiettivi necessari a dotare il  territorio di qualificati servizi di base sempre più innovativi, ad integrazione di processi di riqualificazione e infrastrutturazione, puntando, nel caso in esame, sulle politiche di trasporto (parcheggi, reti metro‐ ferroviarie), sull'efficienza energetica, sulla inclusione sociale creando terreno fertile per fenomeni attrattivi di eventi culturali,  di crescita di flussi turistici o produttivi ecc. 
+
+Nell’ambito dei risultati attesi si prevede: 
 
 * aumento della mobilità sostenibile nelle aree  urbane; 
 
@@ -220,7 +223,9 @@ Il programma “PON METRO area metropolitana di Palermo” si pone come uno dei 
 
 * inclusione sociale e lotta alla povertà. 
 
-ll PON METRO, promosso dal Comune di Palermo, intende recepire e applicare, in ordine ai predetti obiettivi, le funzioni pianificatorie, gestionali e di promozione del sistema territoriale, che ha perso nel tempo quelle caratteristiche di luogo del piacere, di cultura, di turismo, divenendo un’area di regressione di alcuni fenomeni sociali e di una mobilità non più “sostenibile”, non più in linea con i progressi tecnologici di altre città di pari livello. L’azione di pianificazione e progettazione intende estendere i propri effetti ai comuni di prima cintura, nuovi e non più trascurabili partner di un percorso che vede la città di Palermo in un ruolo ormai ineludibile di città metropolitana. Le possibilità di successo della vision di programma dipendono proprio dall'attivazione mirata e progressiva di sistemi urbani extra‐comunali, nelle predette aree nel rispetto delle rispettive vocazioni. In coerenza con i principi cardine della strategia comune dell’Agenda Urbana, in termini generali, si conferma la volontà con il presente programma di attuare un piano di ridisegno e modernizzazione dei servizi urbani per i residenti e gli utilizzatori delle città, attraverso: 
+ll PON METRO, promosso dal Comune di Palermo, intende recepire e applicare, in ordine ai predetti obiettivi, le funzioni pianificatorie, gestionali e di promozione del sistema territoriale, che ha perso nel tempo quelle caratteristiche di luogo del piacere, di cultura, di turismo, divenendo un’area di regressione di alcuni fenomeni sociali e di una mobilità non più “sostenibile”, non più in linea con i progressi tecnologici di altre città di pari livello. L’azione di pianificazione e progettazione intende estendere i propri effetti ai comuni di prima cintura, nuovi e non più trascurabili partner di un percorso che vede la città di Palermo in un ruolo ormai ineludibile di città metropolitana. 
+
+Le possibilità di successo della vision di programma dipendono proprio dall'attivazione mirata e progressiva di sistemi urbani extra‐comunali, nelle predette aree nel rispetto delle rispettive vocazioni. In coerenza con i principi cardine della strategia comune dell’Agenda Urbana, in termini generali, si conferma la volontà con il presente programma di attuare un piano di ridisegno e modernizzazione dei servizi urbani per i residenti e gli utilizzatori delle città, attraverso: 
 
 * azioni  di mobilità e logistica sostenibile con l’adozione di soluzioni strutturali in termini di usi e gestione di servizi innovativi; 
 
@@ -279,6 +284,10 @@ OT2 - Aspetti specifici del PON METRO
 
 .. |STYLE7| replace:: **evolvendo da politiche per la casa a politiche per l’abitare**
 
+
+.. |REPLACE1| raw:: html
+
+    <img src="http://www.ponmetropalermo.it/documents/20143/31059/LogoPonMetro.png" width=400 />
 
 .. |LINK1| raw:: html
 
