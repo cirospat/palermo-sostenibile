@@ -271,10 +271,76 @@ L’indotto generato dal turismo potrebbe avere effetti positivi, in modo indire
 
 Una nota di attenzione va posta all’economia della cultura che, anche grazie ai numerosi interventi di recupero e riuso delle strutture (teatri, musei, palazzi storici,...),  attraverso  eventi  e  manifestazioni  di  richiamo  locale  ed  extra  urbano, promuove la riqualificazione di intere zone cittadine. Infine, il tasso di disoccupazione provinciale è decisamente critico: secondo le analisi settoriali, Palermo è tra le prime province d’Italia per livello del tasso di disoccupazione che coinvolge maggiormente la parte femminile della popolazione. Ciò significa che, almeno ufficialmente, il capitale umano della provincia, spesso formato da persone con un diploma o una laurea, risulta essere sottoutilizzato o, comunque, ai margini del mercato del lavoro ed implica, tra l’altro, una crescita economica meno dinamica rispetto alle reali possibilità.   
 
-.. _h85c5a27565051596540a3a6b3d3746:
+.. _h464029797280b0475b61f363a3b12:
 
-OT2 - Aspetti specifici del PON METRO  
----------------------------------------
+OT2 - Aspetti specifici del PON METRO 
+--------------------------------------
+
+L'attuazione del PON METRO PALERMO, per cluster, consente di intervenire in modo diretto sulla trasformazione urbana intervenendo sulle condizioni ambientali e sul modo di utilizzazione degli spazi, sulle dinamiche di crescita economica e di sviluppo sociale, sul modello  di  sviluppo  sostenibile  della  città,  coinvolgendo,  fin  dalle  prime  fasi  di sperimentazione/attuazione, anche gli attori che fanno parte integrante del territorio, gli organi di governo locale (le circoscrizioni), le istituzioni pubbliche, le università, i centri di ricerca e gli organismi specializzati del cluster. 
+
+L'impatto delle politiche urbane, su questi ambiti di trasformazione integrata, adottate con il PON METRO Palermo, ‐ ovviamente supportate dagli altri strumenti finanziari della programmazione 2014/2020 ‐ , potrà generare un rafforzamento della competitività  territoriale,  in termini di qualità e di attrattività dell'area, ovvero, un innalzamento del livello di qualità della vita e della vivibilità in generale, fattori che possono rendere più “attraente” questa parte del territorio non limitata solo ai residenti. 
+
+I driver sui quali intervenire per verificare il miglioramento delle performance territoriali, in concreto sono:
+
+* le  risorse  proprie  dell'area,  (tangibili  e  intangibili)  disponibili  nel  territorio, funzionali alle attività e ai sistemi di vita esistenti nel cluster; 
+
+* l'immagine percepita all'interno e all'esterno della città, strettamente correlata alle proprie  capacità  di  rigenerarsi  e  alla  stessa  "vocazione"  intrinseca  del territorio .
+
+I  principi  guida  adottati  da  quest’Amministrazione  per  l’individuazione  delle  azioni integrate sono stati fondati su: 
+
+* adesione alla strategia comune dell’Agenda urbana: la città di Palermo, nella qualità di Autorità Urbana, “aderisce alla strategia comune e identifica autonomamente le operazioni necessarie al loro conseguimento, utilizzando e valorizzando gli strumenti esistenti/vigenti di pianificazione settoriale, di programmazione di investimenti e di strategia locale”; 
+
+* Identificazione di un congruo numero di azioni integrate: il  programma  della  città  di   Palermo  ha  individuato  un  congruo  numero  di  azioni tematicamente orientate, ciascuna riferita a singoli risultati attesi, in coerenza ad una condivisa interpretazione dei problemi urbani che caratterizzano la città di Palermo. In quest’ottica l’azione integrata della città di Palermo è stata orientata su aree urbane sub‐ comunali, assicurando, così, una “comune narrativa”, riguardante settori e interventi disgiunti ma tra loro correlati e a impatto circoscritto. 
+
+* Attuazione e rafforzamento delle politiche ordinarie: nell’ambito  degli  strumenti  di  pianificazione  e/o  programmazione di  cui quest’Amministrazione è dotata, si è dato priorità ad azioni che attuino e/o rafforzino porzioni significative di territorio circoscritte e puntualmente individuate ed in linea con la strategia comune dell’Agenda Urbana, nonché, di piani e programmi di settore ordinari già esistenti, validati ed adottati dai livelli amministrativi coinvolti. 
+
+* Approccio ad una progettazione intelligente: in  tale  sillogismo  è  compresa  una  metodologia  di  approccio  ai  processi  di programmazione “operativa, integrata, logica, funzionale e di governo amministrativo tra le  azioni  proposte”,  riducendo  e  semplificando  il  più  possibile  i  passaggi  di programmazione.  L’Area  Fondi  strutturali,  di  questa  amministrazione,  assicurerà l’integrazione effettiva degli interventi verso il risultato di riferimento, attraverso una “vision” generale degli interventi da realizzare assicurando il sostegno all’intero ciclo di programmazione  anche  se  diverse  saranno  le  fonti  di  finanziamento  e  i  relativi programmi. 
+
+Con il presente documento l’amministrazione comunale ha individuato, motivato e fornito una prima descrizione delle Azioni integrate prese in considerazione per il Programma PON METRO. L’approccio metodologico e operativo qui proposto si sviluppa attraverso i seguenti tre punti: 
+
+#. individuazione della tipologia di utenti interessati/gruppi target e dei fabbisogni da soddisfare; 
+
+#. descrizione del cambiamento/miglioramento atteso; 
+
+#. individuazione delle linee di intervento da attivare. 
+
+In  questa  fase  iniziale,  da  parte  di  questa  Amministrazione,  sono  state  proposte  e motivate diverse opzioni di intervento e quindi diverse Azioni integrate, compilando schede separate per ciascuna Azione integrata, avendo cura di inserire una stima, quanto più attendibile possibile, del valore finanziario dell’investimento/intervento. 
+
+Di particolare rilevanza, per l’area della Costa Sud, è la recente attivazione della zona franca urbana di Brancaccio, programma di incentivi attraverso il quale 159 imprese  hanno ricevuto incentivi fiscali per un totale di circa 1 2,5 M€. Alcune di queste imprese sono start‐up innovative insediate nell’area a seguito dell’istituzione del programma di agevolazioni del MISE. 
+
+Sempre  nell’ottica  del  Programma  Città  Metropolitane  2014 – 2020  è  di  rilevante interesse la volontà della amministrazione di insediare, presso locali già nelle disponibilità della Amministrazione, un intervento chiamato Social Lab, incubatore e acceleratore di impresa visto in chiave sociale. Il Social Lab potrebbe costituire un forte volano per le imprese già insediate nell’area e per la nascita di nuove attività. 
+
+.. _h91640a1c156e58744d4239771673f:
+
+Sfide ambientali - Aspetti complessivi
+--------------------------------------
+
+In coerenza con la “Urban Agenda” rilanciata a luglio 2014 dalla Commissione Europea (COM 490/2014), in linea con gli orientamenti di programmazione dei fondi strutturali al 2020 (con riferimento all’Accordo di Partenariato Italia‐UE, emerge la corrispondenza con gli obiettivi OT 4 “Sostenere la transizione verso un’economia a basse emissioni di carbonio in tutti i settori” eOT 6 “Tutelare l’ambiente e promuovere l’uso efficiente delle risorse”, includendo anche il “Sesto Rapporto sulla coesione economica, sociale e territoriale” pubblicato dalla CE nel luglio 2014 col titolo “Investmnent for jobs and growth – promoting development and good governance in EU regions and cities”), Palermo si trova consapevolmente ad affrontare le autentiche sfide di natura ambientale sopra tratteggiate. Sul fronte della mobilità, è importante sottolineare che sono in corso di completamento i lavori per la realizzazione di importanti opere infrastrutturali (anello e passante ferroviario, n.3 linee tramviarie per un totale di 15,3 km e 40 fermate). 
+
+.. _h684a5c2140b7b1d6d3313722117a64:
+
+OT4 - Aspetti specifici PON METRO
+---------------------------------
+
+Il PON Metro Palermo promuove una serie di interventi atti a sostenere il passaggio di transizione verso un’economia a basse emissioni di carbonio in tutti i settori. Il processo di co‐progettazione ha consentito di individuare una serie di interventi il cui fine ultimo si riflette in una oggettiva diminuzione di emissione di gas‐serra nell’ ambiente. Ci si riferisce, in particolare, ai progetti relativi all’illuminazione pubblica, alla mobilità sostenibile, all’efficientamento energetico di immobili scolastici. Mentre il Piano Urbano del Traffico (PUT) approvato a fine 2013 e il più recente Piano d’impresa AMAT S.p.a. prevedono un gruppo di azioni volte alla riduzione del traffico veicolare privato a vantaggio di quello pubblico, tra cui: 
+
+* l’avvio operativo di una estesa zona a traffico limitato (ZTL) 
+
+* un raddoppio delle aree pedonali, che passano da circa 40 a 80 ettari 
+
+* una revisione del piano delle corsie riservate ai mezzi pubblici 
+
+* il telecontrollo della flotta pubblica, da potenziare e convertire in mezzi ecologici EURO6 
+
+* la valorizzazione dei parcheggi di interscambio e dei nodi di interscambio fra i sistemi di trasporto 
+
+* servizi speciali di trasporto (es. studenti, ospedali, località turistiche, car‐sharing) 
+
+* notevole estensione delle piste ciclabili, da 8,5 a oltre 40 km servizi di collegamento con i Comuni nell’area metropolitana la completa integrazione tariffaria.
+
+Strettamente funzionale a tale strategia risultano le competenze e i programmi avviati da AMG  Energia  S.p.a.  (anche  con  l’utilizzo  del  fondo  BEI  Jessica),  azienda  di  servizio controllata dal Comune di Palermo, che nel recente Piano Industriale al 2017 include l’upgrade della rete di distribuzione gas naturale (inclusa l’installazione di 18.000 smart meter entro il 2016), la realizzazione di una pluralità di interventi di efficientamento energetico, anche con formula ESCO (come indicato dal D.Lgs 102/2014 di recepimento della  direttiva  27/2012/UE  sull’efficienza  energetica),  l’installazione  di  impianti  di produzione di energia da fonti rinnovabili (fotovoltaico, biometano), l’utilizzo del metano per  autotrazione,  e  la  valorizzazione  in  chiave  innovativa  (energia,  ICT)  di  un comprensorio aziendale, già oggetto di investimenti per la rifunzionalizzazione di alcune strutture  secondo  criteri  di  compatibilità  ambientale,  da  trasformare  in  “Polo Mediterraneo Energia e Innovazione – Polo MEI”, sul  modello di alcune esperienze di successo in Italia e in Europa.
+
+ ----- copiato fino alla pg. 17 di 29 del pdf ------ 
 
 
 .. bottom of content
