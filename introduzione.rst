@@ -10,6 +10,7 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
 ..  Note:: 
 
     Con \ |LINK1|\  sono state adottate le \ |LINK2|\ .
+    "\ |STYLE0|\ ". [\ |LINK3|\ ].
 
 
 |REPLACE1|
@@ -17,7 +18,7 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
 
 .. admonition:: Obiettivi generali per le Green City
 
-    \ |STYLE0|\ 
+    \ |STYLE1|\ 
     
     LG 1 - Puntare sulla qualità urbanistica e architettonica delle città 
     
@@ -27,7 +28,7 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
     
     LG 4 - Rendere più sostenibile la mobilità urbana
     
-    \ |STYLE1|\ 
+    \ |STYLE2|\ 
     
     LG 5 - Puntare sulla rigenerazione urbana e rafforzare la tutela del suolo
     
@@ -37,7 +38,7 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
     
     LG 8 - Gestire l’acqua come risorsa strategica
     
-    \ |STYLE2|\ 
+    \ |STYLE3|\ 
     
     LG 9 - Abbattere le emissioni di gas serra 
     
@@ -47,7 +48,7 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
     
     LG 12 - Adottare misure per l’adattamento al cambiamento climatico
     
-    \ |STYLE3|\ 
+    \ |STYLE4|\ 
     
     LG 13 - Promuovere l’eco-innovazione 
     
@@ -60,7 +61,7 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
 
 |REPLACE2|
 
-Gli \ |STYLE4|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
+Gli \ |STYLE5|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
 
 .. _h2ff136d6661d726c646d0a537053:
 
@@ -384,15 +385,17 @@ Prospettive nazionali
 .. bottom of content
 
 
-.. |STYLE0| replace:: **1° obiettivo generale: assicurare un’elevata qualità ambientale**
+.. |STYLE0| replace:: *L'approvazione di queste linee guida - dichiarano il sindaco Leoluca Orlando ed il vice-sindaco, Sergio Marino Marino - è un passo fondamentale nell'ottica della costruzione di una pianificazione urbana in tutti i settori che mette al centro la vivibilità e la sostenibilità, che sono  precondizioni per i servizi ai cittadini e per lo sviluppo armonico della città*
 
-.. |STYLE1| replace:: **2° obiettivo generale: utilizzare le risorse in modo efficiente e circolare**
+.. |STYLE1| replace:: **1° obiettivo generale: assicurare un’elevata qualità ambientale**
 
-.. |STYLE2| replace:: **3° obiettivo generale: adottare misure per contrastare il cambiamento climatico**
+.. |STYLE2| replace:: **2° obiettivo generale: utilizzare le risorse in modo efficiente e circolare**
 
-.. |STYLE3| replace:: **4° obiettivo generale: promuovere l’eco-innovazione, la green economy e il miglioramento della governance**
+.. |STYLE3| replace:: **3° obiettivo generale: adottare misure per contrastare il cambiamento climatico**
 
-.. |STYLE4| replace:: **obiettivi**
+.. |STYLE4| replace:: **4° obiettivo generale: promuovere l’eco-innovazione, la green economy e il miglioramento della governance**
+
+.. |STYLE5| replace:: **obiettivi**
 
 
 .. |REPLACE1| raw:: html
@@ -410,4 +413,8 @@ Prospettive nazionali
 .. |LINK2| raw:: html
 
     <a href="https://www.fondazionesvilupposostenibile.org/wp-content/uploads/dlm_uploads/2018/09/Linee-Guida-per-le-Green-City_web.pdf" target="_blank">Linee Guida per le Green Cities</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=19599" target="_blank">Comunicato stampa istituzionale del 21.09.2018</a>
 
