@@ -44,6 +44,8 @@ azioni in corso
 
 * \ |LINK4|\  che  intende coinvolgere le società partecipate, le quali, entrando in azione in un circuito virtuoso  potrebbero produrre  energia, creando una  economia circolare  grazie a piccoli impianti amovibili che si possono posizionare ovunque.
 
+* \ |LINK5|\ .
+
 .. _h433254da6b476c4e23225cf134b78:
 
 azioni di medio periodo
@@ -72,4 +74,8 @@ azioni di medio periodo
 .. |LINK4| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/consiglio_sedute/_06082018083743.pdf" target="_blank">Lavori 3° Commissione consiliare di analisi di un progetto per la produzione di biogas e biometano</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=14595" target="_blank">Ai cantieri Culturali della Zisa premiate le scuole più virtuose in tema di raccolta differenziata della plastica, 18.05.2017</a>
 
