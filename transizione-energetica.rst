@@ -4,44 +4,22 @@
 Transizione energetica
 ######################
 
-.. _h38574b6734656724137b6c421c635e:
+.. _hb4d6d2e47501d195d23c471d59394a:
 
-inquadramento generale: politiche e strategie
-*********************************************
+→ inquadramento generale: politiche e strategie
+***********************************************
 
-.. _h394831537a6f64b71731e4776636875:
+.. _h4b634e3e3c4126794f75e74611d677:
 
-dati di riferimento: indicatore/indicatori
-******************************************
-
-.. _h2b78f22504c262a4a2021177927f65:
-
-governance territoriale (?)
-***************************
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h7e6a5c4e3272232028681355173e76:
-
-Piano di Azione per l’Energia Sostenibile - PAES (2013)
-=======================================================
-
-\ |LINK1|\  Patto dei Sindaci dell’unione Europea.
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
+→ dati di riferimento: indicatore/indicatori
+********************************************
 
 .. _h5d6b2c4131267a1a3a5d422f1bd6520:
 
 Documento di Strategia Urbana (edizione 2017)
 =============================================
 
-\ |LINK2|\  \ |STYLE0|\ . 
+\ |LINK1|\  \ |STYLE0|\ . 
 
 Il bilancio energetico di Palermo equivale a oltre \ |STYLE1|\ , attribuibili  per  la  quasi  totalità  a  fonti  fossili  (prodotti  petroliferi  e  gas  naturale, quest’ultimo con un consumo prossimo ai 90 Mm3/anno) ed energia elettrica (circa 160 ktep nel 2012, fonte: Istat). 
 
@@ -57,27 +35,119 @@ Così  come  la  scommessa  del  completo  recupero  ambientale  e  contestuale 
 
 Mentre non viene qui annoverata la questione del verde urbano perché in linea di principio – ovvero non entrando nel merito della fruibilità – il territorio comunale dispone di una tra le più elevate percentuali di aree verdi a livello nazionale (33,9%, fonte: Dipartimento Stato dell’Ambiente e Metereologia Ambientale), grazie soprattutto al Parco della Favorita (creato nel 1800 da Ferdinando III di Borbone) che, con i suoi 40 kmq, circonda il Monte Pellegrino, congiungendo i due golfi di Palermo e Mondello.  
 
+.. _h71d3a21c415c7255774646654a4621:
+
+→ governance territoriale (?)
+*****************************
+
+.. _h7e6a5c4e3272232028681355173e76:
+
+Piano di Azione per l’Energia Sostenibile - PAES (2013)
+=======================================================
+
+\ |LINK2|\  Patto dei Sindaci dell’unione Europea.
+
 |
 
-.. _h647b6431691d2335f764b73220427b:
+.. _h8233125c1c1336a94263f42691:
 
-obiettivi di medio e lungo periodo
-**********************************
+→ obiettivi di medio e lungo periodo
+************************************
 
-.. _h5b441875a1643551d4f2e681148281b:
+Dal \ |LINK3|\ 
 
-strategie 
-**********
+.. _h1a6767726c44316522f442a6782:
 
-.. _h7346a182b73685f55405d3a524ae42:
+Area di intervento 1 – Risparmio energetico e sviluppo delle fonti rinnovabili 
+===============================================================================
 
-azioni in corso 
-****************
+* Azione 1.1 - Energy Management System 
 
-.. _h433254da6b476c4e23225cf134b78:
+* Azione 1.2: Campagna di Energy audit negli edifici comunali. 
 
-azioni di medio periodo
-***********************
+* Azione  1.3: Realizzazione  di un "catasto energetico informatizzato" per gli edifici e gli  impianti  (ai sensi del D.Lgs 192/05 e s.m.i.). 
+
+* Azione  1.4:  Aggiornamento  del  capitolo  energia  del  Regolamento  Edilizio  Comunale  per  la  sostenibilità ambientale 
+
+* Azione 1.5: Promozione dell’attività e delle funzioni degli Energy Manager 
+
+* Azione 1.6: Interventi per il miglioramento dell’efficienza energetica e certificazione energetica negli edifici di proprietà comunale 
+
+* Azione 1.7: Interventi per il miglioramento dell’efficienza energetica e certificazione energetica in tutto il territorio comunale 
+
+* Azione 1.8: Realizzazione di progetti pilota per la riduzione dei consumi energetici negli edifici pubblici 
+
+* Azione 1.9: Interventi per il miglioramento dell’efficienza energetica negli impianti di illuminazione pubblica 
+
+* Azione 1.10:  Risparmio energetico nelle lanterne semaforiche 
+
+* Azione 1.11: Illuminazione ad alta efficienza nel settore terziario 
+
+* Azione 1.12: Office equipment ad alta efficienza negli uffici del terziario  
+
+* Azione 1.13: Campagna elettrodomestici ad alta efficienza 
+
+* Azione 1.14: Campagna illuminazione domestica ad alta efficienza 
+
+* Azione  1.15:  Campagna  di  controllo  degli  impianti  termici  e  dematerializzazione  delle  procedure  (Bollino verde). 
+
+* Azione 1.16: Il risparmio energetico nel settore turistico e certificazione ambientale delle strutture ricettive 
+
+* Azione 1.17: Installazione di impianti solari termici e fotovoltaici su patrimonio edilizio comunale 
+
+* Azione 1.18: Installazione di impianti solari termici e fotovoltaici in edifici privati 
+
+.. _h6241967266358b171b3f4762267e10:
+
+Area di intervento 2 – Mobilità sostenibile
+===========================================
+
+* Azione 2.1: Azioni di mobility management 
+
+* Azione 2.2: Promozione del carpooling 
+
+* Azione 2.3: Promozione del car sharing e del bike sharing  
+
+* Azione 2.4: Miglioramento ambientale della flotta per il trasporto pubblico e infrastrutture connesse 
+
+* Azione 2.5: Progetto pilota per la promozione dell’auto elettrica 
+
+* Azione 2.6: Istituzione di Zone a Traffico Limitato (ZTL) 
+
+* Azione 2 .7: Miglioramento della rete delle piste ciclabili  
+
+* Azione 2.8: Ampliamento delle aree pedonali esistenti 
+
+* Azione 2.9: Potenziamento della Centrale di Controllo del Traffico Urbano (CCTU) 
+
+* Azione 2.10: Miglioramento dell’efficienza autovetture private 
+
+* Azione 2.11: Programma di sostituzione dei mezzi inquinanti della flotta comunale con altri a basse emissioni 
+
+* Azione 2.12: Potenziamento della rete dei distributori del metano per autotrazione Azione 2.13: Realizzazione dell’anello ferroviario sotterraneo 
+
+* Azione 2.14: Realizzazione del sistema tramviario 
+
+* Azione 2.15: Il raddoppio del passante ferroviario Palermo-Punta Raisi 
+
+* Azione 2.16: Infomobilità per il potenziamento dell’intermodalità tra i sistemi di trasporto pubblico e privato. 
+
+* Azione 2.17: Monitoraggio delle emissioni inquinanti e di CO2 dei mezzi di trasporto 
+
+.. _h595564112b2d613b466e1a454753a4b:
+
+→ strategie 
+************
+
+.. _h50520577496642920196e31784467:
+
+→ azioni in corso 
+******************
+
+.. _h52357ad17f6c627f3b152518583c50:
+
+→ azioni di medio periodo
+*************************
 
 
 .. bottom of content
@@ -90,9 +160,13 @@ azioni di medio periodo
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo.</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo.</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo</a>
 
