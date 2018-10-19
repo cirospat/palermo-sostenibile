@@ -29,10 +29,18 @@ obiettivi di medio e lungo periodo
 strategie 
 **********
 
-.. _h7346a182b73685f55405d3a524ae42:
+.. _h61c52e40746958311a6e7d6534251d:
 
-azioni in corso 
-****************
+azioni in corso
+***************
+
+* \ |LINK1|\ . 
+
+* \ |LINK2|\ .
+
+* \ |LINK3|\ .
+
+|REPLACE1|
 
 .. _h433254da6b476c4e23225cf134b78:
 
@@ -41,3 +49,21 @@ azioni di medio periodo
 
 
 .. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <img src="https://www.comune.palermo.it/js/server/uploads/220x220/_25092018100554.png" /> 
+
+.. |LINK1| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=3&id=19648" target="_blank">Convegno Eco Forum del 28.09.2018</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=13921" target="_blank">L’Istituto Tecnico Einaudi a lezione ambientale all’impianto di Trattamento Meccanico Biologico di Bellolampo</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://www.comune.palermo.it/appuntamenti_det.php?id=19649" target="_blank">100 Piazze per differenziare, 30.09.2018</a>
+
