@@ -38,10 +38,10 @@ Così  come  la  scommessa  del  completo  recupero  ambientale  e  contestuale 
 
 Mentre non viene qui annoverata la questione del verde urbano perché in linea di principio – ovvero non entrando nel merito della fruibilità – il territorio comunale dispone di una tra le più elevate percentuali di aree verdi a livello nazionale (33,9%, fonte: Dipartimento Stato dell’Ambiente e Metereologia Ambientale), grazie soprattutto al Parco della Favorita (creato nel 1800 da Ferdinando III di Borbone) che, con i suoi 40 kmq, circonda il Monte Pellegrino, congiungendo i due golfi di Palermo e Mondello.  
 
-.. _h5a6745852532498d2d27b592660:
+.. _h1a1269263e1e3349432e77696a71d7c:
 
-Governance territoriale (?)
-***************************
+Governance territoriale
+***********************
 
 .. _h7e6a5c4e3272232028681355173e76:
 
