@@ -365,7 +365,7 @@ Strettamente funzionale a tale strategia risultano le competenze e i programmi a
 
 .. |REPLACE1| raw:: html
 
-    <img src="http://www.ponmetropalermo.it/documents/20143/31059/LogoPonMetro.png" width=400 />
+    <img src="http://www.ponmetropalermo.it/documents/20143/31059/LogoPonMetro.png" width=270 />
 
 .. |LINK1| raw:: html
 
