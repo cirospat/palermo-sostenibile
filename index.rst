@@ -7,7 +7,14 @@ Sostenibilità a Palermo
 
 |REPLACE1|
 
-Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo documento illustra, con testo e mappe, le informazioni sulla sostenibilità a Palermo. [Edizione 2018].
+Dalla \ |LINK1|\  alla ``sostenibilità`` nel territorio comunale di Palermo. Questo documento illustra le informazioni e i dati sulla sostenibilità a Palermo. [Edizione 2018].
+
+.. _h2f7930238201626646313b50147011:
+
+Sostenibilità
+-------------
+
+“\ |STYLE0|\ ” [Definizione di “\ |LINK2|\ ” da Wikipedia].
 
 
 |REPLACE2|
@@ -37,7 +44,7 @@ Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo
 
 |
 
-\ |STYLE0|\  (fonte: \ |LINK2|\ )
+\ |STYLE1|\  (fonte: \ |LINK3|\ )
 
 |REPLACE3|
 
@@ -52,7 +59,9 @@ Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Mappa della tipologia delle risorse naturali a Palermo**
+.. |STYLE0| replace:: *La sostenibilità è la caratteristica di un processo o di uno stato che può essere mantenuto ad un certo livello indefinitamente. In ambito ambientale, economico e sociale, essa è il processo di cambiamento nel quale lo sfruttamento delle risorse, il piano degli investimenti, l'orientamento dello sviluppo tecnologico e le modifiche istituzionali sono tutti in sintonia e valorizzano il potenziale attuale e futuro al fine di far fronte ai bisogni e alle aspirazioni dell'uomo.*
+
+.. |STYLE1| replace:: **Mappa della tipologia delle risorse naturali a Palermo**
 
 
 .. |REPLACE1| raw:: html
@@ -77,6 +86,10 @@ Dalla \ |LINK1|\  alla sostenibilità nel territorio comunale di Palermo. Questo
     <a href="http://www.comune.bologna.it/sites/default/files/documenti/Carta%20di%20bologna%20per%20l%27ambiente.pdf" target="_blank">Carta di Bologna</a>
 
 .. |LINK2| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Sostenibilit%C3%A0" target="_blank">sostenibilità</a>
+
+.. |LINK3| raw:: html
 
     <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano Strategico di Palermo, 2008</a>
 
