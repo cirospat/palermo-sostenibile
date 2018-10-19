@@ -9,25 +9,35 @@ Economia circolare
 inquadramento generale: politiche e strategie
 *********************************************
 
+|
+
 .. _h394831537a6f64b71731e4776636875:
 
 dati di riferimento: indicatore/indicatori
 ******************************************
+
+|
 
 .. _h2b78f22504c262a4a2021177927f65:
 
 governance territoriale (?)
 ***************************
 
+|
+
 .. _h647b6431691d2335f764b73220427b:
 
 obiettivi di medio e lungo periodo
 **********************************
 
+|
+
 .. _h5b441875a1643551d4f2e681148281b:
 
 strategie 
 **********
+
+|
 
 .. _h61c52e40746958311a6e7d6534251d:
 
@@ -45,6 +55,8 @@ azioni in corso
 * \ |LINK4|\  che  intende coinvolgere le società partecipate, le quali, entrando in azione in un circuito virtuoso  potrebbero produrre  energia, creando una  economia circolare  grazie a piccoli impianti amovibili che si possono posizionare ovunque.
 
 * \ |LINK5|\ .
+
+|
 
 .. _h433254da6b476c4e23225cf134b78:
 
