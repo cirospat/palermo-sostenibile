@@ -19,7 +19,10 @@ Dati di riferimento: indicatore/indicatori
 Documento di Strategia Urbana (edizione 2017)
 =============================================
 
-\ |LINK1|\  \ |STYLE0|\ . 
+
+|REPLACE1|
+
+\ |LINK1|\  - \ |STYLE0|\ . 
 
 Il bilancio energetico di Palermo equivale a oltre \ |STYLE1|\ , attribuibili  per  la  quasi  totalità  a  fonti  fossili  (prodotti  petroliferi  e  gas  naturale, quest’ultimo con un consumo prossimo ai 90 Mm3/anno) ed energia elettrica (circa 160 ktep nel 2012, fonte: Istat). 
 
@@ -174,10 +177,14 @@ Azioni di medio periodo
 .. bottom of content
 
 
-.. |STYLE0| replace:: **- Estratto della sezione “Produzione e uso finale di energia”**
+.. |STYLE0| replace:: **Estratto della sezione “Produzione e uso finale di energia”**
 
 .. |STYLE1| replace:: **500 ktep in termini di energia primaria**
 
+
+.. |REPLACE1| raw:: html
+
+    <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/paes.png" />
 
 .. |LINK1| raw:: html
 
