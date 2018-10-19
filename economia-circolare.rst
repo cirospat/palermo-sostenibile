@@ -42,6 +42,8 @@ azioni in corso
 
 |REPLACE1|
 
+* \ |LINK4|\  che  intende coinvolgere le società partecipate, le quali, entrando in azione in un circuito virtuoso  potrebbero produrre  energia, creando una  economia circolare  grazie a piccoli impianti amovibili che si possono posizionare ovunque.
+
 .. _h433254da6b476c4e23225cf134b78:
 
 azioni di medio periodo
@@ -66,4 +68,8 @@ azioni di medio periodo
 .. |LINK3| raw:: html
 
     <a href="https://www.comune.palermo.it/appuntamenti_det.php?id=19649" target="_blank">100 Piazze per differenziare, 30.09.2018</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/consiglio_sedute/_06082018083743.pdf" target="_blank">Lavori 3° Commissione consiliare di analisi di un progetto per la produzione di biogas e biometano</a>
 
