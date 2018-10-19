@@ -139,6 +139,27 @@ Area di intervento 2 – Mobilità sostenibile
 → strategie 
 ************
 
+Dal \ |LINK4|\ 
+
+.. _h177e36474666553a831243c534c7047:
+
+Area di intervento 3 - Informazione, formazione ed altre attività di comunicazione
+==================================================================================
+
+* Azione  3.1: Formazione di figure professionali con competenza sull’efficienza energetica e lo sviluppo di fonti energetiche rinnovabili. 
+
+* Azione 3.2: Progetto “Energia a scuola”. 
+
+* Azione  3.3: Promozione  della  Certificazione  Energetica  e  del  regime  degli  incentivi  nazionali  in  tema  di efficienza energetica. 
+
+* Azione 3.4: Promozione del Green Public Procurement (GPP) negli acquisti pubblici. 
+
+* Azione 3.5: Etichetta Ecologica per la Sostenibilità degli esercizi commerciali.
+
+* Azione 3.6: Valorizzazione del verde per la riduzione delle “isole di calore” e delle emissioni di gas serra.
+
+* Azione 3.7 Monitoraggio e verifica del raggiungimento degli obiettivi del PAES.
+
 .. _h50520577496642920196e31784467:
 
 → azioni in corso 
@@ -167,6 +188,10 @@ Area di intervento 2 – Mobilità sostenibile
     <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo.</a>
 
 .. |LINK3| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo</a>
+
+.. |LINK4| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo</a>
 
