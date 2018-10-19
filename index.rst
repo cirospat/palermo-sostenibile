@@ -31,7 +31,7 @@ Definizione di “sostenibilità”
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: Indice dei contenuti 
+    :caption: Obiettivi della Carta di Bologna 
 
     adattamento-cambiamenti-climatici
     economia-circolare
