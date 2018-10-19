@@ -14,7 +14,13 @@ Linee Guida per le Green City
 
 ..  Note:: 
 
-    Con \ |LINK1|\  sono state adottate le \ |LINK2|\ .
+    Con \ |LINK1|\  sono state adottate le \ |LINK2|\  decidendo:
+    
+    #. di  adottare  le Linee  Guida  per  le  Green  City come  strumento  di  governance  della  città  di Palermo; 
+    
+    #. di  assumere  le Linee  Guida  per  le  Green  City  come  agenda  di  lavoro  per  tutte  le  attività  di pianificazione e progettazione del territorio comunale; 
+    
+    #. di dare mandato a tutti gli uffici e dirigenti della Amministrazione Comunale affinché seguano, nella loro azione amministrativa, le disposizioni e le strategie delle Linee Guida per le Green City, che dovrà  essere  considerata  come  prioritaria  e  peculiare  metodologia  operativa  per  tutti  gli  interventi sui temi della sostenibilità ambientale integrata.
     "\ |STYLE0|\ ". [\ |LINK3|\ ].
 
 
