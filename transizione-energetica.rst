@@ -4,15 +4,15 @@
 Transizione energetica
 ######################
 
-.. _hb4d6d2e47501d195d23c471d59394a:
+.. _h327a231f3163241a8069125935c2f7d:
 
-→ inquadramento generale: politiche e strategie
-***********************************************
+Inquadramento generale: politiche e strategie
+*********************************************
 
-.. _h4b634e3e3c4126794f75e74611d677:
+.. _h256f632c362f5d7f681e84f73221c:
 
-→ dati di riferimento: indicatore/indicatori
-********************************************
+Dati di riferimento: indicatore/indicatori
+******************************************
 
 .. _h5d6b2c4131267a1a3a5d422f1bd6520:
 
@@ -35,10 +35,10 @@ Così  come  la  scommessa  del  completo  recupero  ambientale  e  contestuale 
 
 Mentre non viene qui annoverata la questione del verde urbano perché in linea di principio – ovvero non entrando nel merito della fruibilità – il territorio comunale dispone di una tra le più elevate percentuali di aree verdi a livello nazionale (33,9%, fonte: Dipartimento Stato dell’Ambiente e Metereologia Ambientale), grazie soprattutto al Parco della Favorita (creato nel 1800 da Ferdinando III di Borbone) che, con i suoi 40 kmq, circonda il Monte Pellegrino, congiungendo i due golfi di Palermo e Mondello.  
 
-.. _h71d3a21c415c7255774646654a4621:
+.. _h5a6745852532498d2d27b592660:
 
-→ governance territoriale (?)
-*****************************
+Governance territoriale (?)
+***************************
 
 .. _h7e6a5c4e3272232028681355173e76:
 
@@ -49,10 +49,10 @@ Piano di Azione per l’Energia Sostenibile - PAES (2013)
 
 |
 
-.. _h8233125c1c1336a94263f42691:
+.. _h0686821523b385e435a2a761ff4b45:
 
-→ obiettivi di medio e lungo periodo
-************************************
+Obiettivi di medio e lungo periodo
+**********************************
 
 Dal \ |LINK3|\ 
 
@@ -134,10 +134,10 @@ Area di intervento 2 – Mobilità sostenibile
 
 * Azione 2.17: Monitoraggio delle emissioni inquinanti e di CO2 dei mezzi di trasporto 
 
-.. _h595564112b2d613b466e1a454753a4b:
+.. _h45174419596069e143563e65522947:
 
-→ strategie 
-************
+Strategie 
+**********
 
 Dal \ |LINK4|\ 
 
@@ -160,15 +160,15 @@ Area di intervento 3 - Informazione, formazione ed altre attività di comunicazi
 
 * Azione 3.7 Monitoraggio e verifica del raggiungimento degli obiettivi del PAES.
 
-.. _h50520577496642920196e31784467:
+.. _h5848122fa71302c172c255419407b10:
 
-→ azioni in corso 
-******************
+Azioni in corso 
+****************
 
-.. _h52357ad17f6c627f3b152518583c50:
+.. _h2a1f625ca645c176c487a146b4e3612:
 
-→ azioni di medio periodo
-*************************
+Azioni di medio periodo
+***********************
 
 
 .. bottom of content
