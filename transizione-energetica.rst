@@ -12,6 +12,8 @@ Transizione energetica
 Inquadramento generale: politiche e strategie
 *********************************************
 
+|
+
 .. _h256f632c362f5d7f681e84f73221c:
 
 Dati di riferimento: indicatore/indicatori
@@ -32,6 +34,8 @@ D’altra parte, i settori maggiormente energivori prima menzionati, offrono amp
 Così  come  la  scommessa  del  completo  recupero  ambientale  e  contestuale  rilancio economico di alcune significative aree insite nel perimetro urbano (es. Chimica Arenella, Ex Officina Gas). 
 
 Mentre non viene qui annoverata la questione del verde urbano perché in linea di principio – ovvero non entrando nel merito della fruibilità – il territorio comunale dispone di una tra le più elevate percentuali di aree verdi a livello nazionale (33,9%, fonte: Dipartimento Stato dell’Ambiente e Metereologia Ambientale), grazie soprattutto al Parco della Favorita (creato nel 1800 da Ferdinando III di Borbone) che, con i suoi 40 kmq, circonda il Monte Pellegrino, congiungendo i due golfi di Palermo e Mondello.  
+
+|
 
 .. _h1a1269263e1e3349432e77696a71d7c:
 
@@ -132,6 +136,8 @@ Area di intervento 2 – Mobilità sostenibile
 
 * Azione 2.17: Monitoraggio delle emissioni inquinanti e di CO2 dei mezzi di trasporto 
 
+|
+
 .. _h45174419596069e143563e65522947:
 
 Strategie 
@@ -158,10 +164,14 @@ Area di intervento 3 - Informazione, formazione ed altre attività di comunicazi
 
 * Azione 3.7 Monitoraggio e verifica del raggiungimento degli obiettivi del PAES.
 
+|
+
 .. _h5848122fa71302c172c255419407b10:
 
 Azioni in corso 
 ****************
+
+|
 
 .. _h2a1f625ca645c176c487a146b4e3612:
 
