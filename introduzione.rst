@@ -6,6 +6,8 @@ Introduzione alla Carta di Bologna
 
 I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giugno 2017 in occasione dell'incontro dei Ministri all'Ambiente dei paesi del G7, hanno sottoscritto la Carta di Bologna per l’Ambiente.
 
+--------
+
 .. _h64121a714d456f15392471312e4a5e:
 
 Linee Guida per le Green City
@@ -78,6 +80,8 @@ Obiettivi generali per le Green City
 * LG 14 - Sviluppare la green economy
 
 * LG 15 - Migliorare la governance
+
+--------
 
 |
 
