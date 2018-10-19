@@ -189,7 +189,7 @@ Azioni di medio periodo
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/paes.png" width=250 />
+    <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/paes.png" width="250" /></a></p>
 
 .. |LINK1| raw:: html
 
