@@ -17,7 +17,7 @@ Inquadramento generale: politiche e strategie
 Dati di riferimento: indicatore/indicatori
 ******************************************
 
-Documento di Strategia Urbana (edizione 2017)\ |LINK1|\  - \ |STYLE0|\ . 
+\ |LINK1|\  - \ |STYLE0|\ . 
 
 Il bilancio energetico di Palermo equivale a oltre \ |STYLE1|\ , attribuibili  per  la  quasi  totalità  a  fonti  fossili  (prodotti  petroliferi  e  gas  naturale, quest’ultimo con un consumo prossimo ai 90 Mm3/anno) ed energia elettrica (circa 160 ktep nel 2012, fonte: Istat). 
 
@@ -183,7 +183,7 @@ Azioni di medio periodo
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana (2017)</a>
 
 .. |LINK2| raw:: html
 
