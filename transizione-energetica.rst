@@ -17,12 +17,9 @@ Inquadramento generale: politiche e strategie
 Dati di riferimento: indicatore/indicatori
 ******************************************
 
-.. _hb62a4c3d3753582a5b312568146612:
+Documento di Strategia Urbana (edizione 2017)\ |LINK1|\  - \ |STYLE0|\ . 
 
-Documento di Strategia Urbana (edizione 2017)\ |LINK1|\  - Estratto della sezione “Produzione e uso finale di energia”. 
-========================================================================================================================
-
-Il bilancio energetico di Palermo equivale a oltre \ |STYLE0|\ , attribuibili  per  la  quasi  totalità  a  fonti  fossili  (prodotti  petroliferi  e  gas  naturale, quest’ultimo con un consumo prossimo ai 90 Mm3/anno) ed energia elettrica (circa 160 ktep nel 2012, fonte: Istat). 
+Il bilancio energetico di Palermo equivale a oltre \ |STYLE1|\ , attribuibili  per  la  quasi  totalità  a  fonti  fossili  (prodotti  petroliferi  e  gas  naturale, quest’ultimo con un consumo prossimo ai 90 Mm3/anno) ed energia elettrica (circa 160 ktep nel 2012, fonte: Istat). 
 
 Si caratterizza per la mitezza delle condizioni climatiche (quasi 19 °C di temperatura media annuale, solo 750 °C gradi‐giorno) e per un consumo specifico pari a meno della metà della media nazionale (0,75 tep/ab), con una netta prevalenza di dei settori trasporti (60%, rispetto a una quota regionale pari al 45%) e residenziale (23%). 
 
@@ -175,7 +172,9 @@ Azioni di medio periodo
 .. bottom of content
 
 
-.. |STYLE0| replace:: **500 ktep in termini di energia primaria**
+.. |STYLE0| replace:: **Estratto della sezione “Produzione e uso finale di energia”**
+
+.. |STYLE1| replace:: **500 ktep in termini di energia primaria**
 
 
 .. |REPLACE1| raw:: html
