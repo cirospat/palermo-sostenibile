@@ -24,53 +24,67 @@ Con \ |LINK1|\  sono state adottate le \ |LINK2|\  decidendo:
 
 |REPLACE1|
 
+.. _h3262243724177138567976c1b1dc7e:
 
-.. admonition:: Obiettivi generali per le Green City
+Obiettivi generali per le Green City
+====================================
 
-    \ |STYLE4|\ 
-    
-    LG 1 - Puntare sulla qualità urbanistica e architettonica delle città 
-    
-    LG 2 - Garantire un’adeguata dotazione di infrastrutture verdi urbane e periurbane 
-    
-    LG 3 - Assicurare una buona qualità dell’aria 
-    
-    LG 4 - Rendere più sostenibile la mobilità urbana
-    
-    \ |STYLE5|\ 
-    
-    LG 5 - Puntare sulla rigenerazione urbana e rafforzare la tutela del suolo
-    
-    LG 6 - Estendere la riqualificazione, il recupero e la manutenzione del patrimonio edilizio esistente
-    
-    LG 7 - Sviluppare la prevenzione e il riciclo dei rifiuti verso un’economia circolare
-    
-    LG 8 - Gestire l’acqua come risorsa strategica
-    
-    \ |STYLE6|\ 
-    
-    LG 9 - Abbattere le emissioni di gas serra 
-    
-    LG 10 - Ridurre i consumi di energia 
-    
-    LG 11 - Sviluppare la produzione e l’uso di energia da fonti rinnovabili
-    
-    LG 12 - Adottare misure per l’adattamento al cambiamento climatico
-    
-    \ |STYLE7|\ 
-    
-    LG 13 - Promuovere l’eco-innovazione 
-    
-    LG 14 - Sviluppare la green economy
-    
-    LG 15 - Migliorare la governance
+.. _h266e48d47172d3a7875116643337d32:
+
+1° obiettivo generale: assicurare un’elevata qualità ambientale
+---------------------------------------------------------------
+
+* LG 1 - Puntare sulla qualità urbanistica e architettonica delle città 
+
+* LG 2 - Garantire un’adeguata dotazione di infrastrutture verdi urbane e periurbane 
+
+* LG 3 - Assicurare una buona qualità dell’aria 
+
+* LG 4 - Rendere più sostenibile la mobilità urbana
+
+.. _h499794b1482e285513771741fe41:
+
+2° obiettivo generale: utilizzare le risorse in modo efficiente e circolare
+---------------------------------------------------------------------------
+
+* LG 5 - Puntare sulla rigenerazione urbana e rafforzare la tutela del suolo
+
+* LG 6 - Estendere la riqualificazione, il recupero e la manutenzione del patrimonio edilizio esistente
+
+* LG 7 - Sviluppare la prevenzione e il riciclo dei rifiuti verso un’economia circolare
+
+* LG 8 - Gestire l’acqua come risorsa strategica
+
+.. _h4f7c23627620683b3d1a303c3c7d2376:
+
+3° obiettivo generale: adottare misure per contrastare il cambiamento climatico
+-------------------------------------------------------------------------------
+
+* LG 9 - Abbattere le emissioni di gas serra 
+
+* LG 10 - Ridurre i consumi di energia 
+
+* LG 11 - Sviluppare la produzione e l’uso di energia da fonti rinnovabili
+
+* LG 12 - Adottare misure per l’adattamento al cambiamento climatico
+
+.. _h593e715914455b512149347d476c7b:
+
+4° obiettivo generale: promuovere l’eco-innovazione, la green economy e il miglioramento della governance
+---------------------------------------------------------------------------------------------------------
+
+* LG 13 - Promuovere l’eco-innovazione 
+
+* LG 14 - Sviluppare la green economy
+
+* LG 15 - Migliorare la governance
 
 |
 
 
 |REPLACE2|
 
-Gli \ |STYLE8|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
+Gli \ |STYLE4|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
 
 .. _h2ff136d6661d726c646d0a537053:
 
@@ -244,21 +258,21 @@ Prospettive nazionali
 Obiettivi internazionali
 ========================
 
-* I limiti europei vigenti per il particolato sono: per il Pm 10 40 μg/mc come media annuale e 50 μg/mc come valore giornaliero che non può essere superato per più di 35 giorni l’anno; per il Pm 2,5 25 μg/mc come media annuale. Il limite massimo stabilito dall’Organizzazione mondiale della sanità (Oms) per il Pm 2,5 è di 10 μg/mc.
+* I limiti europei vigenti per il particolato sono: per il Pm10 40 μg/mc come media annuale e 50 μg/mc come valore giornaliero che non può essere superato per più di 35 giorni l’anno; per il Pm2,5 25 μg/mc come media annuale. Il limite massimo stabilito dall’Organizzazione mondiale della sanità (Oms) per il Pm2,5 è di 10 μg/mc.
 
 .. _h14831924d5a1b34e5760532624:
 
 Obiettivi per le Città metropolitane e le aree urbane
 =====================================================
 
-* Rispetto dei limiti per i l Pm 10, superando le procedure di infrazione Ue verso l’Italia, e rispetto del limite stabilito dall’Oms per il particolato sottile di 10 μg/mc, più restrittivo di quello europeo, entro il 2025.
+* Rispetto dei limiti per i l Pm10, superando le procedure di infrazione Ue verso l’Italia, e rispetto del limite stabilito dall’Oms per il particolato sottile di 10 μg/mc, più restrittivo di quello europeo, entro il 2025.
 
 .. _h16342f6c7b1910173e7d941e505bb:
 
 Prospettive
 ===========
 
-* Concertazione interistituzionale con il Tavolo per la qualità dell’aria istituito presso il Ministero dell’Ambiente per il monitoraggio dei risultati conseguiti con il Protocollo di Intesa per la qualità dell’aria sottoscritto il 30 dicembre 2015 fra Ministero dell’Ambiente, Regioni e Anci e delle relative azioni immediate individuate il 2 febbraio2016. 
+* Concertazione interistituzionale con il Tavolo per la qualità dell’aria istituito presso il Ministero dell’Ambiente per il monitoraggio dei risultati conseguiti con il Protocollo di Intesa per la qualità dell’aria sottoscritto il 30 dicembre 2015 tra Ministero dell’Ambiente, Regioni e Anci e delle relative azioni immediate individuate il 2 febbraio 2016. 
 
 * Promozione da parte delle Regioni di accordi di programma fra i diversi enti territoriali per coordinare le politiche di contrasto delle emissioni inquinanti in atmosfera che comprendano misure di livello locale (blocchi del traffico, Zone a traffico limitato, congestion charge, ecc.) e nazionale (incentivi per il rinnovo degli impianti di riscaldamento, per la mobilità sostenibile, ecc.). Riconversione del parco veicolare (green vehicles), con un forte ridimensionamento della motorizzazione diesel in favore di veicoli meno inquinanti attraverso specifiche limitazioni alla circolazione e politiche fiscali premianti. 
 
@@ -304,7 +318,7 @@ Prospettive nazionali
 
 * Programmazione dell’uso delle risorse idriche a livello di bacino per rendere compatibili le esigenze delle aree urbane con le altre compresa la produzione di energia. 
 
-* Divieto di rilascio di concessioni di derivazione d’acqua a scopo idroelettrico nei Siti di importanza comunitaria (Sic) e nelle Zone speciali di conservazione (Zsc), nelle aree protette ricadenti nei territori facenti parte dei Bacini imbriferi montani (Bim), nei bacini idrografici la cui superficie sottesa dall’impianto in progetto sia minore di 10 kmq. Abrogazione delle tariffe incentivate per gli impianti di potenza installata inferiore o uguale a 1 Mw con l’eccezione di quelli che utilizzino infrastrutture acquedottistiche o quelli costruiti su canali a destinazione irrigua, purché utilizzino esclusivamente le acque già concesse, nei limiti delle portate istantanee e dei periodi di utilizzo. Destinazione di almeno il 10% dell’impo rto complessivo annuo dei proventi dei canoni derivanti dalle concessioni ad interventi di miglioramento delle reti irrigue e di riconversione dei sistemi di irrigazione con preferenza verso il sistema a goccia. 
+* Divieto di rilascio di concessioni di derivazione d’acqua a scopo idroelettrico nei Siti di importanza comunitaria (Sic) e nelle Zone speciali di conservazione (Zsc), nelle aree protette ricadenti nei territori facenti parte dei Bacini imbriferi montani (Bim), nei bacini idrografici la cui superficie sottesa dall’impianto in progetto sia minore di 10 kmq. Abrogazione delle tariffe incentivate per gli impianti di potenza installata inferiore o uguale a 1 Mw con l’eccezione di quelli che utilizzino infrastrutture acquedottistiche o quelli costruiti su canali a destinazione irrigua, purché utilizzino esclusivamente le acque già concesse, nei limiti delle portate istantanee e dei periodi di utilizzo. Destinazione di almeno il 10% dell’importo complessivo annuo dei proventi dei canoni derivanti dalle concessioni ad interventi di miglioramento delle reti irrigue e di riconversione dei sistemi di irrigazione con preferenza verso il sistema a goccia. 
 
 |
 
@@ -387,7 +401,7 @@ Prospettive nazionali
 
 * Incentivi - monetari, fiscali, di soft policy - ai sistemi di trasporto intelligente, alla mobilità elettrica, alla mobilità a basse emissioni (Fondo per la mobilità sostenibile nel collegato ambientale alla legge di Stabilità per il 2016). 
 
-* Rispetto degli obiettivi e dei tempi contenuti nel decreto legislativo n. 257 del 2016 per la realizzazione di una infrastruttura per i combustibili alternativi in coerenza con il Piano infrastrutturale nazionale di ricarica elettrica da attuare in accordo con le città e le Regioni. 
+* Rispetto degli obiettivi e dei tempi contenuti nel decreto legislativo n. 257 del 2016 per la realizzazione di un'infrastruttura per i combustibili alternativi in coerenza con il Piano infrastrutturale nazionale di ricarica elettrica da attuare in accordo con le città e le Regioni. 
 
 * Attuazione di quanto contenuto nel documento Elementi per una roadmap per la mobilità sostenibile elaborato dal Tavolo sulla mobilità della Presidenza del Consiglio dei Ministri, ed elaborazione da parte di Anci di linee guida per i comuni al fine di omogeneizzare la regolamentazione urbana della mobilità, compresa la limitazione alla circolazione dei veicoli più inquinanti nelle aree urbane con particolare riferimento ai motori diesel. 
 
@@ -402,15 +416,7 @@ Prospettive nazionali
 
 .. |STYLE3| replace:: *L'approvazione di queste linee guida - dichiarano il sindaco Leoluca Orlando ed il vice-sindaco, Sergio Marino Marino - è un passo fondamentale nell'ottica della costruzione di una pianificazione urbana in tutti i settori che mette al centro la vivibilità e la sostenibilità, che sono  precondizioni per i servizi ai cittadini e per lo sviluppo armonico della città*
 
-.. |STYLE4| replace:: **1° obiettivo generale: assicurare un’elevata qualità ambientale**
-
-.. |STYLE5| replace:: **2° obiettivo generale: utilizzare le risorse in modo efficiente e circolare**
-
-.. |STYLE6| replace:: **3° obiettivo generale: adottare misure per contrastare il cambiamento climatico**
-
-.. |STYLE7| replace:: **4° obiettivo generale: promuovere l’eco-innovazione, la green economy e il miglioramento della governance**
-
-.. |STYLE8| replace:: **obiettivi**
+.. |STYLE4| replace:: **obiettivi**
 
 
 .. |REPLACE1| raw:: html
