@@ -80,7 +80,7 @@ anello ferroviario
 
 .. |REPLACE1| raw:: html
 
-    <img src="http://www.rapspa.it/site/wp-content/uploads/2016/03/cabine-768x576.jpg" />
+    <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/cabine.jpg" />
 .. |REPLACE2| raw:: html
 
     <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
