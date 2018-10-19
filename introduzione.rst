@@ -11,17 +11,15 @@ I Sindaci e rappresentanti delle Città metropolitane, riuniti a Bologna l'8 giu
 Linee Guida per le Green City
 *****************************
 
+Con \ |LINK1|\  sono state adottate le \ |LINK2|\  decidendo:
 
-..  Note:: 
+#. di  adottare  le Linee  Guida  per  le  Green  City come  \ |STYLE0|\   della  città  di Palermo; 
 
-    Con \ |LINK1|\  sono state adottate le \ |LINK2|\  decidendo:
-    
-    #. di  adottare  le Linee  Guida  per  le  Green  City come  strumento  di  governance  della  città  di Palermo; 
-    
-    #. di  assumere  le Linee  Guida  per  le  Green  City  come  agenda  di  lavoro  per  tutte  le  attività  di pianificazione e progettazione del territorio comunale; 
-    
-    #. di dare mandato a tutti gli uffici e dirigenti della Amministrazione Comunale affinché seguano, nella loro azione amministrativa, le disposizioni e le strategie delle Linee Guida per le Green City, che dovrà  essere  considerata  come  prioritaria  e  peculiare  metodologia  operativa  per  tutti  gli  interventi sui temi della sostenibilità ambientale integrata.
-    "\ |STYLE0|\ ". [\ |LINK3|\ ].
+#. di  assumere  le Linee  Guida  per  le  Green  City  come  \ |STYLE1|\  del territorio comunale; 
+
+#. di dare mandato a tutti gli uffici e dirigenti della Amministrazione Comunale affinché seguano, nella loro azione amministrativa, le disposizioni e le strategie delle Linee Guida per le Green City, che dovrà  essere  considerata  come  \ |STYLE2|\  ambientale integrata.
+
+"\ |STYLE3|\ ". [\ |LINK3|\ ].
 
 
 |REPLACE1|
@@ -29,7 +27,7 @@ Linee Guida per le Green City
 
 .. admonition:: Obiettivi generali per le Green City
 
-    \ |STYLE1|\ 
+    \ |STYLE4|\ 
     
     LG 1 - Puntare sulla qualità urbanistica e architettonica delle città 
     
@@ -39,7 +37,7 @@ Linee Guida per le Green City
     
     LG 4 - Rendere più sostenibile la mobilità urbana
     
-    \ |STYLE2|\ 
+    \ |STYLE5|\ 
     
     LG 5 - Puntare sulla rigenerazione urbana e rafforzare la tutela del suolo
     
@@ -49,7 +47,7 @@ Linee Guida per le Green City
     
     LG 8 - Gestire l’acqua come risorsa strategica
     
-    \ |STYLE3|\ 
+    \ |STYLE6|\ 
     
     LG 9 - Abbattere le emissioni di gas serra 
     
@@ -59,7 +57,7 @@ Linee Guida per le Green City
     
     LG 12 - Adottare misure per l’adattamento al cambiamento climatico
     
-    \ |STYLE4|\ 
+    \ |STYLE7|\ 
     
     LG 13 - Promuovere l’eco-innovazione 
     
@@ -72,7 +70,7 @@ Linee Guida per le Green City
 
 |REPLACE2|
 
-Gli \ |STYLE5|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
+Gli \ |STYLE8|\  di riferimento delle agende metropolitane per lo sviluppo sostenibile sono i seguenti.
 
 .. _h2ff136d6661d726c646d0a537053:
 
@@ -396,17 +394,23 @@ Prospettive nazionali
 .. bottom of content
 
 
-.. |STYLE0| replace:: *L'approvazione di queste linee guida - dichiarano il sindaco Leoluca Orlando ed il vice-sindaco, Sergio Marino Marino - è un passo fondamentale nell'ottica della costruzione di una pianificazione urbana in tutti i settori che mette al centro la vivibilità e la sostenibilità, che sono  precondizioni per i servizi ai cittadini e per lo sviluppo armonico della città*
+.. |STYLE0| replace:: **strumento  di  governance**
 
-.. |STYLE1| replace:: **1° obiettivo generale: assicurare un’elevata qualità ambientale**
+.. |STYLE1| replace:: **agenda  di  lavoro  per  tutte  le  attività  di pianificazione e progettazione**
 
-.. |STYLE2| replace:: **2° obiettivo generale: utilizzare le risorse in modo efficiente e circolare**
+.. |STYLE2| replace:: **prioritaria  e  peculiare  metodologia  operativa  per  tutti  gli  interventi sui temi della sostenibilità**
 
-.. |STYLE3| replace:: **3° obiettivo generale: adottare misure per contrastare il cambiamento climatico**
+.. |STYLE3| replace:: *L'approvazione di queste linee guida - dichiarano il sindaco Leoluca Orlando ed il vice-sindaco, Sergio Marino Marino - è un passo fondamentale nell'ottica della costruzione di una pianificazione urbana in tutti i settori che mette al centro la vivibilità e la sostenibilità, che sono  precondizioni per i servizi ai cittadini e per lo sviluppo armonico della città*
 
-.. |STYLE4| replace:: **4° obiettivo generale: promuovere l’eco-innovazione, la green economy e il miglioramento della governance**
+.. |STYLE4| replace:: **1° obiettivo generale: assicurare un’elevata qualità ambientale**
 
-.. |STYLE5| replace:: **obiettivi**
+.. |STYLE5| replace:: **2° obiettivo generale: utilizzare le risorse in modo efficiente e circolare**
+
+.. |STYLE6| replace:: **3° obiettivo generale: adottare misure per contrastare il cambiamento climatico**
+
+.. |STYLE7| replace:: **4° obiettivo generale: promuovere l’eco-innovazione, la green economy e il miglioramento della governance**
+
+.. |STYLE8| replace:: **obiettivi**
 
 
 .. |REPLACE1| raw:: html
