@@ -161,13 +161,13 @@ La popolazione anziana residente a Palermo all’ultimo censimento del 2011 è p
 
 I dati riferiti alla richieste di Assistenza Domiciliare è di 718 richieste nel 2008, mentre sono emerse n. 222 richieste relative al Servizio di Assistenza Domiciliare Integrata (dati relativi al distretto e quindi anche Villabate).
 
-Riguardo alla popolazione anziana che necessita di ricovero in struttura i dati disponibili sono fermi all’anno 2009 dai quali risultano n. 100 persone in lista di attesa. 
+Riguardo alla popolazione anziana che necessita di ricovero in struttura i dati disponibili sono fermi all’anno 2009 dai quali risultano n. 100 persone in lista di attesa: 
 
 * n. 165 anziani ospiti in strutture del territorio;  
 
 * n. 136 di essi è emerso un bisogno sociale di natura relazionale;  
 
-* per n. 128 è stata confermata la permanenza in struttura; 
+* per n. 128 è stata confermata la permanenza in struttura;  
 
 * per n. 6 è stato necessario il trasferimento presso altre strutture maggiormente adeguate ai loro bisogni. 
 
