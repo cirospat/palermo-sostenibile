@@ -68,11 +68,11 @@ ll Team di lavoro comunale per la raccolta e aggiornamento dei dati e delle info
 
 * Arch. Paola Caselli (Area Servizi alla città) \ |LINK18|\ . Funzioni di coordinamento. 
 
-* Arch. …..
+* Arch. Giovanni Giannone (Area Servizi alla città) \ |LINK19|\ . Supporto al coordinamento
 
-* …….
+* Ing. Antonio Mazzon (Area Servizi alla città) \ |LINK20|\ . Dati nell'ambito energetico. 
 
-* Geom. Ciro Spataro (Area Servizi alla città) \ |LINK19|\ . Elaborazione dei dati e informazioni per la pubblicazione online con lo stile “Read the Docs”. 
+* Geom. \ |LINK21|\  (Area Servizi alla città) \ |LINK22|\ . Elaborazione dei dati e informazioni per la pubblicazione online della documentazione con lo stile “Read the Docs”. 
 
 * …..
 
@@ -174,6 +174,18 @@ ll Team di lavoro comunale per la raccolta e aggiornamento dei dati e delle info
     <a href="mailto:p.caselli@comune.palermo.it">p.caselli@comune.palermo.it</a>
 
 .. |LINK19| raw:: html
+
+    <a href="mailto:g.giannone@comune.palermo.it">g.giannone@comune.palermo.it</a>
+
+.. |LINK20| raw:: html
+
+    <a href="mailto:a.mazzon@comune.palermo.it">a.mazzon@comune.palermo.it</a>
+
+.. |LINK21| raw:: html
+
+    <a href="http://cirospat.readthedocs.io/" target="_blank">Ciro Spataro</a>
+
+.. |LINK22| raw:: html
 
     <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
 
