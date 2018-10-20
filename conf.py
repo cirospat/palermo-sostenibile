@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Palermo sostenibile'
+project = 'Sostenibilità a Palermo'
 copyright = 'CC BY'
 
 # The name of the Pygments (syntax highlighting) style to use.
