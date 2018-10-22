@@ -19,7 +19,10 @@ Definizione di “sostenibilità”
 
 |REPLACE2|
 
-Dall’adesione alla Carta di Bologna sono trascorsi 11 anni da quando è stata redatta la \ |LINK3|\  avvenuta nel 2006 [Fonte: \ |LINK4|\ ]. Diverse le azioni avviate e le pianificazioni introdotte in questo decennio per una maggiore tutela dell’ambiente e della biodiversità. 
+
+.. admonition:: Dal 1° rapporto sullo stato dell’ambiente alla Carta di Bologna
+
+    Sono trascorsi 11 anni da quando è stata redatta la \ |LINK3|\  avvenuta nel 2006 [Fonte: \ |LINK4|\ ]. Diverse le azioni avviate e le pianificazioni introdotte in questo decennio per una maggiore tutela dell’ambiente e della biodiversità. 
 
 
 .. toctree:: 
