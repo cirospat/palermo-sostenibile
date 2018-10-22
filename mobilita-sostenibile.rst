@@ -4,19 +4,23 @@
 Mobilità sostenibile
 ####################
 
-.. _h38574b6734656724137b6c421c635e:
+.. _h327a231f3163241a8069125935c2f7d:
 
-inquadramento generale: politiche e strategie
+Inquadramento generale: politiche e strategie
 *********************************************
 
-.. _h394831537a6f64b71731e4776636875:
+|
 
-dati di riferimento: indicatore/indicatori
+.. _h256f632c362f5d7f681e84f73221c:
+
+Dati di riferimento: indicatore/indicatori
 ******************************************
 
-.. _h5e421b4f70244e6d11d676b134357:
+|
 
-governance territoriale 
+.. _h43104565a44a2c6b501a66f162e43:
+
+Governance territoriale 
 ************************
 
 .. _h732d34638483d1734306454a65665a:
@@ -38,33 +42,44 @@ Il  PGTU  è  un  piano  di  breve  termine. Gli  obiettivi  di  carattere gener
 
 * individuare  strategie  integrate  che  operino  nel  senso  di  un  riequilibrio  modale  a favore dei mezzi meno inquinanti e a minor consumo energetico specifico.
 
+\ |LINK2|\  [Fonte dati: Amministrazione Trasparente].
+
+|
+
 .. _h6f725a286b6b62e7c761c7f71223716:
 
 Piano Strategico per la Mobilità Sostenibile (edizione 2007)
 ============================================================
 
-Il \ |LINK2|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale si dota “volontariamente”, che non sostituisce gli ordinari strumenti della pianificazione generale e di settore, regionali o locali che siano, ma piuttosto li integra, anche superandone l’approccio per ambito amministrativo,  per  metterli  a  sistema  in  una  strategia  di  sviluppo  complessiva  e  strutturale.
+Il \ |LINK3|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale si dota “volontariamente”, che non sostituisce gli ordinari strumenti della pianificazione generale e di settore, regionali o locali che siano, ma piuttosto li integra, anche superandone l’approccio per ambito amministrativo,  per  metterli  a  sistema  in  una  strategia  di  sviluppo  complessiva  e  strutturale.
+
+
+|
 
 .. _h5d6b2c4131267a1a3a5d422f1bd6520:
 
 Documento di Strategia Urbana (edizione 2017)
 =============================================
 
-\ |LINK3|\  \ |STYLE0|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
+\ |LINK4|\  \ |STYLE0|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
 
-.. _h647b6431691d2335f764b73220427b:
+.. _h0686821523b385e435a2a761ff4b45:
 
-obiettivi di medio e lungo periodo
+Obiettivi di medio e lungo periodo
 **********************************
 
-.. _h5b441875a1643551d4f2e681148281b:
+|
 
-strategie 
+.. _h45174419596069e143563e65522947:
+
+Strategie 
 **********
 
-.. _h61c52e40746958311a6e7d6534251d:
+|
 
-azioni in corso
+.. _h23166441701c481411c427b1d41360:
+
+Azioni in corso
 ***************
 
 Piste ciclabili
@@ -77,9 +92,11 @@ Trasporto pubblico su ferro
 
 Pedonalizzazioni
 
-.. _h433254da6b476c4e23225cf134b78:
+|
 
-azioni di medio periodo
+.. _h2a1f625ca645c176c487a146b4e3612:
+
+Azioni di medio periodo
 ***********************
 
 Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le periferie urbane.
@@ -108,9 +125,13 @@ Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le per
 
 .. |LINK2| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano Strategico per la Mobilità Sostenibile</a>
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=103&bsel=168" target="_blank">Elaborati del Piano Generale del Traffico Urbano</a>
 
 .. |LINK3| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano Strategico per la Mobilità Sostenibile</a>
+
+.. |LINK4| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana</a>
 
