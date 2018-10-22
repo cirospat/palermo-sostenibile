@@ -23,6 +23,8 @@ Dati di riferimento: indicatore/indicatori
 Governance territoriale (?)
 ***************************
 
+\ |LINK1|\ .
+
 |
 
 .. _h0686821523b385e435a2a761ff4b45:
@@ -47,19 +49,19 @@ Azioni in corso
 
 |REPLACE1|
 
-* \ |LINK1|\ , rete nazionale degli Enti territoriali contro lo spreco. 
+* \ |LINK2|\ , rete nazionale degli Enti territoriali contro lo spreco. 
 
-* \ |LINK2|\ . 
-
-* \ |LINK3|\ .
+* \ |LINK3|\ . 
 
 * \ |LINK4|\ .
 
+* \ |LINK5|\ .
+
 |REPLACE2|
 
-* \ |LINK5|\  che  intende coinvolgere le società partecipate, le quali, entrando in azione in un circuito virtuoso  potrebbero produrre  energia, creando una  economia circolare  grazie a piccoli impianti amovibili che si possono posizionare ovunque.
+* \ |LINK6|\  che  intende coinvolgere le società partecipate, le quali, entrando in azione in un circuito virtuoso  potrebbero produrre  energia, creando una  economia circolare  grazie a piccoli impianti amovibili che si possono posizionare ovunque.
 
-* \ |LINK6|\ .
+* \ |LINK7|\ .
 
 |
 
@@ -81,25 +83,29 @@ Azioni di medio periodo
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?id=11522" target="_blank">Adesione all’Associazione 'Sprecozero.net'</a>
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=20&asel=141" target="_blank">Regolamento sullo sviluppo sostenibile ai fini della convivenza tra le funzioni residenziali e le attività di esercizio pubblico e svago nelle aree private, pubbliche e demaniali</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=3&id=19648" target="_blank">Convegno Eco Forum del 28.09.2018</a>
+    <a href="https://www.comune.palermo.it/noticext.php?id=11522" target="_blank">Adesione all’Associazione 'Sprecozero.net'</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?id=13921" target="_blank">L’Istituto Tecnico Einaudi a lezione ambientale all’impianto di Trattamento Meccanico Biologico di Bellolampo</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=3&id=19648" target="_blank">Convegno Eco Forum del 28.09.2018</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.comune.palermo.it/appuntamenti_det.php?id=19649" target="_blank">100 Piazze per differenziare, 30.09.2018</a>
+    <a href="https://www.comune.palermo.it/noticext.php?id=13921" target="_blank">L’Istituto Tecnico Einaudi a lezione ambientale all’impianto di Trattamento Meccanico Biologico di Bellolampo</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/consiglio_sedute/_06082018083743.pdf" target="_blank">Lavori 3° Commissione consiliare di analisi di un progetto per la produzione di biogas e biometano</a>
+    <a href="https://www.comune.palermo.it/appuntamenti_det.php?id=19649" target="_blank">100 Piazze per differenziare, 30.09.2018</a>
 
 .. |LINK6| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/consiglio_sedute/_06082018083743.pdf" target="_blank">Lavori 3° Commissione consiliare di analisi di un progetto per la produzione di biogas e biometano</a>
+
+.. |LINK7| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?id=14595" target="_blank">Ai cantieri Culturali della Zisa premiate le scuole più virtuose in tema di raccolta differenziata della plastica, 18.05.2017</a>
 
