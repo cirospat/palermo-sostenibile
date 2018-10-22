@@ -59,11 +59,6 @@ azioni di medio periodo
 
 --------
 
-
-|REPLACE2|
-
---------
-
 |
 
 .. _h12755e670303d5977183b326174113:
@@ -124,7 +119,7 @@ Strategie
 **********
 
 
-|REPLACE3|
+|REPLACE2|
 
 Laboratorio cittadino “\ |LINK8|\ ”. \ |LINK9|\  del laboratorio.
 
@@ -157,7 +152,7 @@ Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le per
 --------
 
 
-|REPLACE4|
+|REPLACE3|
 
 --------
 
@@ -173,11 +168,8 @@ Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le per
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/cabine.jpg" />
 .. |REPLACE2| raw:: html
 
-    <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
-.. |REPLACE3| raw:: html
-
     <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" /></a></p>
-.. |REPLACE4| raw:: html
+.. |REPLACE3| raw:: html
 
     <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
 
