@@ -4,8 +4,6 @@
 Ecosistemi, verde urbano e tutela della biodiversità
 ####################################################
 
-bla bla bla
-
 |
 
 .. _h38574b6734656724137b6c421c635e:
@@ -36,16 +34,12 @@ inquadramento generale: politiche e strategie
 dati di riferimento: indicatore/indicatori
 ******************************************
 
-aaaaa
-
 |
 
 .. _h2b78f22504c262a4a2021177927f65:
 
 governance territoriale (?)
 ***************************
-
-aaaaa
 
 |
 
@@ -54,16 +48,12 @@ aaaaa
 obiettivi di medio e lungo periodo
 **********************************
 
-aaaa
-
 |
 
 .. _h5b441875a1643551d4f2e681148281b:
 
 strategie 
 **********
-
-aaaaa
 
 |
 
@@ -72,8 +62,6 @@ aaaaa
 azioni in corso 
 ****************
 
-aaaa
-
 |
 
 .. _h433254da6b476c4e23225cf134b78:
@@ -81,7 +69,6 @@ aaaa
 azioni di medio periodo
 ***********************
 
-aaaa
 
 .. bottom of content
 
