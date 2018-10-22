@@ -40,6 +40,13 @@ Definizione di “sostenibilità”
     adattamento-cambiamenti-climatici-transizione-energetica
     uso-sostenibile-suolo
 
+
+.. toctree:: 
+    :maxdepth: 3
+    :caption: Organizzazione 
+
+    team
+
 |
 
 --------
