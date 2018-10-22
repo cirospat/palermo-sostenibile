@@ -38,8 +38,6 @@ Definizione di “sostenibilità”
     economia-circolare
     ecosistemi-verdeurbano-tutelabiodiversita
     mobilita-sostenibile
-    qualita-acque
-    qualita-aria
     transizione-energetica
     uso-sostenibile-suolo
 
