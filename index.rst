@@ -34,11 +34,10 @@ Definizione di “sostenibilità”
     :maxdepth: 3
     :caption: Obiettivi 
 
-    adattamento-cambiamenti-climatici
     economia-circolare
     ecosistemi-verdeurbano-tutelabiodiversita
     mobilita-sostenibile
-    transizione-energetica
+    adattamento-cambiamenti-climatici-transizione-energetica
     uso-sostenibile-suolo
 
 |
