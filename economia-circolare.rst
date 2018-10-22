@@ -4,45 +4,48 @@
 Economia circolare
 ##################
 
-.. _h38574b6734656724137b6c421c635e:
+.. _h327a231f3163241a8069125935c2f7d:
 
-inquadramento generale: politiche e strategie
+Inquadramento generale: politiche e strategie
 *********************************************
 
 |
 
-.. _h394831537a6f64b71731e4776636875:
+.. _h256f632c362f5d7f681e84f73221c:
 
-dati di riferimento: indicatore/indicatori
+Dati di riferimento: indicatore/indicatori
 ******************************************
 
 |
 
-.. _h2b78f22504c262a4a2021177927f65:
+.. _h5a6745852532498d2d27b592660:
 
-governance territoriale (?)
+Governance territoriale (?)
 ***************************
 
 |
 
-.. _h647b6431691d2335f764b73220427b:
+.. _h0686821523b385e435a2a761ff4b45:
 
-obiettivi di medio e lungo periodo
+Obiettivi di medio e lungo periodo
 **********************************
 
 |
 
-.. _h5b441875a1643551d4f2e681148281b:
+.. _h45174419596069e143563e65522947:
 
-strategie 
+Strategie 
 **********
 
 |
 
-.. _h61c52e40746958311a6e7d6534251d:
+.. _h23166441701c481411c427b1d41360:
 
-azioni in corso
+Azioni in corso
 ***************
+
+
+|REPLACE1|
 
 * \ |LINK1|\ , rete nazionale degli Enti territoriali contro lo spreco. 
 
@@ -52,7 +55,7 @@ azioni in corso
 
 * \ |LINK4|\ .
 
-|REPLACE1|
+|REPLACE2|
 
 * \ |LINK5|\  che  intende coinvolgere le società partecipate, le quali, entrando in azione in un circuito virtuoso  potrebbero produrre  energia, creando una  economia circolare  grazie a piccoli impianti amovibili che si possono posizionare ovunque.
 
@@ -60,9 +63,9 @@ azioni in corso
 
 |
 
-.. _h433254da6b476c4e23225cf134b78:
+.. _h2a1f625ca645c176c487a146b4e3612:
 
-azioni di medio periodo
+Azioni di medio periodo
 ***********************
 
 
@@ -70,6 +73,9 @@ azioni di medio periodo
 
 
 .. |REPLACE1| raw:: html
+
+    <img src="https://www.comune.palermo.it/js/server/uploads/220x220/_16092016120530.jpg" /> 
+.. |REPLACE2| raw:: html
 
     <img src="https://www.comune.palermo.it/js/server/uploads/220x220/_25092018100554.png" /> 
 
