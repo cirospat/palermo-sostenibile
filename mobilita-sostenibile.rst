@@ -1,34 +1,82 @@
 
-.. _h2b41b05e57977175106c486a326d:
+.. _h2382a7d2b351342725a1c144a7f5e1d:
 
-Mobilità sostenibile
-####################
+Mobilità sostenibile e qualità dell’aria
+########################################
 
-.. _h327a231f3163241a8069125935c2f7d:
+.. _h417c47357f6b78201075c71f406b78:
 
-Inquadramento generale: politiche e strategie
-*********************************************
+Qualità dell’aria
+*****************
+
+La società partecipata comunale RAP SpA gestisce la rete di rilevamento della qualità dell’aria del Comune di Palermo. La rete è costituita da 10 stazioni ubicate in vari punti rappresentativi della città, dotate di apparecchiature per il controllo continuo dell’inquinamento atmosferico.
+
+|REPLACE1|
+
+I dati rilevati sono trasmessi telematicamente al centro operativo della sede impiantistica di Bellolampo, dove si provvede al loro controllo, elaborazione ed archiviazione, ai sensi del D.Lgs. n. 155/2010.
+
+Il bollettino giornaliero, contenente la sintesi dei dati di qualità dell’aria rilevati nel corso del ciclo di monitoraggio del giorno immediatamente precedente (dalle ore 0.00 alle 24.00), ed il bollettino riepilogativo mensile sono rispettivamente pubblicati giornalmente e mensilmente sul sito della RAP \ |LINK1|\ .
+
+* \ |LINK2|\ 
+
+* \ |LINK3|\ 
 
 |
 
-.. _h256f632c362f5d7f681e84f73221c:
+.. _h394831537a6f64b71731e4776636875:
 
-Dati di riferimento: indicatore/indicatori
+dati di riferimento: indicatore/indicatori
 ******************************************
 
+Qualità dell’aria - indicatore: microgrammi di PM10 su metrocubo
+
+.. _h2b78f22504c262a4a2021177927f65:
+
+governance territoriale (?)
+***************************
+
+.. _h7346a182b73685f55405d3a524ae42:
+
+azioni in corso 
+****************
+
+* ztl
+
+* pedonalizzazioni
+
+* bike sharing
+
+.. _h433254da6b476c4e23225cf134b78:
+
+azioni di medio periodo
+***********************
+
+* tram
+
+* passante ferroviario
+
+* anello ferroviario
+
+--------
+
+
+|REPLACE2|
+
+--------
+
 |
 
-.. _h43104565a44a2c6b501a66f162e43:
+.. _h12755e670303d5977183b326174113:
 
-Governance territoriale 
-************************
+Governance territoriale della Mobilità
+**************************************
 
 .. _h732d34638483d1734306454a65665a:
 
 Piano Generale del Traffico Urbano (2013)
 =========================================
 
-\ |LINK1|\  - Il  Piano  Generale  del  Traffico Urbano  della  città  di Palermo costituisce  la definizione di 1° livello della fase progettuale preliminare e conoscitiva.
+\ |LINK4|\  - Il  Piano  Generale  del  Traffico Urbano  della  città  di Palermo costituisce  la definizione di 1° livello della fase progettuale preliminare e conoscitiva.
 
 Il  PGTU  è  un  piano  di  breve  termine. Gli  obiettivi  di  carattere generale   proposti   dalle  Direttive   Ministeriali   (miglioramento   delle   condizioni   di circolazione,  miglioramento  della  sicurezza  stradale,  riduzione  dell’inquinamento atmosferico  ed  acustico,  risparmio  energetico) da  conseguirsi  in  accordo  con  gli strumenti  urbanistici  vigenti  e  nel  rispetto  dei  valori  ambientali  ed  applicati  alla  realtà specifica di Palermo, sono traducibili in obiettivi specifici ed operativi quali: 
 
@@ -42,7 +90,7 @@ Il  PGTU  è  un  piano  di  breve  termine. Gli  obiettivi  di  carattere gener
 
 * individuare  strategie  integrate  che  operino  nel  senso  di  un  riequilibrio  modale  a favore dei mezzi meno inquinanti e a minor consumo energetico specifico.
 
-\ |LINK2|\  [Fonte dati: Amministrazione Trasparente].
+\ |LINK5|\  [Fonte dati: Amministrazione Trasparente].
 
 |
 
@@ -51,7 +99,7 @@ Il  PGTU  è  un  piano  di  breve  termine. Gli  obiettivi  di  carattere gener
 Piano Strategico per la Mobilità Sostenibile (edizione 2007)
 ============================================================
 
-Il \ |LINK3|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale si dota “volontariamente”, che non sostituisce gli ordinari strumenti della pianificazione generale e di settore, regionali o locali che siano, ma piuttosto li integra, anche superandone l’approccio per ambito amministrativo,  per  metterli  a  sistema  in  una  strategia  di  sviluppo  complessiva  e  strutturale.
+Il \ |LINK6|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale si dota “volontariamente”, che non sostituisce gli ordinari strumenti della pianificazione generale e di settore, regionali o locali che siano, ma piuttosto li integra, anche superandone l’approccio per ambito amministrativo,  per  metterli  a  sistema  in  una  strategia  di  sviluppo  complessiva  e  strutturale.
 
 
 |
@@ -61,7 +109,7 @@ Il \ |LINK3|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale s
 Documento di Strategia Urbana (edizione 2017)
 =============================================
 
-\ |LINK4|\  \ |STYLE0|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
+\ |LINK7|\  \ |STYLE0|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
 
 .. _h0686821523b385e435a2a761ff4b45:
 
@@ -76,9 +124,9 @@ Strategie
 **********
 
 
-|REPLACE1|
+|REPLACE3|
 
-Laboratorio cittadino “\ |LINK5|\ ”. \ |LINK6|\  del laboratorio.
+Laboratorio cittadino “\ |LINK8|\ ”. \ |LINK9|\  del laboratorio.
 
 |
 
@@ -109,7 +157,7 @@ Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le per
 --------
 
 
-|REPLACE2|
+|REPLACE4|
 
 --------
 
@@ -122,32 +170,50 @@ Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le per
 
 .. |REPLACE1| raw:: html
 
-    <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" /></a></p>
+    <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/cabine.jpg" />
 .. |REPLACE2| raw:: html
+
+    <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
+.. |REPLACE3| raw:: html
+
+    <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" /></a></p>
+.. |REPLACE4| raw:: html
 
     <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_17042014100310.pdf" target="_blank">P.G.T.U. del Comune di Palermo</a>
+    <a href="http://www.rapspa.it/site/qualita-dellaria/" target="_blank">http://www.rapspa.it/site/qualita-dellaria/</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=103&bsel=168" target="_blank">Elaborati del Piano Generale del Traffico Urbano</a>
+    <a href="http://www.rapspa.it/temp/index_file/bollettini_qa/vedi_file.php?mensile=SI" target="_blank">Bollettini mensili</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano Strategico per la Mobilità Sostenibile</a>
+    <a href="http://www.rapspa.it/temp/index_file/bollettini_qa/vedi_file.php?mensile=NO" target="_blank">Bollettini giornalieri</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_17042014100310.pdf" target="_blank">P.G.T.U. del Comune di Palermo</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?id=18788" target="_blank">La città che si muove: tram per tutti</a>
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=103&bsel=168" target="_blank">Elaborati del Piano Generale del Traffico Urbano</a>
 
 .. |LINK6| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano Strategico per la Mobilità Sostenibile</a>
+
+.. |LINK7| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=18788" target="_blank">La città che si muove: tram per tutti</a>
+
+.. |LINK9| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/_10072018113226.pdf" target="_blank">Instant Report</a>
 
