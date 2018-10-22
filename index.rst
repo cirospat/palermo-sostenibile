@@ -19,6 +19,8 @@ Definizione di “sostenibilità”
 
 |REPLACE2|
 
+Dall’adesione alla Carta di Bologna sono trascorsi 11 anni da quando è stata redatta la \ |LINK3|\  avvenuta nel 2006 [Fonte: \ |LINK4|\ ]. Diverse le azioni avviate e le pianificazioni introdotte in questo decennio per una maggiore tutela dell’ambiente e della biodiversità. 
+
 
 .. toctree:: 
     :maxdepth: 3
@@ -84,4 +86,12 @@ Definizione di “sostenibilità”
 .. |LINK2| raw:: html
 
     <a href="https://it.wikipedia.org/wiki/Sostenibilit%C3%A0" target="_blank">sostenibilità</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° stesura della Relazione sullo stato dell’Ambiente della città di Palermo</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=20&asel=141" target="_blank">Amministrazione Trasparente - Informazioni ambientali</a>
 
