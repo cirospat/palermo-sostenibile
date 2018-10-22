@@ -75,6 +75,11 @@ Obiettivi di medio e lungo periodo
 Strategie 
 **********
 
+
+|REPLACE1|
+
+Laboratorio cittadino “\ |LINK5|\ ”. \ |LINK6|\  del laboratorio.
+
 |
 
 .. _h23166441701c481411c427b1d41360:
@@ -104,7 +109,7 @@ Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le per
 --------
 
 
-|REPLACE1|
+|REPLACE2|
 
 --------
 
@@ -116,6 +121,9 @@ Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le per
 
 
 .. |REPLACE1| raw:: html
+
+    <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" /></a></p>
+.. |REPLACE2| raw:: html
 
     <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
 
@@ -134,4 +142,12 @@ Trasporto pubblico su ferro. Aumento delle linee di tram dal centro verso le per
 .. |LINK4| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=18788" target="_blank">La città che si muove: tram per tutti</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072018113226.pdf" target="_blank">Instant Report</a>
 
