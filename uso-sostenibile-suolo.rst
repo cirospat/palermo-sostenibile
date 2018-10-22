@@ -4,20 +4,26 @@
 Uso sostenibile del Suolo e soluzioni basate sui processi naturali
 ##################################################################
 
-.. _h38574b6734656724137b6c421c635e:
+.. _h327a231f3163241a8069125935c2f7d:
 
-inquadramento generale: politiche e strategie
+Inquadramento generale: politiche e strategie
 *********************************************
 
-.. _h394831537a6f64b71731e4776636875:
+| 
 
-dati di riferimento: indicatore/indicatori
+.. _h256f632c362f5d7f681e84f73221c:
+
+Dati di riferimento: indicatore/indicatori
 ******************************************
 
-.. _h2b78f22504c262a4a2021177927f65:
+|
 
-governance territoriale (?)
+.. _h5a6745852532498d2d27b592660:
+
+Governance territoriale (?)
 ***************************
+
+|
 
 .. _h7b6969585c4c223f62541816121b4d:
 
@@ -308,24 +314,32 @@ Piano Utilizzazione Demanio Marittimo - Deliberazione di Consiglio Comunale n.37
 
 \ |LINK142|\ 
 
-.. _h647b6431691d2335f764b73220427b:
+|
 
-obiettivi di medio e lungo periodo
+.. _h0686821523b385e435a2a761ff4b45:
+
+Obiettivi di medio e lungo periodo
 **********************************
 
-.. _h5b441875a1643551d4f2e681148281b:
+|
 
-strategie 
+.. _h45174419596069e143563e65522947:
+
+Strategie 
 **********
 
-.. _h7346a182b73685f55405d3a524ae42:
+|
 
-azioni in corso 
+.. _h5848122fa71302c172c255419407b10:
+
+Azioni in corso 
 ****************
 
-.. _h433254da6b476c4e23225cf134b78:
+|
 
-azioni di medio periodo
+.. _h2a1f625ca645c176c487a146b4e3612:
+
+Azioni di medio periodo
 ***********************
 
 --------
