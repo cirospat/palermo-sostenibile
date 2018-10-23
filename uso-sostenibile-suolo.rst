@@ -355,7 +355,8 @@ Azioni di medio periodo
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="http://www.geoviewer.isprambiente.it/"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a></p>
+    <img src="https://github.com/cirospat/palermo-sostenibile/blob/master/static/isprageoviewer.PNG" /></br>
+    Geovisualizzatore dell’ISPRA per i tematismi ambientali. 
 
 .. |LINK1| raw:: html
 
