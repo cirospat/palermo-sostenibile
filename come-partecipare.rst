@@ -50,7 +50,7 @@ Tutti i materiali inviati saranno pubblicati nel presente sito con licenza Creat
 Privacy
 =======
 
-Nel presente portale non saranno pubblicate informazioni e dati che sono riconducibili all’identità e alla privacy degli individui.
+Nel presente portale non saranno pubblicate informazioni e dati che sono riconducibili all’identità e alla privacy degli individui. Il soggetto che propone di pubblicare contenuti sul portale rilascia, se lo ritiene opportuno, la liberatoria per la pubblicazione del proprio indirizzo di posta elettronica relativo alle informazioni inviate e per le quali si chiede la pubblicazione.
 
 .. bottom of content
 
