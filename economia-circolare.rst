@@ -68,9 +68,7 @@ Azioni in corso
 
 * \ |LINK8|\ .
 
-* Avvio presso l’impianto di Bellolampo della linea per il trattamento della frazione organica dei rifiuti e la produzione di compost.
-
-    [fonte: \ |LINK9|\ ] 
+* Avvio presso l’impianto di Bellolampo della linea per il trattamento della frazione organica dei rifiuti e la produzione di compost [Fonte: \ |LINK9|\ ]. 
 
 |
 
