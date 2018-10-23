@@ -133,13 +133,6 @@ Laboratorio cittadino “\ |LINK16|\ ”. \ |LINK17|\  del laboratorio.
 
 |
 
---------
-
-
-|REPLACE3|
-
---------
-
 
 .. bottom of content
 
@@ -153,9 +146,6 @@ Laboratorio cittadino “\ |LINK16|\ ”. \ |LINK17|\  del laboratorio.
 .. |REPLACE2| raw:: html
 
     <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" /></a></p>
-.. |REPLACE3| raw:: html
-
-    <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
 
 .. |LINK1| raw:: html
 
