@@ -133,7 +133,7 @@ Assetto amministrativo dell’Amministrazione comunale di Palermo
 
 * \ |LINK20|\  		
 
-[\ |LINK21|\ ]
+[\ |LINK21|\  aggiornati a ottobre 2018]
 
 .. _h51322f1f2071476f24226f7564306c7:
 
