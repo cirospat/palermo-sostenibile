@@ -7,7 +7,7 @@ Sostenibilità a Palermo
 
 |REPLACE1|
 
-Dalla \ |LINK1|\  alla ``sostenibilità`` nel territorio urbano di Palermo. Una documentazione che illustra le informazioni e i dati sulle azioni e politiche a supporto della sostenibilità di Palermo. [Edizione 2018].
+Dalla \ |LINK1|\  alla ``sostenibilità`` nel territorio urbano di Palermo. Una piattaforma contenente la documentazione che illustra informazioni e dati su azioni, politiche e obiettivi concernenti la sostenibilità della città. Un'iniziativa che nasce nell’autunno del 2018 dentro alcune stanze degli uffici comunali di Palermo per la necessità di mettere a sistema tanti pezzi di informazione che risultano frammentati, e che è in continuo aggiornamento al fine di essere punto di riferimento culturale a livello locale.
 
 .. _h502d6c7a7f1119544d695d357912255c:
 
@@ -22,7 +22,7 @@ Definizione di “sostenibilità”
 
 .. admonition:: Dal 1° rapporto sullo stato dell’ambiente alla Carta di Bologna
 
-    Sono trascorsi 11 anni da quando è stata redatta la \ |LINK3|\  avvenuta nel 2006 [Fonte: \ |LINK4|\ ]. Diverse le azioni avviate e le pianificazioni introdotte in questo decennio per una maggiore tutela dell’ambiente e della biodiversità. 
+    Sono trascorsi 11 anni da quando è stata redatta la \ |LINK3|\ , avvenuta nel 2006 [Fonte: \ |LINK4|\ ]. Diverse le azioni avviate e le pianificazioni introdotte in questo decennio per una maggiore tutela dell’ambiente e della biodiversità. Questa piattaforma è un contenitore quanto più possibile organizzato di informazioni e dati. 
 
 
 .. toctree:: 
@@ -73,7 +73,7 @@ Definizione di “sostenibilità”
     <img src="https://opendata.comune.palermo.it/img/temi/opere.png" width=50 />
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="300" src="https://www.youtube.com/embed/hyke-OUTW68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/hyke-OUTW68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 .. |LINK1| raw:: html
 
@@ -85,7 +85,7 @@ Definizione di “sostenibilità”
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° stesura della Relazione sullo stato dell’Ambiente della città di Palermo</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° versione della Relazione sullo stato dell’Ambiente della città di Palermo</a>
 
 .. |LINK4| raw:: html
 
