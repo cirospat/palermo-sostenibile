@@ -355,7 +355,7 @@ Azioni di medio periodo
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://github.com/cirospat/palermo-sostenibile/blob/master/static/isprageoviewer.PNG" /></br>
+    <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/isprageoviewer.PNG" /></br>
     Geovisualizzatore dell’ISPRA per i tematismi ambientali. 
 
 .. |LINK1| raw:: html
