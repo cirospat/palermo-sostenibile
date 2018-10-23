@@ -85,6 +85,10 @@ Servizi in corso
 
 |REPLACE4|
 
+* Raccolta olii vegetali esausti
+
+|REPLACE5|
+
 |
 
 .. _h2a1f625ca645c176c487a146b4e3612:
@@ -110,6 +114,9 @@ Azioni di medio periodo
 .. |REPLACE4| raw:: html
 
     <iframe src="https://www.google.com/maps/d/embed?mid=1tcTEms0NKyjHsm70gDcuZntLC98" width="100%" height="550"></iframe>
+.. |REPLACE5| raw:: html
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=1o87PhUJB-CHEU-knWXLyAvOw7okrtswb" width="640" height="480"></iframe>
 
 .. |LINK1| raw:: html
 
