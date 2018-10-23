@@ -171,7 +171,7 @@ Area di intervento 3 - Informazione, formazione ed altre attività di comunicazi
 Azioni in corso 
 ****************
 
-|
+Partecipazione al progetto CREiAMO 
 
 .. _h2a1f625ca645c176c487a146b4e3612:
 
