@@ -70,8 +70,6 @@ Azioni in corso
 
 * \ |LINK9|\ . 
 
-* \ |LINK10|\ 
-
 |
 
 .. _h5d5ec767626f756672754a504e1576:
@@ -79,11 +77,11 @@ Azioni in corso
 Servizi in corso
 ****************
 
-* \ |LINK11|\  a cura dell’Azienda RAP
+* \ |LINK10|\  a cura dell’Azienda RAP
 
 |REPLACE3|
 
-* \ |LINK12|\  a cura dell’Azienda RAP
+* \ |LINK11|\  a cura dell’Azienda RAP
 
 |REPLACE4|
 
@@ -98,7 +96,7 @@ Servizi in corso
 Azioni di medio periodo
 ***********************
 
-* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK13|\ ] 
+* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK12|\ ] 
 
 
 .. bottom of content
@@ -158,17 +156,13 @@ Azioni di medio periodo
 
 .. |LINK10| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?id=13924" target="_blank">Proposta di regolamento per orti urbani e giardini condivisi</a>
+    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
-
-.. |LINK12| raw:: html
-
     <a href="http://www.rapspa.it/site/indumenti-e-accessori-usati-giocattoli/" target="_blank">Raccolta indumenti usati</a>
 
-.. |LINK13| raw:: html
+.. |LINK12| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19830" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=19830</a>
 
