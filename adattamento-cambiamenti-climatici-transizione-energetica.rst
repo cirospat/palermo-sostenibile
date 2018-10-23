@@ -12,6 +12,8 @@ Adattamento ai cambiamenti climatici e transizione energetica
 Inquadramento generale: politiche e strategie
 *********************************************
 
+Il Comune di Palermo nel 2013 ha approvato il “\ |LINK1|\ ” \ |STYLE0|\  che rappresenta la pianificazione nel campo dell’uso delle fonti energetiche per la riduzione delle emissioni climalteranti in coerenza con gli obiettivi dell’Unione Europea. Tale piano contiene la strategia attraverso la quale sono state individuate le singole azioni che di seguito sono riportate.
+
 |
 
 .. _h256f632c362f5d7f681e84f73221c:
@@ -19,9 +21,9 @@ Inquadramento generale: politiche e strategie
 Dati di riferimento: indicatore/indicatori
 ******************************************
 
-\ |LINK1|\  - \ |STYLE0|\ . 
+\ |LINK2|\  - \ |STYLE1|\ . 
 
-Il bilancio energetico di Palermo equivale a oltre \ |STYLE1|\ , attribuibili  per  la  quasi  totalità  a  fonti  fossili  (prodotti  petroliferi  e  gas  naturale, quest’ultimo con un consumo prossimo ai 90 Mm3/anno) ed energia elettrica (circa 160 ktep nel 2012, fonte: Istat). 
+Il bilancio energetico di Palermo equivale a oltre \ |STYLE2|\ , attribuibili  per  la  quasi  totalità  a  fonti  fossili  (prodotti  petroliferi  e  gas  naturale, quest’ultimo con un consumo prossimo ai 90 Mm3/anno) ed energia elettrica (circa 160 ktep nel 2012, fonte: Istat). 
 
 Si caratterizza per la mitezza delle condizioni climatiche (quasi 19 °C di temperatura media annuale, solo 750 °C gradi‐giorno) e per un consumo specifico pari a meno della metà della media nazionale (0,75 tep/ab), con una netta prevalenza di dei settori trasporti (60%, rispetto a una quota regionale pari al 45%) e residenziale (23%). 
 
@@ -47,7 +49,7 @@ Governance territoriale
 Piano di Azione per l’Energia Sostenibile - PAES (2013)
 =======================================================
 
-\ |LINK2|\  Patto dei Sindaci dell’unione Europea.
+\ |LINK3|\  Patto dei Sindaci dell’unione Europea.
 
 |
 
@@ -56,7 +58,7 @@ Piano di Azione per l’Energia Sostenibile - PAES (2013)
 Obiettivi di medio e lungo periodo
 **********************************
 
-Dal \ |LINK3|\ 
+Dal \ |LINK4|\ 
 
 .. _h1a6767726c44316522f442a6782:
 
@@ -143,7 +145,7 @@ Area di intervento 2 – Mobilità sostenibile
 Strategie 
 **********
 
-Dal \ |LINK4|\ 
+Dal \ |LINK5|\ 
 
 .. _h177e36474666553a831243c534c7047:
 
@@ -171,7 +173,15 @@ Area di intervento 3 - Informazione, formazione ed altre attività di comunicazi
 Azioni in corso 
 ****************
 
-Partecipazione al progetto CREiAMO 
+Il Comune di Palermo ha aderito al progetto \ |STYLE3|\ , avviato dal Ministero dell’Ambiente e della Tutela del Territorio e del Mare - con il supporto del PON Governance e Capacità Istituzionale 2014-2020.
+
+Linea 5 - \ |LINK6|\  
+
+http://www.minambiente.it/pagina/l5-rafforzamento-della-capacita-amministrativa-ladattamento-ai-cambiamenti-climatici
+
+\ |LINK7|\  
+
+[fonte: \ |LINK8|\ ] 
 
 .. _h2a1f625ca645c176c487a146b4e3612:
 
@@ -182,9 +192,13 @@ Azioni di medio periodo
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Estratto della sezione “Produzione e uso finale di energia”**
+.. |STYLE0| replace:: **PAES**
 
-.. |STYLE1| replace:: **500 ktep in termini di energia primaria**
+.. |STYLE1| replace:: **Estratto della sezione “Produzione e uso finale di energia”**
+
+.. |STYLE2| replace:: **500 ktep in termini di energia primaria**
+
+.. |STYLE3| replace:: **CREiAMO PA**
 
 
 .. |REPLACE1| raw:: html
@@ -193,17 +207,33 @@ Azioni di medio periodo
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana (2017)</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo.</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana (2017)</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo.</a>
 
 .. |LINK4| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo</a>
+
+.. |LINK6| raw:: html
+
+    <a href="http://www.minambiente.it/pagina/l5-rafforzamento-della-capacita-amministrativa-ladattamento-ai-cambiamenti-climatici" target="_blank">Rafforzamento della capacità amministrativa per l’adattamento ai cambiamenti climatici.</a>
+
+.. |LINK7| raw:: html
+
+    <a href="http://www.minambiente.it/pagina/creiamo-pa-competenze-e-reti-lintegrazione-ambientale-e-il-miglioramento-delle-organizzazioni" target="_blank">http://www.minambiente.it/pagina/creiamo-pa-competenze-e-reti-lintegrazione-ambientale-e-il-miglioramento-delle-organizzazioni</a>
+
+.. |LINK8| raw:: html
+
+    <a href="www.pongovernance1420.gov.it">www.pongovernance1420.gov.it › Home › Progetti › #efficacia</a>
 
