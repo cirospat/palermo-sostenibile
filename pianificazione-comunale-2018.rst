@@ -575,6 +575,9 @@ Programma Operativo Nazionale Città Metropolitane, città di Palermo
 Patto per lo Sviluppo della città di Palermo
 ********************************************
 
+
+|REPLACE1|
+
 .. _h135374652a5bb621b36a2238503f1e:
 
 Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
@@ -584,6 +587,10 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQS7tTPdCaAJlr_d_W80CrFPEaTmWQua8sr8Z-PqMppueHJ_jlgPjlMzlr1DD6D4d4BMmOQZaVz14xj/pubhtml#"></iframe>
 
 .. |LINK1| raw:: html
 
