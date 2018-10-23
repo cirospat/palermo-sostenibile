@@ -38,7 +38,7 @@ Definizione di “sostenibilità”
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: Obiettivi 
+    :caption: Obiettivi e azioni 
 
     economia-circolare
     ecosistemi-verdeurbano-tutelabiodiversita
@@ -49,10 +49,11 @@ Definizione di “sostenibilità”
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: Organizzazione 
+    :caption: Organizzazione e partecipazione
 
     team
     metodo-lavoro
+    come-partecipare
 
 |
 
