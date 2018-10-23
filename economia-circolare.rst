@@ -68,12 +68,18 @@ Azioni in corso
 
 * \ |LINK8|\ .
 
+* Avvio presso l’impianto di Bellolampo della linea per il trattamento della frazione organica dei rifiuti e la produzione di compost.
+
+    fonte (https://www.comune.palermo.it/noticext.php?cat=1&id=19591)
+
 |
 
 .. _h2a1f625ca645c176c487a146b4e3612:
 
 Azioni di medio periodo
 ***********************
+
+* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK9|\ ] 
 
 
 .. bottom of content
@@ -117,4 +123,8 @@ Azioni di medio periodo
 .. |LINK8| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?id=14595" target="_blank">Ai cantieri Culturali della Zisa premiate le scuole più virtuose in tema di raccolta differenziata della plastica, 18.05.2017</a>
+
+.. |LINK9| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19830" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=19830</a>
 
