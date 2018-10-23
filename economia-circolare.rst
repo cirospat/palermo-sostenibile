@@ -70,14 +70,16 @@ Azioni in corso
 
 * Avvio presso l’impianto di Bellolampo della linea per il trattamento della frazione organica dei rifiuti e la produzione di compost.
 
-    fonte (https://www.comune.palermo.it/noticext.php?cat=1&id=19591)
+    [fonte: \ |LINK9|\ ] 
+
+|
 
 .. _h5d5ec767626f756672754a504e1576:
 
 Servizi in corso
-================
+****************
 
-* \ |LINK9|\  a cura dell’Azienda RAP
+* \ |LINK10|\  a cura dell’Azienda RAP
 
 |REPLACE3|
 
@@ -88,7 +90,7 @@ Servizi in corso
 Azioni di medio periodo
 ***********************
 
-* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK10|\ ] 
+* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK11|\ ] 
 
 
 .. bottom of content
@@ -138,9 +140,13 @@ Azioni di medio periodo
 
 .. |LINK9| raw:: html
 
-    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19591" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=19591</a>
 
 .. |LINK10| raw:: html
+
+    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
+
+.. |LINK11| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19830" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=19830</a>
 
