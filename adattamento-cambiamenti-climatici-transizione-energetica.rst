@@ -173,13 +173,7 @@ Area di intervento 3 - Informazione, formazione ed altre attività di comunicazi
 Azioni in corso 
 ****************
 
-Il Comune di Palermo ha aderito al progetto \ |STYLE3|\ , avviato dal Ministero dell’Ambiente e della Tutela del Territorio e del Mare - con il supporto del “PON Governance e Capacità Istituzionale 2014-2020” - linea 5 - \ |LINK6|\  
-
-“\ |STYLE4|\ ”.
-
-\ |LINK7|\ .
-
-[fonte: \ |LINK8|\ ] 
+Il Comune di Palermo ha aderito al progetto \ |STYLE3|\ , avviato dal Ministero dell’Ambiente e della Tutela del Territorio e del Mare - con il supporto del “PON Governance e Capacità Istituzionale 2014-2020” - linea 5 - \ |LINK6|\  “\ |STYLE4|\ ”. \ |LINK7|\ . [fonte: \ |LINK8|\ ] 
 
 .. _h2a1f625ca645c176c487a146b4e3612:
 
