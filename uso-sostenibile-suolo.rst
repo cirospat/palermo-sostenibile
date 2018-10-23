@@ -53,6 +53,10 @@ Obiettivi di medio e lungo periodo
 Strategie 
 **********
 
+\ |STYLE0|\ 
+
+|REPLACE2|
+
 |
 
 .. _h23166441701c481411c427b1d41360:
@@ -75,11 +79,17 @@ Azioni di medio periodo
 .. bottom of content
 
 
+.. |STYLE0| replace:: **Mappa dei mercatini del biologico e del contadino**
+
+
 .. |REPLACE1| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/isprageoviewer.PNG" /></br>
     <p><a href="http://www.geoviewer.isprambiente.it/" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 5px; border-radius: 12px;"><strong>Geovisualizzatore dell'ISPRA per i tematismi ambientali</strong></span></a>&nbsp;</p>
     <p>(consumo di suolo - copertura del suolo - siti protetti - mare e coste - idrografia - alluvioni - PAI frane - carta della natura - direttiva UE Habitat)</p>
+.. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="500px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887">Visualizza a schermo intero</a></p>
 
 .. |LINK1| raw:: html
 
