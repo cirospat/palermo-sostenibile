@@ -55,13 +55,6 @@ Definizione di “sostenibilità”
 
 |
 
---------
-
-
-|REPLACE3|
-
---------
-
 
 .. bottom of content
 
@@ -79,9 +72,6 @@ Definizione di “sostenibilità”
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="300" src="https://www.youtube.com/embed/hyke-OUTW68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-.. |REPLACE3| raw:: html
-
-    <p>Clicca per gli <strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">open data</span></a></strong></p>
 
 .. |LINK1| raw:: html
 
