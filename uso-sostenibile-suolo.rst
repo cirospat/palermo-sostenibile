@@ -11,6 +11,9 @@ Inquadramento generale: politiche e strategie
 
 | 
 
+
+|REPLACE1|
+
 .. _h256f632c362f5d7f681e84f73221c:
 
 Dati di riferimento: indicatore/indicatori
@@ -349,6 +352,10 @@ Azioni di medio periodo
 
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="http://www.geoviewer.isprambiente.it/"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a></p>
 
 .. |LINK1| raw:: html
 
