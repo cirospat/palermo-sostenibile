@@ -4,7 +4,7 @@
 Pianificazione e Governo del territorio 
 ########################################
 
-[Fonte: \ |LINK1|\ ] (Aggiornamento al 24/09/2018)
+[Fonte: \ |LINK1|\ ] (Aggiornamento informazioni al 24/09/2018)
 
 .. _h1f3943d6b2677391072235f3f35b31:
 
@@ -587,5 +587,5 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_25092018093616.pdf" target="_blank">https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_25092018093616.pdf</a>
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=169" target="_blank">Amministrazione Trasparente / Pianificazione e governo del territorio / Tabella riassuntiva</a>
 
