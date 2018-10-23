@@ -4,7 +4,11 @@
 Pianificazione e Governo del territorio 
 ########################################
 
-[Fonte: \ |LINK1|\ ] (Aggiornamento informazioni al 24/09/2018)
+[Fonte: \ |LINK1|\ ] (Aggiornamento informazioni al 24/09/2018).
+
+\ |STYLE0|\ 
+
+|
 
 .. _h1f3943d6b2677391072235f3f35b31:
 
@@ -20,6 +24,8 @@ Cofinanziato dal P.O. FESR 2007-2013 obiettivo operativo 7.1.2
 * Palermo capitale dell’Euromediterraneo – allegato Quadro conoscitivo 
 
 * Palermo capitale dell’Euromediterraneo – allegato Piano di Azione
+
+[fonte: \ |LINK2|\ ]
 
 .. _h13ae48216f716c8933281e28643f:
 
@@ -74,6 +80,8 @@ Piano Generale del Traffico Urbano
 
         * Normativa di riferimento del P.G.T.U.
 
+[fonte: \ |LINK3|\ ]
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -86,11 +94,11 @@ AGGIORNAMENTO REGIME VINCOLISTICO
 
 #. AGGIORNAMENTO P.A.I. 
 
-    * Aggiornamento P.A.I. 
+    * \ |LINK4|\  
 
 #. AGGIORNAMENTO S.I.C.
 
-    * Aggiornamento S.I.C.  
+    * \ |LINK5|\   
 
 #. VINCOLI MONUMENTALI (Nessun aggiornamento)
 
@@ -112,12 +120,9 @@ AGGIORNAMENTO REGIME VINCOLISTICO
 
     * Incendi anni 2014-2015 – Delibera di C.C. n. 481 del 11/10/2017 
 
-    * INCENDI Anno 2016 - Prop. Del. di C.C. n. 04 del 27/02/2018 - Aggiornamento	
+    * INCENDI Anno 2016 - Prop. Delibera di C.C. n. 04 del 27/02/2018 - Aggiornamento	
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+[fonte: \ |LINK6|\ ]
 
 .. _h5e2b6821c2b5d15681e21256c392617:
 
@@ -588,6 +593,9 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 .. bottom of content
 
 
+.. |STYLE0| replace:: **Di seguito vengono elencati tutti gli strumenti di pianificazioni elaborati dal comune di Palermo.**
+
+
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQS7tTPdCaAJlr_d_W80CrFPEaTmWQua8sr8Z-PqMppueHJ_jlgPjlMzlr1DD6D4d4BMmOQZaVz14xj/pubhtml#"></iframe>
@@ -595,4 +603,24 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 .. |LINK1| raw:: html
 
     <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=169" target="_blank">Amministrazione Trasparente / Pianificazione e governo del territorio / Tabella riassuntiva</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=186" target="_blank">Amministrazione Trasparente / Pianificazione e governo del territorio</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_17042014100310.pdf" target="_blank">Amministrazione Trasparente</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_30122013135411.pdf" target="_blank">Aggiornamento P.A.I.</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_30122013140239.pdf" target="_blank">Aggiornamento S.I.C.</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=105" target="_blank">Amministrazione Trasparente</a>
 
