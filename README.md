@@ -7,7 +7,7 @@
 Questo repository contiene i materiali (documenti testuali) che vengono esposti su [http://palermo-sostenibile.readthedocs.io](http://palermo-sostenibile.readthedocs.io). 
 
 
-Licenza dei contenuti di questo repository: CC BY SA
+Licenza dei contenuti di questo repository: CC BY 
 
 
 
