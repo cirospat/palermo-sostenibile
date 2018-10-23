@@ -72,6 +72,15 @@ Azioni in corso
 
     fonte (https://www.comune.palermo.it/noticext.php?cat=1&id=19591)
 
+.. _h5d5ec767626f756672754a504e1576:
+
+Servizi in corso
+================
+
+* \ |LINK9|\  a cura dell’Azienda RAP
+
+|REPLACE3|
+
 |
 
 .. _h2a1f625ca645c176c487a146b4e3612:
@@ -79,7 +88,7 @@ Azioni in corso
 Azioni di medio periodo
 ***********************
 
-* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK9|\ ] 
+* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK10|\ ] 
 
 
 .. bottom of content
@@ -91,6 +100,9 @@ Azioni di medio periodo
 .. |REPLACE2| raw:: html
 
     <img src="https://www.comune.palermo.it/js/server/uploads/220x220/_25092018100554.png" /> 
+.. |REPLACE3| raw:: html
+
+    <img src="http://www.rapspa.it/site/wp-content/uploads/2016/03/ingombranti-per-richiesta_semplice...jpg" /> 
 
 .. |LINK1| raw:: html
 
@@ -125,6 +137,10 @@ Azioni di medio periodo
     <a href="https://www.comune.palermo.it/noticext.php?id=14595" target="_blank">Ai cantieri Culturali della Zisa premiate le scuole più virtuose in tema di raccolta differenziata della plastica, 18.05.2017</a>
 
 .. |LINK9| raw:: html
+
+    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
+
+.. |LINK10| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19830" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=19830</a>
 
