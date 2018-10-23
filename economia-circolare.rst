@@ -81,6 +81,10 @@ Servizi in corso
 
 |REPLACE3|
 
+* \ |LINK11|\  a cura dell’Azienda RAP
+
+|REPLACE4|
+
 |
 
 .. _h2a1f625ca645c176c487a146b4e3612:
@@ -88,7 +92,7 @@ Servizi in corso
 Azioni di medio periodo
 ***********************
 
-* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK11|\ ] 
+* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK12|\ ] 
 
 
 .. bottom of content
@@ -103,6 +107,9 @@ Azioni di medio periodo
 .. |REPLACE3| raw:: html
 
     <img src="http://www.rapspa.it/site/wp-content/uploads/2016/03/ingombranti-per-richiesta_semplice...jpg" /> 
+.. |REPLACE4| raw:: html
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=1tcTEms0NKyjHsm70gDcuZntLC98" width="100%" height="550"></iframe>
 
 .. |LINK1| raw:: html
 
@@ -145,6 +152,10 @@ Azioni di medio periodo
     <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
 
 .. |LINK11| raw:: html
+
+    <a href="http://www.rapspa.it/site/indumenti-e-accessori-usati-giocattoli/" target="_blank">Raccolta indumenti usati</a>
+
+.. |LINK12| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19830" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=19830</a>
 
