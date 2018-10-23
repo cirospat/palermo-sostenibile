@@ -19,5 +19,5 @@ Questo metodo di lavoro intende fornire un valore aggiunto al portale web istitu
 
 .. |LINK1| raw:: html
 
-    <a href="www.comune.palermo.it">www.comune.palermo.it</a>
+    <a href="https://www.comune.palermo.it" target="_blank">www.comune.palermo.it</a>
 
