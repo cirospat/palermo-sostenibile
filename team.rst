@@ -18,6 +18,8 @@ ll Team di lavoro comunale per la raccolta e aggiornamento dei dati e delle info
 
 * Geom. \ |LINK6|\  (Area Servizi alla città) \ |LINK7|\ . Elaborazione dei dati e informazioni per la pubblicazione online della documentazione con lo stile “Read the Docs”. 
 
+* Arch. Giovanni Lupo (Area Servizi alla città) \ |LINK8|\ .
+
 * …..
 
 * ……
@@ -55,4 +57,8 @@ ll Team di lavoro comunale per la raccolta e aggiornamento dei dati e delle info
 .. |LINK7| raw:: html
 
     <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
+
+.. |LINK8| raw:: html
+
+    <a href="mailto:g.lupo@comune.palermo.it">g.lupo@comune.palermo.it</a>
 
