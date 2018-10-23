@@ -15,7 +15,7 @@ Riteniamo che partecipare ad aumentare le informazioni e i dati sulla sostenibil
 Invio di contenuti da pubblicare nel presente portale
 =====================================================
 
-Al fine di permettere a qualsiasi realtà locale di esporre, sul presente portale, contenuti sui temi della sostenibilità, è possibile inviare documenti in formato digitale all’indirizzo email dell’architetto Paola Caselli (\ |LINK1|\ ) che cura il coordinamento editoriale del presente portale. 
+Al fine di permettere a qualsiasi realtà locale di esporre, sul presente portale, contenuti sui temi della sostenibilità, è possibile inviare documenti in formato digitale all’indirizzo email dell’architetto Paola Caselli (\ |LINK1|\ ) che cura il coordinamento editoriale del presente portale e che da anni segue le politiche della sostenibilità ambientale nel comune di Palermo. 
 
 I requisiti dei contenuti ritenuti validi inviati e da esporre sul presente portale, sono i seguenti.
 
