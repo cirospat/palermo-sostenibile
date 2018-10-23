@@ -27,7 +27,7 @@ Definizione di “sostenibilità”
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: Introduzione 
+    :caption: Introduzione e dati 
 
     introduzione
     linee-guida-green-city
@@ -38,7 +38,7 @@ Definizione di “sostenibilità”
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: Obiettivi e azioni 
+    :caption: Obiettivi, politiche e azioni 
 
     economia-circolare
     ecosistemi-verdeurbano-tutelabiodiversita
