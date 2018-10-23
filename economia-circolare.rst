@@ -116,7 +116,7 @@ Azioni di medio periodo
     <iframe src="https://www.google.com/maps/d/embed?mid=1tcTEms0NKyjHsm70gDcuZntLC98" width="100%" height="550"></iframe>
 .. |REPLACE5| raw:: html
 
-    <iframe src="https://www.google.com/maps/d/embed?mid=1o87PhUJB-CHEU-knWXLyAvOw7okrtswb" width="640" height="480"></iframe>
+    <iframe src="https://www.google.com/maps/d/embed?mid=1o87PhUJB-CHEU-knWXLyAvOw7okrtswb" width="100%0" height="550"></iframe>
 
 .. |LINK1| raw:: html
 
