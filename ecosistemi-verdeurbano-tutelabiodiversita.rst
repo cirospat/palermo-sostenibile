@@ -6,12 +6,14 @@ Ecosistemi, verde urbano e tutela della biodiversità
 
 |
 
-.. _h38574b6734656724137b6c421c635e:
+.. _h327a231f3163241a8069125935c2f7d:
 
-inquadramento generale: politiche e strategie
+Inquadramento generale: politiche e strategie
 *********************************************
 
-\ |STYLE0|\  (fonte: \ |LINK1|\ )
+\ |STYLE0|\  
+
+(fonte: \ |LINK1|\ )
 
 |REPLACE1|
 
@@ -29,44 +31,50 @@ inquadramento generale: politiche e strategie
 
 |
 
-.. _h394831537a6f64b71731e4776636875:
+\ |STYLE3|\ 
 
-dati di riferimento: indicatore/indicatori
+|REPLACE4|
+
+|
+
+.. _h256f632c362f5d7f681e84f73221c:
+
+Dati di riferimento: indicatore/indicatori
 ******************************************
 
 |
 
-.. _h2b78f22504c262a4a2021177927f65:
+.. _h5a6745852532498d2d27b592660:
 
-governance territoriale (?)
+Governance territoriale (?)
 ***************************
 
 |
 
-.. _h647b6431691d2335f764b73220427b:
+.. _h0686821523b385e435a2a761ff4b45:
 
-obiettivi di medio e lungo periodo
+Obiettivi di medio e lungo periodo
 **********************************
 
 |
 
-.. _h5b441875a1643551d4f2e681148281b:
+.. _h45174419596069e143563e65522947:
 
-strategie 
+Strategie 
 **********
 
 |
 
-.. _h7346a182b73685f55405d3a524ae42:
+.. _h5848122fa71302c172c255419407b10:
 
-azioni in corso 
+Azioni in corso 
 ****************
 
 |
 
-.. _h433254da6b476c4e23225cf134b78:
+.. _h2a1f625ca645c176c487a146b4e3612:
 
-azioni di medio periodo
+Azioni di medio periodo
 ***********************
 
 
@@ -79,6 +87,8 @@ azioni di medio periodo
 
 .. |STYLE2| replace:: **Mappa degli spazi verdi pubblici fruibili di Palermo**
 
+.. |STYLE3| replace:: **Mappa della zona costiera di Palermo con divieti di balneazione**
+
 
 .. |REPLACE1| raw:: html
 
@@ -89,6 +99,9 @@ azioni di medio periodo
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/spazi-verdi-fruibili-a-palermo-italia_14577#12/38.1529/13.3673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521">Visualizza a schermo intero</a></p>
+.. |REPLACE4| raw:: html
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=1O_Uf4NEz5QuHrbSBIS7Q1dVt9IY&hl=it" width="100%" height="600"></iframe>
 
 .. |LINK1| raw:: html
 
