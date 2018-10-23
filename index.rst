@@ -51,6 +51,7 @@ Definizione di “sostenibilità”
     :caption: Organizzazione 
 
     team
+    metodo-lavoro
 
 |
 
