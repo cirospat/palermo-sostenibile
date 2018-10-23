@@ -16,15 +16,9 @@ ll Team di lavoro comunale per la raccolta e aggiornamento dei dati e delle info
 
 * Ing. Antonio Mazzon (Area Servizi alla città) \ |LINK5|\ . Dati nell'ambito energetico. 
 
-* Geom. \ |LINK6|\  (Area Servizi alla città) \ |LINK7|\ . Elaborazione dei dati e informazioni per la pubblicazione online della documentazione con lo stile “Read the Docs”. 
+* Geom. \ |LINK6|\  (Area Servizi alla città, Servizio Innovazione) \ |LINK7|\ . Elaborazione dei dati e informazioni per la pubblicazione online della documentazione con lo stile “Read the Docs”. 
 
 * Arch. Giovanni Lupo (Area Servizi alla città) \ |LINK8|\ .
-
-* …..
-
-* ……
-
-* …..
 
 
 .. bottom of content
