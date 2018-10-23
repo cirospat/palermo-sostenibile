@@ -11,13 +11,13 @@ Inquadramento generale: politiche e strategie
 
 | 
 
-
-|REPLACE1|
-
 .. _h256f632c362f5d7f681e84f73221c:
 
 Dati di riferimento: indicatore/indicatori
 ******************************************
+
+
+|REPLACE1|
 
 |
 
@@ -356,7 +356,8 @@ Azioni di medio periodo
 .. |REPLACE1| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/isprageoviewer.PNG" /></br>
-    Geovisualizzatore dell’ISPRA per i tematismi ambientali. 
+    <p><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 5px; border-radius: 12px;"><strong>Geovisualizzatore dell'ISPRA per i tematismi ambientali</strong></span></a>&nbsp;</p>
+    <p>(consumo di suolo - copertura del suolo - siti protetti - mare e coste - idrografia - alluvioni - PAI frane - carta della natura - direttiva UE Habitat)</p>
 
 .. |LINK1| raw:: html
 
