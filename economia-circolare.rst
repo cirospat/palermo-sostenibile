@@ -68,7 +68,9 @@ Azioni in corso
 
 * \ |LINK8|\ .
 
-* Avvio presso l’impianto di Bellolampo della linea per il trattamento della frazione organica dei rifiuti e la produzione di compost [Fonte: \ |LINK9|\ ]. 
+* \ |LINK9|\ . 
+
+* \ |LINK10|\ 
 
 |
 
@@ -77,11 +79,11 @@ Azioni in corso
 Servizi in corso
 ****************
 
-* \ |LINK10|\  a cura dell’Azienda RAP
+* \ |LINK11|\  a cura dell’Azienda RAP
 
 |REPLACE3|
 
-* \ |LINK11|\  a cura dell’Azienda RAP
+* \ |LINK12|\  a cura dell’Azienda RAP
 
 |REPLACE4|
 
@@ -96,7 +98,7 @@ Servizi in corso
 Azioni di medio periodo
 ***********************
 
-* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK12|\ ] 
+* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK13|\ ] 
 
 
 .. bottom of content
@@ -152,17 +154,21 @@ Azioni di medio periodo
 
 .. |LINK9| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19591" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=19591</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19591" target="_blank">Avvio presso l’impianto di Bellolampo della linea per il trattamento della frazione organica dei rifiuti e la produzione di compost</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
+    <a href="https://www.comune.palermo.it/noticext.php?id=13924" target="_blank">Proposta di regolamento per orti urbani e giardini condivisi</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://www.rapspa.it/site/indumenti-e-accessori-usati-giocattoli/" target="_blank">Raccolta indumenti usati</a>
+    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
 
 .. |LINK12| raw:: html
+
+    <a href="http://www.rapspa.it/site/indumenti-e-accessori-usati-giocattoli/" target="_blank">Raccolta indumenti usati</a>
+
+.. |LINK13| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19830" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=19830</a>
 
