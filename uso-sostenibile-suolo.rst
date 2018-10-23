@@ -55,10 +55,14 @@ Strategie
 
 |
 
-.. _h5848122fa71302c172c255419407b10:
+.. _h23166441701c481411c427b1d41360:
 
-Azioni in corso 
-****************
+Azioni in corso
+***************
+
+* \ |LINK4|\ .
+
+* \ |LINK5|\ . 
 
 |
 
@@ -88,4 +92,12 @@ Azioni di medio periodo
 .. |LINK3| raw:: html
 
     <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=107&bsel=123" target="_blank">Amministrazione Trasparente / Pianificazione e governo del territorio / Strumenti urbanistici di attuazione / Piani particolareggiati adottati</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=13924" target="_blank">Proposta di regolamento per orti urbani e giardini condivisi</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=18270" target="_blank">Giardini e orti contro il degrado. Così i quartieri si rigenerano</a>
 
