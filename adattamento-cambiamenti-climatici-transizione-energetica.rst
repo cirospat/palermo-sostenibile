@@ -173,13 +173,11 @@ Area di intervento 3 - Informazione, formazione ed altre attività di comunicazi
 Azioni in corso 
 ****************
 
-Il Comune di Palermo ha aderito al progetto \ |STYLE3|\ , avviato dal Ministero dell’Ambiente e della Tutela del Territorio e del Mare - con il supporto del PON Governance e Capacità Istituzionale 2014-2020.
+Il Comune di Palermo ha aderito al progetto \ |STYLE3|\ , avviato dal Ministero dell’Ambiente e della Tutela del Territorio e del Mare - con il supporto del “PON Governance e Capacità Istituzionale 2014-2020” - linea 5 - \ |LINK6|\  
 
-Linea 5 - \ |LINK6|\  
+“\ |STYLE4|\ ”.
 
-http://www.minambiente.it/pagina/l5-rafforzamento-della-capacita-amministrativa-ladattamento-ai-cambiamenti-climatici
-
-\ |LINK7|\  
+\ |LINK7|\ .
 
 [fonte: \ |LINK8|\ ] 
 
@@ -199,6 +197,8 @@ Azioni di medio periodo
 .. |STYLE2| replace:: **500 ktep in termini di energia primaria**
 
 .. |STYLE3| replace:: **CREiAMO PA**
+
+.. |STYLE4| replace:: *Il Progetto mira a diffondere una cultura amministrativa orientata a tener conto, introdurre e consolidare, gli aspetti connessi alla sostenibilità ambientale nelle diverse fasi della propria azione (programmazione/pianificazione, attuazione, gestione, verifica/controllo, revisione), con riferimento alla struttura organizzativa nel suo complesso, adottando un approccio volto a superare logiche di tipo settoriale o monotematico*
 
 
 .. |REPLACE1| raw:: html
@@ -231,7 +231,7 @@ Azioni di medio periodo
 
 .. |LINK7| raw:: html
 
-    <a href="http://www.minambiente.it/pagina/creiamo-pa-competenze-e-reti-lintegrazione-ambientale-e-il-miglioramento-delle-organizzazioni" target="_blank">http://www.minambiente.it/pagina/creiamo-pa-competenze-e-reti-lintegrazione-ambientale-e-il-miglioramento-delle-organizzazioni</a>
+    <a href="http://www.minambiente.it/pagina/creiamo-pa-competenze-e-reti-lintegrazione-ambientale-e-il-miglioramento-delle-organizzazioni" target="_blank">Competenze e reti per l’integrazione ambientale e per il miglioramento delle organizzazioni della PA</a>
 
 .. |LINK8| raw:: html
 
