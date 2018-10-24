@@ -221,21 +221,15 @@ Le essenze vegetali piantumate sono state in parte prodotte dal Vivaio Comunale.
 Azioni di medio periodo
 ***********************
 
-Nella seduta del 10 ottobre 2018, la Giunta Comunale  ha approvato importanti progetti destinati a (...) ripristinare e valorizzare le connessioni ecologiche e la qualità paesaggistica dei Siti della Rete Ecologica comunale e a riequilibrare il sistema fisico, ambientale e socio-economico della Costa e del Fiume Oreto
+Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti progetti destinati a (...) ripristinare e valorizzare le connessioni ecologiche e la qualità paesaggistica dei Siti della Rete Ecologica comunale e a riequilibrare il sistema fisico, ambientale e socio-economico della \ |STYLE8|\  e del \ |STYLE9|\ . La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’Avviso pubblico per la selezione di beneficiari e operazioni con procedura di valutazione delle domande a graduatoria, sui fondi del “PO FESR SICILIA 2014-2020, Asse 6, Azioni 6.5.1 e 6.6.1:
 
-La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’Avviso pubblico per la selezione di beneficiari e operazioni con procedura di valutazione delle domande a graduatoria, sui fondi del “PO FESR SICILIA 2014-2020, Asse 6, Azioni 6.5.1 e 6.6.1.
+* Asse 6, Azione 6.5.1 “Azioni previste nei Prioritized Action Framework (PAF) e nei Piani di Gestione della Rete Natura 2000”.
 
-* Asse 6, Azione 6.5.1 “Azioni previste nei Prioritized Action Framework(PAF) e nei Piani di Gestione della Rete Natura 2000”.
-
-* Parco litoraneo costa Sud - SIC ITA020023 – Valle del fiume Oreto - Intervento di rinaturalizzazione della foce.
-
-* L’intervento nel SIC ITA 020012 Valle dell’Oreto rappresenta la prima importante sperimentazione di risarcimento ambientale del tratto urbano del Fiume dove emergono le maggiori minacce e criticità, che il progetto intende arginare attraverso opere di rigenerazione delle matrici ambientali e di ripopolamento degli habitat e delle specie, coerenti con il Piano di gestione “Monti di Palermo e Valle dell’Oreto” e con gli obiettivi del Protocollo d’Intesa siglato con i Comuni di Altofonte e di Monreale per l’avvio del Parco dell’Oreto.
+    * \ |STYLE10|\  - SIC ITA020023 – \ |STYLE11|\  - Intervento di rinaturalizzazione della foce. L’intervento nel SIC ITA 020012 Valle dell’Oreto rappresenta la prima importante sperimentazione di risarcimento ambientale del tratto urbano del Fiume dove emergono le maggiori minacce e criticità, che il progetto intende arginare attraverso opere di rigenerazione delle matrici ambientali e di ripopolamento degli habitat e delle specie, coerenti con il Piano di gestione “Monti di Palermo e Valle dell’Oreto” e con gli obiettivi del Protocollo d’Intesa siglato con i Comuni di Altofonte e di Monreale per l’avvio del Parco dell’Oreto.
 
 * Asse 6, Azione 6.6.1 “Interventi per la tutela e la valorizzazione di aree di attrazione di rilevanza strategica (aree protette in ambito terrestre e marino, paesaggi tutelati) tali da consolidare e promuovere processi di sviluppo”.
 
-* Percorso ciclopedonale all’Addaura – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00).
-
-* Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK8|\ ]
+    * \ |STYLE12|\  – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00). Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK8|\ ]
 
 
 .. bottom of content
@@ -256,6 +250,16 @@ La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’
 .. |STYLE6| replace:: **Oreto**
 
 .. |STYLE7| replace:: **Piantumazioni di alberi nelle vie cittadine**
+
+.. |STYLE8| replace:: **Costa**
+
+.. |STYLE9| replace:: **Fiume Oreto**
+
+.. |STYLE10| replace:: **Parco litoraneo costa Sud**
+
+.. |STYLE11| replace:: **Valle del fiume Oreto**
+
+.. |STYLE12| replace:: **Percorso ciclopedonale all’Addaura**
 
 
 .. |REPLACE1| raw:: html
