@@ -70,7 +70,7 @@ Definizione di “sostenibilità”
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/ambi.png" width=50 />
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/ciclo.png" width=50 />
     <img src="https://opendata.comune.palermo.it/img/temi/mobilita.png" width=50 />
-    <img src="https://opendata.comune.palermo.it/img/temi/opere.png" width=50 />
+    <img src="https://opendata.comune.palermo.it/img/temi/attivita.png" width=50 />
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="350" src="https://www.youtube.com/embed/hyke-OUTW68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
