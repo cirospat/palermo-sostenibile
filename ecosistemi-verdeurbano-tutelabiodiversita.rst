@@ -274,7 +274,8 @@ La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’
     <iframe src="https://www.google.com/maps/d/embed?mid=1O_Uf4NEz5QuHrbSBIS7Q1dVt9IY&hl=it" width="100%" height="600"></iframe>
 .. |REPLACE5| raw:: html
 
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/C4a-1hpBOSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/C4a-1hpBOSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></br>
+    "Oreto - The Urban Adventure" di Igor D'India - Vedipalermo 2013
 .. |REPLACE6| raw:: html
 
     <img src="https://fai-platform.imgix.net/media/sicilia/pa/41226_fiume-oreto.jpg" width=600 /></br>
