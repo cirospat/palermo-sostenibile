@@ -70,6 +70,8 @@ Strategie
 Azioni in corso 
 ****************
 
+\ |STYLE4|\ 
+
 Nel 2017 sono state piantate circa 4500 essenze vegetali su tutto il territorio comunale. Di seguito vengono riportate le piantumazioni effettuate nelle vie cittadine:
 
 +---------------------+------------------------------------------------------+
@@ -194,6 +196,8 @@ Le essenze vegetali piantumate sono state in parte prodotte dal Vivaio Comunale.
 
 |REPLACE5|
 
+[Fonte: \ |LINK2|\ ].
+
 |
 
 .. _h2a1f625ca645c176c487a146b4e3612:
@@ -212,6 +216,8 @@ Azioni di medio periodo
 .. |STYLE2| replace:: **Mappa degli spazi verdi pubblici fruibili di Palermo**
 
 .. |STYLE3| replace:: **Mappa della zona costiera di Palermo con divieti di balneazione**
+
+.. |STYLE4| replace:: **Piantumazioni di alberi nelle vie cittadine**
 
 
 .. |REPLACE1| raw:: html
@@ -234,4 +240,8 @@ Azioni di medio periodo
 .. |LINK1| raw:: html
 
     <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano Strategico di Palermo, 2008</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://www.comune.palermo.it/bilancio_sociale.php?anno=2017&indice=2" target="_blank">Bilancio Sociale comunale, anno 2017</a>
 
