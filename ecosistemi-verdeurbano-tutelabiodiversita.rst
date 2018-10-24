@@ -49,7 +49,7 @@ Governance territoriale
 
 \ |LINK2|\  (Rete Natura 2000). 
 
-Piano di Utilizzo delle Aree Demaniali Marittime del Comune di Palermo - SIC: ITA 020012 – “\ |STYLE4|\ ” [\ |LINK3|\ ].
+Piano di Utilizzo delle Aree Demaniali Marittime del Comune di Palermo, SIC: ITA 020012 - “\ |STYLE4|\ ” [\ |LINK3|\ ].
 
 Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costruzione del tratto Oreto-Notarbartolo della Metropolitana Automatica Leggera di Palermo sul S.I.C. ITA020012 “\ |STYLE5|\ ”. La Valutazione di Incidenza viene definita come uno studio scientifico che deve avere come    obiettivo    di    individuare    e    valutare    gli    impatti    che    le    attività    umane    (piani/progetti/interventi) possono esercitare sugli habitat e le specie animali e vegetali dei SIC o delle ZPS che sono stati individuati e inseriti all’interno dei formulari Natura 2000. [\ |LINK4|\ ]  
 
@@ -273,7 +273,7 @@ La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’
 .. |REPLACE5| raw:: html
 
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/C4a-1hpBOSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></br>
-    "Oreto - The Urban Adventure" di Igor D'India - Vedipalermo 2013
+    "Oreto - The Urban Adventure" di Igor D'India - Vedipalermo 2013. Un video che ci porta in un viaggio all’interno del fiume facendoci scoprire elementi naturali sconosciuti.
 .. |REPLACE6| raw:: html
 
     <img src="https://fai-platform.imgix.net/media/sicilia/pa/41226_fiume-oreto.jpg" width=600 /></br>
