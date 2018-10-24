@@ -129,7 +129,9 @@ Strategie
 
 |REPLACE2|
 
-Laboratorio cittadino “\ |LINK16|\ ”. \ |LINK17|\  del laboratorio.
+* Laboratorio cittadino “\ |LINK16|\ ”. \ |LINK17|\  del laboratorio.
+
+* Il Comune di Palermo sta elaborando il Piano Urbano della Mobilità Sostenibile (P.U.M.S.). A tal fine ha predisposto un \ |LINK18|\  di chi studia, lavora e/o frequenta giornalmente la città o l'Area Metropolitana di Palermo. La compilazione del questionario richiede pochi minuti di tempo. I risultati saranno successivamente elaborati e messi a disposizione sul sito istituzionale del Comune.  
 
 |
 
@@ -214,4 +216,8 @@ Laboratorio cittadino “\ |LINK16|\ ”. \ |LINK17|\  del laboratorio.
 .. |LINK17| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/_10072018113226.pdf" target="_blank">Instant Report</a>
+
+.. |LINK18| raw:: html
+
+    <a href="https://mobilitasostenibile.comune.palermo.it/questionario-pums.php?fbclid=IwAR3umQIaPxLQaDhS44ritFIYUTJF3fTCjRW7DMENrPcYegSPz68eB82RZWo" target="_blank">breve questionario che intende raccogliere informazioni sui bisogni di mobilità</a>
 
