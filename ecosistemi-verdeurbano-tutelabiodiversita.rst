@@ -49,9 +49,7 @@ Governance territoriale
 
 \ |LINK2|\  (Rete Natura 2000). 
 
-Piano di Utilizzo delle Aree Demaniali Marittime del Comune di Palermo
-
-SIC: ITA 020012 – “\ |STYLE4|\ ” [\ |LINK3|\ ]
+Piano di Utilizzo delle Aree Demaniali Marittime del Comune di Palermo - SIC: ITA 020012 – “\ |STYLE4|\ ” [\ |LINK3|\ ].
 
 Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costruzione del tratto Oreto-Notarbartolo della Metropolitana Automatica Leggera di Palermo sul S.I.C. ITA020012 “\ |STYLE5|\ ”. La Valutazione di Incidenza viene definita come uno studio scientifico che deve avere come    obiettivo    di    individuare    e    valutare    gli    impatti    che    le    attività    umane    (piani/progetti/interventi) possono esercitare sugli habitat e le specie animali e vegetali dei SIC o delle ZPS che sono stati individuati e inseriti all’interno dei formulari Natura 2000. [\ |LINK4|\ ]  
 
@@ -64,15 +62,15 @@ Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costr
 Obiettivi di medio e lungo periodo
 **********************************
 
-.. _h675b47734137664b617343712c44b15:
+.. _h5f7c6c417c1b7a19302434231d1b6e4:
 
-Luoghi da tutelare, i luoghi del cuore dell’iniziativa del F.A.I., il censimento dei luoghi italiani da non dimenticare: \ |LINK5|\ 
-------------------------------------------------------------------------------------------------------------------------------------
+Luoghi da tutelare, i luoghi del cuore dell’iniziativa del F.A.I. edizione 2018, il censimento dei luoghi italiani da non dimenticare: \ |LINK5|\ 
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 |REPLACE6|
 
-L'\ |STYLE6|\  è un fiume siciliano che scorre nella Valle dell'Oreto e con un bacino che si estende nei territori dei comuni di Altofonte, Monreale e Palermo. Lungo circa 20 chilometri, ha la sorgente a sud di Palermo, nella cosiddetta Conca d'Oro, lungo la dorsale del Monte Matassaro Renna; da qui in poi scorre verso la periferia sud del capoluogo siciliano per andare a sfociare nel Mar Tirreno. La foce è visibile dal ponte del lungomare Sant'Erasmo. Corso d'acqua a carattere torrentizio, anche nei mesi più caldi conserva un deflusso sufficiente per la presenza di molte sorgive lungo il proprio corso e per la ricchezza della falda che lo alimenta: nel 1997, ultimo dato disponibile, la portata media mensile del fiume ha oscillato fra un massimo di 1,87 metri cubi al secondo (registrato in gennaio) e un minimo di 0,116 metri cubi al secondo (registrato in agosto). Dal 1980 al 1997, la portata massima si è registrata nel gennaio del 1981 (5,876). 
+L'\ |STYLE6|\  è un fiume siciliano che scorre nella Valle dell'Oreto e con un bacino che si estende nei territori dei comuni di Altofonte, Monreale e Palermo. Lungo circa 20 chilometri, ha la sorgente a sud di Palermo, nella cosiddetta Conca d'Oro, lungo la dorsale del Monte Matassaro Renna; da qui in poi scorre verso la periferia sud del capoluogo siciliano per andare a sfociare nel Mar Tirreno. La foce è visibile dal ponte del lungomare Sant'Erasmo. Corso d'acqua a carattere torrentizio, anche nei mesi più caldi conserva un deflusso sufficiente per la presenza di molte sorgive lungo il proprio corso e per la ricchezza della falda che lo alimenta: nel 1997, ultimo dato disponibile, la portata media mensile del fiume ha oscillato fra un massimo di 1,87 metri cubi al secondo (registrato in gennaio) e un minimo di 0,116 metri cubi al secondo (registrato in agosto). Dal 1980 al 1997, la portata massima si è registrata nel gennaio del 1981 (5,876) [\ |LINK6|\ ].
 
 |
 
@@ -214,7 +212,7 @@ Le essenze vegetali piantumate sono state in parte prodotte dal Vivaio Comunale.
 
 |REPLACE7|
 
-[Fonte: \ |LINK6|\ ].
+[Fonte: \ |LINK7|\ ].
 
 |
 
@@ -237,7 +235,7 @@ La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’
 
 * Percorso ciclopedonale all’Addaura – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00).
 
-* Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK7|\ ]
+* Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK8|\ ]
 
 
 .. bottom of content
@@ -307,9 +305,13 @@ La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.comune.palermo.it/bilancio_sociale.php?anno=2017&indice=2" target="_blank">Bilancio Sociale comunale, anno 2017</a>
+    <a href="https://www.fondoambiente.it/luoghi/fiume-oreto?ldc#section2" target="_blank">fonte</a>
 
 .. |LINK7| raw:: html
+
+    <a href="https://www.comune.palermo.it/bilancio_sociale.php?anno=2017&indice=2" target="_blank">Bilancio Sociale comunale, anno 2017</a>
+
+.. |LINK8| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?id=15934" target="_blank">Fonte</a>
 
