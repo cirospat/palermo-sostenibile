@@ -44,6 +44,8 @@ Strategie
 \ |LINK2|\  (2009).
 -------------------
 
+Strumento  programmatico,  partenariale  e  gestionale  finalizzato  alla riorganizzazione  del  processo  di  sviluppo (di medio e lungo periodo), qualificazione e crescita competitiva della città e dell’area metropolitana, il Piano Strategico di Palermo Capitale dell’Euromediterraneo nasce con l’obiettivo di tracciare una nuova visione della città nella quale promuovere azioni ed interventi in grado di valorizzarne risorse e potenzialità.
+
 |
 
 .. _h23166441701c481411c427b1d41360:
