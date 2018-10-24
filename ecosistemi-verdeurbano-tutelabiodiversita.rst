@@ -70,9 +70,7 @@ Strategie
 Azioni in corso 
 ****************
 
-Nel 2017 sono state piantate circa 4500 essenze vegetali su tutto il territorio comunale.
-
-Di seguito vengono riportate le piantumazioni effettuate nelle vie cittadine:
+Nel 2017 sono state piantate circa 4500 essenze vegetali su tutto il territorio comunale. Di seguito vengono riportate le piantumazioni effettuate nelle vie cittadine:
 
 +---------------------+------------------------------------------------------+
 |Melie                |Corso Calatafimi                                      |
@@ -230,10 +228,8 @@ Azioni di medio periodo
     <iframe src="https://www.google.com/maps/d/embed?mid=1O_Uf4NEz5QuHrbSBIS7Q1dVt9IY&hl=it" width="100%" height="600"></iframe>
 .. |REPLACE5| raw:: html
 
-    ϕ HTML
-
-    <img src="https://www.comune.palermo.it/js/server/uploads/bs/img/_20042018085651.jpg" width=300 /></br>
-    <img src="https://www.comune.palermo.it/js/server/uploads/bs/img/_20042018085707.jpg" width=300 />
+    <img src="https://www.comune.palermo.it/js/server/uploads/bs/img/_20042018085651.jpg" width=600 /></br>
+    <img src="https://www.comune.palermo.it/js/server/uploads/bs/img/_20042018085707.jpg" width=600 />
 
 .. |LINK1| raw:: html
 
