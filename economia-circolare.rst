@@ -70,9 +70,7 @@ Azioni in corso
 
 * \ |LINK9|\ . 
 
-* Fa' la Cosa Giusta! Nel weekend 9-10-11 novembre a Palermo, presso la Fiera del Mediterraneo, si terrà la 5° edizione di "Fa’ la Cosa Giusta! Sicilia".
-
-    \ |LINK10|\ 
+* Fà' la Cosa Giusta! Nel weekend 9-10-11 novembre a Palermo, presso la Fiera del Mediterraneo, si terrà la 5° edizione di "\ |LINK10|\ ".
 
 * \ |STYLE0|\ 
 
@@ -170,7 +168,7 @@ Azioni di medio periodo
 
 .. |LINK10| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=3&id=20075" target="_blank">https://www.comune.palermo.it/noticext.php?cat=3&id=20075</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=3&id=20075" target="_blank">Fà la Cosa Giusta! Sicilia</a>
 
 .. |LINK11| raw:: html
 
