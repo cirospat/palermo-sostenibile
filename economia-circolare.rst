@@ -70,6 +70,14 @@ Azioni in corso
 
 * \ |LINK9|\ . 
 
+* Fa' la Cosa Giusta! Nel weekend 9-10-11 novembre a Palermo, presso la Fiera del Mediterraneo, si terrà la 5° edizione di "Fa’ la Cosa Giusta! Sicilia".
+
+    \ |LINK10|\ 
+
+* \ |STYLE0|\ 
+
+|REPLACE3|
+
 |
 
 .. _h5d5ec767626f756672754a504e1576:
@@ -77,17 +85,17 @@ Azioni in corso
 Servizi in corso
 ****************
 
-* \ |LINK10|\  a cura dell’Azienda RAP
-
-|REPLACE3|
-
 * \ |LINK11|\  a cura dell’Azienda RAP
 
 |REPLACE4|
 
-* Raccolta oli vegetali esausti
+* \ |LINK12|\  a cura dell’Azienda RAP
 
 |REPLACE5|
+
+* Raccolta oli vegetali esausti
+
+|REPLACE6|
 
 |
 
@@ -96,10 +104,13 @@ Servizi in corso
 Azioni di medio periodo
 ***********************
 
-* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK12|\ ] 
+* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti. [fonte: \ |LINK13|\ ] 
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Mappa dei mercatini del biologico e del contadino**
 
 
 .. |REPLACE1| raw:: html
@@ -110,11 +121,14 @@ Azioni di medio periodo
     <img src="https://www.comune.palermo.it/js/server/uploads/220x220/_25092018100554.png" /> 
 .. |REPLACE3| raw:: html
 
-    <img src="http://www.rapspa.it/site/wp-content/uploads/2016/03/ingombranti-per-richiesta_semplice...jpg" /> 
+    <iframe width="100%" height="500px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887">Visualizza a schermo intero</a></p>
 .. |REPLACE4| raw:: html
 
-    <iframe src="https://www.google.com/maps/d/embed?mid=1tcTEms0NKyjHsm70gDcuZntLC98" width="100%" height="550"></iframe>
+    <img src="http://www.rapspa.it/site/wp-content/uploads/2016/03/ingombranti-per-richiesta_semplice...jpg" /> 
 .. |REPLACE5| raw:: html
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=1tcTEms0NKyjHsm70gDcuZntLC98" width="100%" height="550"></iframe>
+.. |REPLACE6| raw:: html
 
     <iframe src="https://www.google.com/maps/d/embed?mid=1o87PhUJB-CHEU-knWXLyAvOw7okrtswb" width="100%0" height="550"></iframe>
 
@@ -156,13 +170,17 @@ Azioni di medio periodo
 
 .. |LINK10| raw:: html
 
-    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=3&id=20075" target="_blank">https://www.comune.palermo.it/noticext.php?cat=3&id=20075</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://www.rapspa.it/site/indumenti-e-accessori-usati-giocattoli/" target="_blank">Raccolta indumenti usati</a>
+    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
 
 .. |LINK12| raw:: html
+
+    <a href="http://www.rapspa.it/site/indumenti-e-accessori-usati-giocattoli/" target="_blank">Raccolta indumenti usati</a>
+
+.. |LINK13| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19830" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=19830</a>
 
