@@ -624,7 +624,7 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="1000px" frameBorder="0" src="http://www.ponmetropalermo.it/c/portal/layout?p_l_id=43805&p_v_l_s_g_id=0"></iframe>
+    <iframe width="100%" height="1000px" frameBorder="0" src="https://www.ponmetropalermo.it/c/portal/layout?p_l_id=43805&p_v_l_s_g_id=0"></iframe>
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQS7tTPdCaAJlr_d_W80CrFPEaTmWQua8sr8Z-PqMppueHJ_jlgPjlMzlr1DD6D4d4BMmOQZaVz14xj/pubhtml#"></iframe>
