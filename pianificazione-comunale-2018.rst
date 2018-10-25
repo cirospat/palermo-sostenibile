@@ -4,9 +4,7 @@
 Pianificazione e Governo del territorio 
 ########################################
 
-[Fonte: \ |LINK1|\ ] (Aggiornamento informazioni al 24/09/2018).
-
-\ |STYLE0|\ 
+\ |STYLE0|\  [Fonte: \ |LINK1|\ ] (Aggiornamento informazioni al 24/09/2018).
 
 |
 
@@ -26,6 +24,8 @@ Cofinanziato dal P.O. FESR 2007-2013 obiettivo operativo 7.1.2
 * Palermo capitale dell’Euromediterraneo – allegato Piano di Azione
 
 [fonte: \ |LINK2|\ ]
+
+|
 
 .. _h13ae48216f716c8933281e28643f:
 
@@ -67,6 +67,8 @@ Strumenti urbanistici generali
 
 
 
+|
+
 .. _h6277385795e7f3e461d225d3f515755:
 
 Piano Generale del Traffico Urbano
@@ -86,6 +88,8 @@ Piano Generale del Traffico Urbano
 
 
 
+
+|
 
 .. _h3b6d624843701e672227351817732c31:
 
@@ -123,6 +127,8 @@ AGGIORNAMENTO REGIME VINCOLISTICO
     * INCENDI Anno 2016 - Prop. Delibera di C.C. n. 04 del 27/02/2018 - Aggiornamento	
 
 [fonte: \ |LINK6|\ ]
+
+|
 
 .. _h5e2b6821c2b5d15681e21256c392617:
 
@@ -230,6 +236,8 @@ PARERI PROPEDEUTICI PER L’APPROVAZIONE DELLE VARIANTI URBANISTICHE
 
 * D.A. n. 181 GAB del 28.05.2018 - Proposta variante al PRG Ditta SATIS srl - Verifica assoggettabilita' a VAS ex art. 12 del D.Lgs. 152/06 e s.m.i. art. 8 DPR 8.07.2014 n. 23.
 
+|
+
 .. _h3c522041556c72156659755469386b64:
 
 STRUMENTI URBANISTICI DI ATTUAZIONE
@@ -329,6 +337,8 @@ PIANI DI LOTTI ZZAZIONE TRASMESSI AL C.C. E NON ANCORA APPROVATI
 
 * Via Deianira (Mondello)
 
+|
+
 .. _h15806f6d2747712c7152545d746b595d:
 
 PROGRAMMI INTEGRATI 
@@ -410,6 +420,8 @@ P.R.U.S.S.T.
 
 * Dec. Ass.le n. 46 - PA 1-29 Comune di Palermo - Variante allo strumento urbanistico generale per l'assegnazione della destinazione urbanistica all'area identificata al Fgl. n.58 particelle nn. 1916, 1919. Ditte Cerva Anna Maria Susanna e Pirillo Ettore.
 
+|
+
 .. _h3e631c3fe7d2e9107fc775237a10:
 
 FINANZA DI PROGETTO E INTERVENTI IN P.P.P.
@@ -422,6 +434,8 @@ AD INIZIATIVA PUBBLICA (co. 2, art.153, D.Lgs 163/06)
 AD INIZIATIVA PRIVATA (co. 19, art.153, D.Lgs 163/06)
 
 * Avvisi esplorativi per la ricerca dei promotori – (Nuovo Polo Multifunzionale nell’area dell’Ex Fiera del Mediterraneo)
+
+|
 
 
 
@@ -467,15 +481,12 @@ IN ATTO NON SONO STATE PERIMETRATE AREE DI TRASFORMAZIONE
 
 
 
-.. _h1d594558377d7931375d282d7c523b5:
+|
 
-TABELLA RIASSUNTIVA
-*******************
+.. _he7e7115486f256d83432d8215138:
 
-.. _h405b2d1e51d74223331a6b34553:
-
-ELABORATI CENTRO STORICO
-========================
+TABELLA RIASSUNTIVA DELLA PIANIFICAZIONE NEL CENTRO STORICO
+***********************************************************
 
 .. _h2737a765f504c20345d242f1f4d4d36:
 
@@ -556,6 +567,8 @@ PIANI STRALCIATI
 
 * Discesa delle Capre - Progetto Quaroni
 
+|
+
 .. _h135374652a5bb621b36a2238503f1e:
 
 Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
@@ -566,14 +579,22 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 
 
 
+|
+
 .. _h554f576b103552143535c57353c3f9:
 
 Programma Operativo Nazionale Città Metropolitane, città di Palermo
 *******************************************************************
 
-* D.G.M. n. 268 del 07.12.2016: Presa d'atto revisione Piano Operativo vers. 2.1 del 31.10.2016 approvato nella seduta di Comitato di Gestione Tecnica del Programma del 26.10.2016 e del relativo Documento di Strategia Urbana vers. 2.1 del 31.10.2016 PON METRO.
+* Delibera G.M. n. 268 del 07.12.2016: Presa d'atto revisione Piano Operativo vers. 2.1 del 31.10.2016 approvato nella seduta di Comitato di Gestione Tecnica del Programma del 26.10.2016 e del relativo Documento di Strategia Urbana vers. 2.1 del 31.10.2016 PON METRO.
 
-* D.G.M. n. 135 del 20.07.2016: PON METRO - Presa d’atto del Piano Operativo e del documento di Strategia urbana aggiornato.
+* Delibera G.M. n. 135 del 20.07.2016: PON METRO - Presa d’atto del Piano Operativo e del documento di Strategia urbana aggiornato.
+
+* D.G.C. N. 146 DEL 18.10.2018: Approvazione della versione aggiornata e integrata delle schede del Piano Operativo variate, del nuovo Modello Organizzativo di funzionamento dell'Organismo Intermedio Città di Palermo (MOF) (versione 6 del 10/10/2018) e delle Piste di Controllo ad esso allegate, e del Documento di Autovalutazione del rischio di frode del PON Metro della Città Metropolitana di Palermo.
+
+|REPLACE1|
+
+|
 
 .. _h1166f461376f74434d162406e394b:
 
@@ -581,7 +602,9 @@ Patto per lo Sviluppo della città di Palermo
 ********************************************
 
 
-|REPLACE1|
+|REPLACE2|
+
+|
 
 .. _h135374652a5bb621b36a2238503f1e:
 
@@ -589,6 +612,9 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 **************************************************************************
 
 * Del.G.M.169/2016
+
+|REPLACE3|
+
 
 .. bottom of content
 
@@ -598,7 +624,13 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 
 .. |REPLACE1| raw:: html
 
+    <iframe width="100%" height="1000px" frameBorder="0" src="http://www.ponmetropalermo.it/c/portal/layout?p_l_id=43805&p_v_l_s_g_id=0"></iframe>
+.. |REPLACE2| raw:: html
+
     <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQS7tTPdCaAJlr_d_W80CrFPEaTmWQua8sr8Z-PqMppueHJ_jlgPjlMzlr1DD6D4d4BMmOQZaVz14xj/pubhtml#"></iframe>
+.. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSNDA1BN3OvRyGzUY-2yTS0cTlHZt26lAhg5QiADzm0DjkBNU0nxRJSwxWcc7i5feuR36iv9zbnSW5k/pubhtml"></iframe>
 
 .. |LINK1| raw:: html
 
