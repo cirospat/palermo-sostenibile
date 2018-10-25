@@ -592,7 +592,7 @@ Programma Operativo Nazionale Città Metropolitane, città di Palermo
 
 * D.G.C. N. 146 DEL 18.10.2018: Approvazione della versione aggiornata e integrata delle schede del Piano Operativo variate, del nuovo Modello Organizzativo di funzionamento dell'Organismo Intermedio Città di Palermo (MOF) (versione 6 del 10/10/2018) e delle Piste di Controllo ad esso allegate, e del Documento di Autovalutazione del rischio di frode del PON Metro della Città Metropolitana di Palermo.
 
-|REPLACE1|
+[Fonte: \ |LINK7|\  sito comunale] - [Fonte: \ |LINK8|\  sito nazionale].
 
 |
 
@@ -602,7 +602,7 @@ Patto per lo Sviluppo della città di Palermo
 ********************************************
 
 
-|REPLACE2|
+|REPLACE1|
 
 |
 
@@ -613,7 +613,7 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 
 * Del.G.M.169/2016
 
-|REPLACE3|
+|REPLACE2|
 
 
 .. bottom of content
@@ -624,11 +624,8 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="1000px" frameBorder="0" src="https://www.ponmetropalermo.it/c/portal/layout?p_l_id=43805&p_v_l_s_g_id=0"></iframe>
-.. |REPLACE2| raw:: html
-
     <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQS7tTPdCaAJlr_d_W80CrFPEaTmWQua8sr8Z-PqMppueHJ_jlgPjlMzlr1DD6D4d4BMmOQZaVz14xj/pubhtml#"></iframe>
-.. |REPLACE3| raw:: html
+.. |REPLACE2| raw:: html
 
     <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSNDA1BN3OvRyGzUY-2yTS0cTlHZt26lAhg5QiADzm0DjkBNU0nxRJSwxWcc7i5feuR36iv9zbnSW5k/pubhtml"></iframe>
 
@@ -655,4 +652,12 @@ Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 .. |LINK6| raw:: html
 
     <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=105" target="_blank">Amministrazione Trasparente</a>
+
+.. |LINK7| raw:: html
+
+    <a href="http://www.ponmetropalermo.it/c/portal/layout?p_l_id=43805&p_v_l_s_g_id=0" target="_blank">Pon Metro Palermo 2014-2020</a>
+
+.. |LINK8| raw:: html
+
+    <a href="http://www.ponmetro.it/home/ecosistema/viaggio-nei-cantieri-pon-metro/pon-metro-palermo/" target="_blank">PON METRO Palermo 2014-2020</a>
 
