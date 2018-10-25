@@ -85,15 +85,27 @@ Azioni in corso
 Servizi in corso
 ****************
 
-* \ |LINK11|\  a cura dell’Azienda RAP
+.. _h344d51184a7e62673545024482f3163:
+
+\ |LINK11|\  a cura dell’Azienda RAP
+------------------------------------
+
 
 |REPLACE4|
 
-* \ |LINK12|\  a cura dell’Azienda RAP
+.. _h5b4c3e3f33623425e2651364025c2a:
+
+\ |LINK12|\  a cura dell’Azienda RAP
+------------------------------------
+
 
 |REPLACE5|
 
-* Raccolta oli vegetali esausti
+.. _h3328f6452382b1c21317043614231a:
+
+Raccolta oli vegetali esausti
+-----------------------------
+
 
 |REPLACE6|
 
@@ -104,7 +116,7 @@ Servizi in corso
 Azioni di medio periodo
 ***********************
 
-* Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti [\ |LINK13|\ ].
+Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti [\ |LINK13|\ ].
 
 
 .. bottom of content
