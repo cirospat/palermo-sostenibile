@@ -9,14 +9,14 @@ Sostenibilità a Palermo
 
 Dalla \ |LINK1|\  alla ``sostenibilità`` nel territorio urbano di Palermo. Una piattaforma contenente la documentazione che illustra informazioni e dati su azioni, politiche e obiettivi concernenti la sostenibilità della città. Un'iniziativa che nasce nell’autunno del 2018 dentro alcune stanze degli uffici comunali di Palermo per la necessità di mettere a sistema tanti pezzi di informazione che risultano frammentati, e che è in continuo aggiornamento al fine di essere punto di riferimento culturale a livello locale.
 
-Un progetto informativo che intende coinvolgere i soggetti e le associazioni della società civile impegnati a vario titolo in azioni della sostenibilità nella città di Palermo, al fine di condividere contenuti e cultura ambientale.
+Un progetto informativo che intende \ |LINK2|\  i soggetti e le associazioni della società civile impegnati a vario titolo in azioni della sostenibilità nella città di Palermo, al fine di condividere contenuti e cultura ambientale.
 
 .. _h502d6c7a7f1119544d695d357912255c:
 
 Definizione di “sostenibilità”
 ------------------------------
 
-“\ |STYLE0|\ ” [Definizione di “\ |LINK2|\ ” da Wikipedia].
+“\ |STYLE0|\ ” [Definizione di “\ |LINK3|\ ” da Wikipedia].
 
 
 |REPLACE2|
@@ -24,7 +24,7 @@ Definizione di “sostenibilità”
 
 .. admonition:: Dal 1° rapporto sullo stato dell’ambiente alla Carta di Bologna
 
-    Sono trascorsi 11 anni da quando è stata redatta la \ |LINK3|\ , avvenuta nel 2006 [Fonte: \ |LINK4|\ ]. Diverse le azioni avviate e le pianificazioni introdotte in questo decennio per una maggiore tutela dell’ambiente e della biodiversità. Questa piattaforma è un contenitore quanto più possibile organizzato di informazioni e dati. 
+    Sono trascorsi 11 anni da quando è stata redatta la \ |LINK4|\ , avvenuta nel 2006 [Fonte: \ |LINK5|\ ]. Diverse le azioni avviate e le pianificazioni introdotte in questo decennio per una maggiore tutela dell’ambiente e della biodiversità. Questa piattaforma è un contenitore quanto più possibile organizzato di informazioni e dati. 
 
 
 .. toctree:: 
@@ -83,13 +83,17 @@ Definizione di “sostenibilità”
 
 .. |LINK2| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Sostenibilit%C3%A0" target="_blank">sostenibilità</a>
+    <a href="https://palermo-sostenibile.readthedocs.io/it/latest/come-partecipare.html" target="_blank">coinvolgere</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° versione della Relazione sullo stato dell’Ambiente della città di Palermo</a>
+    <a href="https://it.wikipedia.org/wiki/Sostenibilit%C3%A0" target="_blank">sostenibilità</a>
 
 .. |LINK4| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° versione della Relazione sullo stato dell’Ambiente della città di Palermo</a>
+
+.. |LINK5| raw:: html
 
     <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=20&asel=141" target="_blank">Amministrazione Trasparente - Informazioni ambientali</a>
 
