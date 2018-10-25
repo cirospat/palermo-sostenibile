@@ -74,7 +74,7 @@ Azioni in corso
 
 \ |LINK10|\  Nel weekend 9-10-11 novembre a Palermo, presso la Fiera del Mediterraneo, si terrà la 5° edizione di "Fà la Cosa Giusta! Sicilia".
 
-\ |STYLE0|\ 
+\ |LINK11|\ 
 
 |REPLACE3|
 
@@ -85,17 +85,17 @@ Azioni in corso
 Servizi in corso
 ****************
 
-.. _h344d51184a7e62673545024482f3163:
+.. _h5b4c3e3f33623425e2651364025c2a:
 
-\ |LINK11|\  a cura dell’Azienda RAP
+\ |LINK12|\  a cura dell’Azienda RAP
 ------------------------------------
 
 
 |REPLACE4|
 
-.. _h5b4c3e3f33623425e2651364025c2a:
+.. _h513e646f1a1b43697a128502ee7f35:
 
-\ |LINK12|\  a cura dell’Azienda RAP
+\ |LINK13|\  a cura dell’Azienda RAP
 ------------------------------------
 
 
@@ -116,13 +116,10 @@ Raccolta oli vegetali esausti
 Azioni di medio periodo
 ***********************
 
-Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti [\ |LINK13|\ ].
+Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le aziende e tutti gli uffici dell’Amministrazione interessati a vario titolo al tema dei rifiuti per l’avvio di azioni specifiche finalizzate al contrasto all’abbandono illecito degli ingombranti e al mancato smaltimento corretto della frazione umida/biodegradabile dei rifiuti [\ |LINK14|\ ].
 
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: **Mappa dei mercatini del biologico e del contadino**
 
 
 .. |REPLACE1| raw:: html
@@ -186,13 +183,17 @@ Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le azi
 
 .. |LINK11| raw:: html
 
-    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
+    <a href="http://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887#13/38.1387/13.3704" target="_blank">Mappa dei mercatini del biologico e del contadino</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://www.rapspa.it/site/indumenti-e-accessori-usati-giocattoli/" target="_blank">Raccolta indumenti usati</a>
+    <a href="http://www.rapspa.it/site/ritiro-gratuito-a-domicilio/" target="_blank">Ritiro rifiuti ingombranti gratuito a domicilio</a>
 
 .. |LINK13| raw:: html
+
+    <a href="http://www.rapspa.it/site/indumenti-e-accessori-usati-giocattoli/" target="_blank">Raccolta indumenti usati</a>
+
+.. |LINK14| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19830" target="_blank">fonte</a>
 
