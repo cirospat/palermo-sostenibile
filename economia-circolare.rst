@@ -56,25 +56,25 @@ Azioni in corso
 
 |REPLACE1|
 
-* \ |LINK3|\ , rete nazionale degli Enti territoriali contro lo spreco. 
+\ |LINK3|\ , rete nazionale degli Enti territoriali contro lo spreco. 
 
-* \ |LINK4|\ . 
+\ |LINK4|\ . 
 
-* \ |LINK5|\ .
+\ |LINK5|\ .
 
-* \ |LINK6|\ .
+\ |LINK6|\ .
 
 |REPLACE2|
 
-* \ |LINK7|\  che  intende coinvolgere le società partecipate, le quali, entrando in azione in un circuito virtuoso  potrebbero produrre  energia, creando una  economia circolare  grazie a piccoli impianti amovibili che si possono posizionare ovunque.
+\ |LINK7|\  che  intende coinvolgere le società partecipate, le quali, entrando in azione in un circuito virtuoso  potrebbero produrre  energia, creando una  economia circolare  grazie a piccoli impianti amovibili che si possono posizionare ovunque.
 
-* \ |LINK8|\ .
+\ |LINK8|\ .
 
-* \ |LINK9|\ . 
+\ |LINK9|\ . 
 
-* \ |LINK10|\  Nel weekend 9-10-11 novembre a Palermo, presso la Fiera del Mediterraneo, si terrà la 5° edizione di "Fà la Cosa Giusta! Sicilia".
+\ |LINK10|\  Nel weekend 9-10-11 novembre a Palermo, presso la Fiera del Mediterraneo, si terrà la 5° edizione di "Fà la Cosa Giusta! Sicilia".
 
-* \ |STYLE0|\ 
+\ |STYLE0|\ 
 
 |REPLACE3|
 
