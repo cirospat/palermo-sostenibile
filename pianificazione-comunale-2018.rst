@@ -590,7 +590,7 @@ Programma Operativo Nazionale Città Metropolitane, città di Palermo
 
 * Delibera G.M. n. 135 del 20.07.2016: PON METRO - Presa d’atto del Piano Operativo e del documento di Strategia urbana aggiornato.
 
-* D.G.C. N. 146 DEL 18.10.2018: Approvazione della versione aggiornata e integrata delle schede del Piano Operativo variate, del nuovo Modello Organizzativo di funzionamento dell'Organismo Intermedio Città di Palermo (MOF) (versione 6 del 10/10/2018) e delle Piste di Controllo ad esso allegate, e del Documento di Autovalutazione del rischio di frode del PON Metro della Città Metropolitana di Palermo.
+* Delibera G.M. n. 146 del 18.10.2018: Approvazione della versione aggiornata e integrata delle schede del Piano Operativo variate, del nuovo Modello Organizzativo di funzionamento dell'Organismo Intermedio Città di Palermo (MOF) (versione 6 del 10/10/2018) e delle Piste di Controllo ad esso allegate, e del Documento di Autovalutazione del rischio di frode del PON Metro della Città Metropolitana di Palermo.
 
 [Fonte: \ |LINK7|\  sito comunale] - [Fonte: \ |LINK8|\  sito nazionale].
 
@@ -611,7 +611,7 @@ Patto per lo Sviluppo della città di Palermo
 Riqualificazione Urbana, Infrastrutture e Sicurezza della città di Palermo
 **************************************************************************
 
-* Del.G.M.169/2016
+* Delibera G.M.169/2016
 
 |REPLACE2|
 
