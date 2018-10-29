@@ -238,7 +238,7 @@ Gli interventi per la Costa sud-orientale sono finalizzati alla mitigazione del 
     <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/paes.png" width="250" /></a></p>
 .. |REPLACE2| raw:: html
 
-    <img src=”http://193.206.192.214/servertsutmwrite/Temperaturamassimaassolutam7lj8fo7vpknem890vbg8qb6v2104052PM.png” /></br>
+    <img src="http://193.206.192.214/servertsutmwrite/Temperaturamassimaassolutam7lj8fo7vpknem890vbg8qb6v2104052PM.png" /></br>
     Temperatura massima assoluta a Palermo (in °Centrigradi) dal 2003 al 2017
 
 .. |LINK1| raw:: html
