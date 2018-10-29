@@ -25,14 +25,16 @@ Il bollettino giornaliero, contenente la sintesi dei dati di qualità dell’ari
 
 |
 
-.. _h263c37610366c5d212555535515552:
+.. _h1114367f224d5a7f2d214d517e6a7a6e:
 
-Dati di riferimento: indicatore/indicatori 
-*******************************************
+Dati di riferimento: indicatori della qualità dell’aria
+=======================================================
 
 Qualità dell’aria - indicatore:
 
 * numero di giorni all’anno in cui si registrano superamenti del PM10 (in microgrammi su metrocubo) rispetto ai limiti previsti dalla normativa
+
+|
 
 .. _h43104565a44a2c6b501a66f162e43:
 
@@ -116,6 +118,15 @@ Documento di Strategia Urbana (edizione 2017)
 
 |
 
+.. _h202f13516614a7313a4e1665682667:
+
+Mappatura Acustica Strategica (edizione 2017)
+=============================================
+
+\ |LINK16|\  (Anno 2017)
+
+|
+
 .. _h0686821523b385e435a2a761ff4b45:
 
 Obiettivi di medio e lungo periodo
@@ -131,9 +142,9 @@ Strategie
 
 |REPLACE2|
 
-* Laboratorio cittadino “\ |LINK16|\ ”. \ |LINK17|\  del laboratorio.
+* Laboratorio cittadino “\ |LINK17|\ ”. \ |LINK18|\  del laboratorio.
 
-* Il Comune di Palermo sta elaborando il Piano Urbano della Mobilità Sostenibile (P.U.M.S.). A tal fine ha predisposto un \ |LINK18|\  di chi studia, lavora e/o frequenta giornalmente la città o l'Area Metropolitana di Palermo. La compilazione del questionario richiede pochi minuti di tempo. I risultati saranno successivamente elaborati e messi a disposizione sul sito istituzionale del Comune.  
+* Il Comune di Palermo sta elaborando il Piano Urbano della Mobilità Sostenibile (P.U.M.S.). A tal fine ha predisposto un \ |LINK19|\  di chi studia, lavora e/o frequenta giornalmente la città o l'Area Metropolitana di Palermo. La compilazione del questionario richiede pochi minuti di tempo. I risultati saranno successivamente elaborati e messi a disposizione sul sito istituzionale del Comune.  
 
 |
 
@@ -215,13 +226,17 @@ Strategie
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?id=18788" target="_blank">La città che si muove: tram per tutti</a>
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=20&asel=215" target="_blank">Mappatura Acustica dell'agglomerato di Palermo ai sensi del d.lgs 194/05</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/_10072018113226.pdf" target="_blank">Instant Report</a>
+    <a href="https://www.comune.palermo.it/noticext.php?id=18788" target="_blank">La città che si muove: tram per tutti</a>
 
 .. |LINK18| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072018113226.pdf" target="_blank">Instant Report</a>
+
+.. |LINK19| raw:: html
 
     <a href="https://mobilitasostenibile.comune.palermo.it/questionario-pums.php?fbclid=IwAR3umQIaPxLQaDhS44ritFIYUTJF3fTCjRW7DMENrPcYegSPz68eB82RZWo" target="_blank">breve questionario che intende raccogliere informazioni sui bisogni di mobilità</a>
 
