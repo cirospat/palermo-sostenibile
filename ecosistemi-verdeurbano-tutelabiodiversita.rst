@@ -86,7 +86,10 @@ Strategie
 Azioni in corso 
 ****************
 
-\ |STYLE7|\ 
+.. _h7a3d554643a43346d5b7de726ae1f:
+
+Piantumazioni di alberi nelle vie cittadine
+===========================================
 
 Nel 2017 sono state piantate circa 4500 essenze vegetali su tutto il territorio comunale. Di seguito vengono riportate le piantumazioni effettuate nelle vie cittadine:
 
@@ -214,22 +217,27 @@ Le essenze vegetali piantumate sono state in parte prodotte dal Vivaio Comunale.
 
 [Fonte: \ |LINK7|\ ].
 
-|
+.. _h3011562c3f105445225456475784d4c:
+
+Progetto: Un albero per ogni neonato.
+=====================================
+
+Durante l’ultimo quinquennio, a fronte di circa \ |STYLE7|\  tra il 2012 ed il 2016, sono state \ |STYLE8|\  [\ |LINK8|\ ].
 
 .. _h2a1f625ca645c176c487a146b4e3612:
 
 Azioni di medio periodo
 ***********************
 
-Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti progetti destinati a (...) ripristinare e valorizzare le connessioni ecologiche e la qualità paesaggistica dei Siti della Rete Ecologica comunale e a riequilibrare il sistema fisico, ambientale e socio-economico della \ |STYLE8|\  e del \ |STYLE9|\ . La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’Avviso pubblico per la selezione di beneficiari e operazioni con procedura di valutazione delle domande a graduatoria, sui fondi del “PO FESR SICILIA 2014-2020, Asse 6, Azioni 6.5.1 e 6.6.1:
+Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti progetti destinati a (...) ripristinare e valorizzare le connessioni ecologiche e la qualità paesaggistica dei Siti della Rete Ecologica comunale e a riequilibrare il sistema fisico, ambientale e socio-economico della \ |STYLE9|\  e del \ |STYLE10|\ . La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’Avviso pubblico per la selezione di beneficiari e operazioni con procedura di valutazione delle domande a graduatoria, sui fondi del “PO FESR SICILIA 2014-2020, Asse 6, Azioni 6.5.1 e 6.6.1:
 
 * Asse 6, Azione 6.5.1 “Azioni previste nei Prioritized Action Framework (PAF) e nei Piani di Gestione della Rete Natura 2000”.
 
-    * \ |STYLE10|\  - SIC ITA020023 – \ |STYLE11|\  - Intervento di rinaturalizzazione della foce. L’intervento nel SIC ITA 020012 Valle dell’Oreto rappresenta la prima importante sperimentazione di risarcimento ambientale del tratto urbano del Fiume dove emergono le maggiori minacce e criticità, che il progetto intende arginare attraverso opere di rigenerazione delle matrici ambientali e di ripopolamento degli habitat e delle specie, coerenti con il Piano di gestione “Monti di Palermo e Valle dell’Oreto” e con gli obiettivi del Protocollo d’Intesa siglato con i Comuni di Altofonte e di Monreale per l’avvio del Parco dell’Oreto.
+    * \ |STYLE11|\  - SIC ITA020023 – \ |STYLE12|\  - Intervento di rinaturalizzazione della foce. L’intervento nel SIC ITA 020012 Valle dell’Oreto rappresenta la prima importante sperimentazione di risarcimento ambientale del tratto urbano del Fiume dove emergono le maggiori minacce e criticità, che il progetto intende arginare attraverso opere di rigenerazione delle matrici ambientali e di ripopolamento degli habitat e delle specie, coerenti con il Piano di gestione “Monti di Palermo e Valle dell’Oreto” e con gli obiettivi del Protocollo d’Intesa siglato con i Comuni di Altofonte e di Monreale per l’avvio del Parco dell’Oreto.
 
 * Asse 6, Azione 6.6.1 “Interventi per la tutela e la valorizzazione di aree di attrazione di rilevanza strategica (aree protette in ambito terrestre e marino, paesaggi tutelati) tali da consolidare e promuovere processi di sviluppo”.
 
-    * \ |STYLE12|\  – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00). Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK8|\ ].
+    * \ |STYLE13|\  – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00). Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK9|\ ].
 
 
 .. bottom of content
@@ -249,17 +257,19 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
 
 .. |STYLE6| replace:: **Oreto**
 
-.. |STYLE7| replace:: **Piantumazioni di alberi nelle vie cittadine**
+.. |STYLE7| replace:: **29 mila bambini nati**
 
-.. |STYLE8| replace:: **Costa**
+.. |STYLE8| replace:: **piantate 30.200 essenze legnose tra alberi (circa il 30%) e arbusti, per una media di circa 1,03 piante per ogni nuovo nato.**
 
-.. |STYLE9| replace:: **Fiume Oreto**
+.. |STYLE9| replace:: **Costa**
 
-.. |STYLE10| replace:: **Parco litoraneo costa Sud**
+.. |STYLE10| replace:: **Fiume Oreto**
 
-.. |STYLE11| replace:: **Valle del fiume Oreto**
+.. |STYLE11| replace:: **Parco litoraneo costa Sud**
 
-.. |STYLE12| replace:: **Percorso ciclopedonale all’Addaura**
+.. |STYLE12| replace:: **Valle del fiume Oreto**
+
+.. |STYLE13| replace:: **Percorso ciclopedonale all’Addaura**
 
 
 .. |REPLACE1| raw:: html
@@ -316,6 +326,10 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
     <a href="https://www.comune.palermo.it/bilancio_sociale.php?anno=2017&indice=2" target="_blank">Bilancio Sociale comunale, anno 2017</a>
 
 .. |LINK8| raw:: html
+
+    <a href="https://www.ilsicilia.it/un-albero-per-ogni-neonato-palermo-tra-le-citta-piu-verdi-ditalia/" target="_blank">Fonte</a>
+
+.. |LINK9| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?id=15934" target="_blank">Fonte</a>
 
