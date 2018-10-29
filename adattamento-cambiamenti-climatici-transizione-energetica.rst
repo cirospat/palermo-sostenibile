@@ -26,7 +26,7 @@ Dati di riferimento: indicatore/indicatori
 Banca dati climatici 
 =====================
 
-\ |LINK2|\ 
+\ |LINK2|\  (Dati ISPRA).
 
 |REPLACE2|
 
