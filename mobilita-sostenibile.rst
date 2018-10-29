@@ -150,7 +150,7 @@ Strategie
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/cabine.jpg" />
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673">Visualizza a schermo intero</a></p>
+    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673">Visualizza a schermo intero</a></p>
 .. |REPLACE3| raw:: html
 
     <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" /></a></p>
