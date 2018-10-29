@@ -45,7 +45,7 @@ Governance territoriale
 
 |REPLACE2|
 
-\ |LINK4|\  (2007).
+⇒ \ |LINK4|\  (2007).
 
 .. _h5848122fa71302c172c255419407b10:
 
@@ -85,7 +85,7 @@ Governance territoriale della Mobilità
 Piano Generale del Traffico Urbano (2013)
 =========================================
 
-\ |LINK12|\  - Il  Piano  Generale  del  Traffico Urbano  della  città  di Palermo costituisce  la definizione di 1° livello della fase progettuale preliminare e conoscitiva.
+\ |STYLE2|\  \ |LINK12|\  - Il  Piano  Generale  del  Traffico Urbano  della  città  di Palermo costituisce  la definizione di 1° livello della fase progettuale preliminare e conoscitiva.
 
 Il  PGTU  è  un  piano  di  breve  termine. Gli  obiettivi  di  carattere generale   proposti   dalle  Direttive   Ministeriali   (miglioramento   delle   condizioni   di circolazione,  miglioramento  della  sicurezza  stradale,  riduzione  dell’inquinamento atmosferico  ed  acustico,  risparmio  energetico) da  conseguirsi  in  accordo  con  gli strumenti  urbanistici  vigenti  e  nel  rispetto  dei  valori  ambientali  ed  applicati  alla  realtà specifica di Palermo, sono traducibili in obiettivi specifici ed operativi quali: 
 
@@ -108,7 +108,7 @@ Il  PGTU  è  un  piano  di  breve  termine. Gli  obiettivi  di  carattere gener
 Piano Strategico per la Mobilità Sostenibile (edizione 2007)
 ============================================================
 
-Il \ |LINK14|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale si dota “volontariamente”, che non sostituisce gli ordinari strumenti della pianificazione generale e di settore, regionali o locali che siano, ma piuttosto li integra, anche superandone l’approccio per ambito amministrativo,  per  metterli  a  sistema  in  una  strategia  di  sviluppo  complessiva  e  strutturale.
+⇒ Il \ |LINK14|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale si dota “volontariamente”, che non sostituisce gli ordinari strumenti della pianificazione generale e di settore, regionali o locali che siano, ma piuttosto li integra, anche superandone l’approccio per ambito amministrativo,  per  metterli  a  sistema  in  una  strategia  di  sviluppo  complessiva  e  strutturale.
 
 
 |
@@ -118,7 +118,7 @@ Il \ |LINK14|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale 
 Documento di Strategia Urbana (edizione 2017)
 =============================================
 
-\ |LINK15|\  \ |STYLE2|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni 80 e 90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
+\ |STYLE3|\  \ |LINK15|\  \ |STYLE4|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni 80 e 90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
 
 |
 
@@ -146,9 +146,9 @@ Strategie
 
 |REPLACE3|
 
-Laboratorio cittadino “\ |LINK17|\ ”. \ |LINK18|\  del laboratorio.
+⇒ Laboratorio cittadino “\ |LINK17|\ ”. \ |LINK18|\  del laboratorio.
 
-Il Comune di Palermo sta elaborando il Piano Urbano della Mobilità Sostenibile (P.U.M.S.). A tal fine ha predisposto un \ |LINK19|\  di chi studia, lavora e/o frequenta giornalmente la città o l'Area Metropolitana di Palermo. La compilazione del questionario richiede pochi minuti di tempo. I risultati saranno successivamente elaborati e messi a disposizione sul sito istituzionale del Comune.  
+⇒ Il Comune di Palermo sta elaborando il Piano Urbano della Mobilità Sostenibile (P.U.M.S.). A tal fine ha predisposto un \ |LINK19|\  di chi studia, lavora e/o frequenta giornalmente la città o l'Area Metropolitana di Palermo. La compilazione del questionario richiede pochi minuti di tempo. I risultati saranno successivamente elaborati e messi a disposizione sul sito istituzionale del Comune.  
 
 |
 
@@ -160,7 +160,11 @@ Il Comune di Palermo sta elaborando il Piano Urbano della Mobilità Sostenibile 
 
 .. |STYLE1| replace:: **Avvisi della Polizia Municipale sulla mobilità a Palermo in real time aggiornato ogni giorno**
 
-.. |STYLE2| replace:: **- Estratto dalla sezione Mobilità**
+.. |STYLE2| replace:: **⇒**
+
+.. |STYLE3| replace:: **⇒**
+
+.. |STYLE4| replace:: **- Estratto dalla sezione Mobilità**
 
 
 .. |REPLACE1| raw:: html
