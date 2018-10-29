@@ -9,7 +9,7 @@ Mobilità sostenibile e qualità dell’aria
 Qualità dell’aria
 *****************
 
-La società partecipata comunale RAP SpA gestisce la rete di rilevamento della qualità dell’aria del Comune di Palermo. La rete è costituita da 10 stazioni ubicate in vari punti rappresentativi della città, dotate di apparecchiature per il controllo continuo dell’inquinamento atmosferico.
+La società partecipata comunale RAP SpA gestisce la rete di rilevamento della qualità dell’aria del Comune di Palermo. La rete è costituita da stazioni ubicate in vari punti rappresentativi della città, dotate di apparecchiature per il controllo continuo dell’inquinamento atmosferico.
 
 \ |STYLE0|\ 
 
