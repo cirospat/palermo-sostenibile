@@ -30,6 +30,9 @@ Banca dati climatici
 
 |REPLACE2|
 
+
+|REPLACE3|
+
 |
 
 .. _h7458382631797d59163f21216263872:
@@ -240,6 +243,10 @@ Asse 5, Azione 5.1.1 A “Interventi di messa in sicurezza e per l’aumento del
 
     <img src="http://193.206.192.214/servertsutmwrite/Temperaturamassimaassolutam7lj8fo7vpknem890vbg8qb6v2104052PM.png" /></br>
     Temperatura massima assoluta a Palermo (in °Centrigradi) dal 2003 al 2017
+.. |REPLACE3| raw:: html
+
+    <img src="http://193.206.192.214/servertsutmrap/serietemporali100.html?paridstazione=6162&parannoinizio=2000&parannofine=2017&paridparametro=8&parpassotemporale=Anno&parsessione=m7lj8fo7vpknem890vbg8qb6v2&parimmaginenew=a" /></br>
+    Temperatura minima assoluta a Palermo (in °Centrigradi) dal 2003 al 2017
 
 .. |LINK1| raw:: html
 
