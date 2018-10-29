@@ -45,8 +45,6 @@ Governance territoriale
 
 |REPLACE2|
 
-|
-
 \ |LINK4|\  (2007).
 
 .. _h5848122fa71302c172c255419407b10:
