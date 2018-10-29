@@ -41,6 +41,12 @@ Qualità dell’aria - indicatore:
 Governance territoriale 
 ************************
 
+\ |STYLE1|\ 
+
+|REPLACE2|
+
+|
+
 \ |LINK4|\  (2007).
 
 .. _h5848122fa71302c172c255419407b10:
@@ -114,7 +120,7 @@ Il \ |LINK14|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale 
 Documento di Strategia Urbana (edizione 2017)
 =============================================
 
-\ |LINK15|\  \ |STYLE1|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
+\ |LINK15|\  \ |STYLE2|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
 
 |
 
@@ -140,7 +146,7 @@ Strategie
 **********
 
 
-|REPLACE2|
+|REPLACE3|
 
 * Laboratorio cittadino “\ |LINK17|\ ”. \ |LINK18|\  del laboratorio.
 
@@ -154,13 +160,18 @@ Strategie
 
 .. |STYLE0| replace:: **Mappa delle centraline di monitoraggio della qualità dell’aria a Palermo.**
 
-.. |STYLE1| replace:: **- Estratto dalla sezione Mobilità**
+.. |STYLE1| replace:: **Avvisi della Polizia Municipale sulla mobilità a Palermo in real time aggiornato ogni giorno**
+
+.. |STYLE2| replace:: **- Estratto dalla sezione Mobilità**
 
 
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673">Visualizza a schermo intero</a></p>
 .. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416">Visualizza a schermo intero</a></p>
+.. |REPLACE3| raw:: html
 
     <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" /></a></p>
 
