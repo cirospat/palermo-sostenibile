@@ -13,6 +13,9 @@ La società partecipata comunale RAP SpA gestisce la rete di rilevamento della q
 
 |REPLACE1|
 
+
+|REPLACE2|
+
 I dati rilevati sono trasmessi telematicamente al centro operativo della sede impiantistica di Bellolampo, dove si provvede al loro controllo, elaborazione ed archiviazione, ai sensi del D.Lgs. n. 155/2010.
 
 Il bollettino giornaliero, contenente la sintesi dei dati di qualità dell’aria rilevati nel corso del ciclo di monitoraggio del giorno immediatamente precedente (dalle ore 0.00 alle 24.00), ed il bollettino riepilogativo mensile sono rispettivamente pubblicati giornalmente e mensilmente sul sito della RAP \ |LINK1|\ .
@@ -127,7 +130,7 @@ Strategie
 **********
 
 
-|REPLACE2|
+|REPLACE3|
 
 * Laboratorio cittadino “\ |LINK16|\ ”. \ |LINK17|\  del laboratorio.
 
@@ -146,6 +149,9 @@ Strategie
 
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/cabine.jpg" />
 .. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673">Visualizza a schermo intero</a></p>
+.. |REPLACE3| raw:: html
 
     <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" /></a></p>
 
