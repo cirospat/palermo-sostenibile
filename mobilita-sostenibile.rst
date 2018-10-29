@@ -146,7 +146,9 @@ Strategie
 
 |REPLACE3|
 
-Il Comune di Palermo sta elaborando il Piano Urbano della Mobilità Sostenibile (P.U.M.S.). A tal fine ha predisposto un \ |LINK17|\  di chi studia, lavora e/o frequenta giornalmente la città o l'Area Metropolitana di Palermo. La compilazione del questionario richiede pochi minuti di tempo. I risultati saranno successivamente elaborati e messi a disposizione sul sito istituzionale del Comune.  
+Laboratorio cittadino “\ |LINK17|\ ”. \ |LINK18|\  del laboratorio.
+
+Il Comune di Palermo sta elaborando il Piano Urbano della Mobilità Sostenibile (P.U.M.S.). A tal fine ha predisposto un \ |LINK19|\  di chi studia, lavora e/o frequenta giornalmente la città o l'Area Metropolitana di Palermo. La compilazione del questionario richiede pochi minuti di tempo. I risultati saranno successivamente elaborati e messi a disposizione sul sito istituzionale del Comune.  
 
 |
 
@@ -169,7 +171,7 @@ Il Comune di Palermo sta elaborando il Piano Urbano della Mobilità Sostenibile 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416">Visualizza a schermo intero</a></p>
 .. |REPLACE3| raw:: html
 
-    <p><img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" />&nbsp;<span style="font-weight: 400;">Laboratorio cittadino &ldquo;</span><a href="https://www.comune.palermo.it/noticext.php?id=18788"><span style="font-weight: 400;">La citt&agrave; che si muove: tram per tutti</span></a><span style="font-weight: 400;">&rdquo;. </span><a href="https://www.comune.palermo.it/js/server/uploads/_10072018113226.pdf"><span style="font-weight: 400;">Instant Report</span></a><span style="font-weight: 400;"> del laboratorio.</span></p>
+    <img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" />
 
 .. |LINK1| raw:: html
 
@@ -236,6 +238,14 @@ Il Comune di Palermo sta elaborando il Piano Urbano della Mobilità Sostenibile 
     <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=20&asel=215" target="_blank">Mappatura Acustica dell'agglomerato di Palermo ai sensi del d.lgs 194/05</a>
 
 .. |LINK17| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=18788" target="_blank">La città che si muove: tram per tutti</a>
+
+.. |LINK18| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072018113226.pdf" target="_blank">Instant Report</a>
+
+.. |LINK19| raw:: html
 
     <a href="https://mobilitasostenibile.comune.palermo.it/questionario-pums.php?fbclid=IwAR3umQIaPxLQaDhS44ritFIYUTJF3fTCjRW7DMENrPcYegSPz68eB82RZWo" target="_blank">breve questionario che intende raccogliere informazioni sui bisogni di mobilità</a>
 
