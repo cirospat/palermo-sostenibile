@@ -34,10 +34,10 @@ Qualità dell’aria - indicatore:
 
 * numero di giorni all’anno in cui si registrano superamenti del PM10 (in microgrammi su metrocubo) rispetto ai limiti previsti dalla normativa
 
-.. _h5a6745852532498d2d27b592660:
+.. _h43104565a44a2c6b501a66f162e43:
 
-Governance territoriale (?)
-***************************
+Governance territoriale 
+************************
 
 \ |LINK4|\  (2007).
 
