@@ -11,10 +11,9 @@ Qualità dell’aria
 
 La società partecipata comunale RAP SpA gestisce la rete di rilevamento della qualità dell’aria del Comune di Palermo. La rete è costituita da 10 stazioni ubicate in vari punti rappresentativi della città, dotate di apparecchiature per il controllo continuo dell’inquinamento atmosferico.
 
+\ |STYLE0|\ 
+
 |REPLACE1|
-
-
-|REPLACE2|
 
 I dati rilevati sono trasmessi telematicamente al centro operativo della sede impiantistica di Bellolampo, dove si provvede al loro controllo, elaborazione ed archiviazione, ai sensi del D.Lgs. n. 155/2010.
 
@@ -113,7 +112,7 @@ Il \ |LINK14|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale 
 Documento di Strategia Urbana (edizione 2017)
 =============================================
 
-\ |LINK15|\  \ |STYLE0|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
+\ |LINK15|\  \ |STYLE1|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
 
 |
 
@@ -130,7 +129,7 @@ Strategie
 **********
 
 
-|REPLACE3|
+|REPLACE2|
 
 * Laboratorio cittadino “\ |LINK16|\ ”. \ |LINK17|\  del laboratorio.
 
@@ -142,16 +141,15 @@ Strategie
 .. bottom of content
 
 
-.. |STYLE0| replace:: **- Estratto dalla sezione Mobilità**
+.. |STYLE0| replace:: **Mappa delle centraline di monitoraggio della qualità dell’aria a Palermo.**
+
+.. |STYLE1| replace:: **- Estratto dalla sezione Mobilità**
 
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/cabine.jpg" />
-.. |REPLACE2| raw:: html
-
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673">Visualizza a schermo intero</a></p>
-.. |REPLACE3| raw:: html
+.. |REPLACE2| raw:: html
 
     <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://www.comune.palermo.it/js/server/uploads/220x220/_28062018163224.jpg" width="250" /></a></p>
 
