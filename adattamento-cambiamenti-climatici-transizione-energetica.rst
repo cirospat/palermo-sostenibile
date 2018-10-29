@@ -21,9 +21,13 @@ Il Comune di Palermo nel 2013 ha approvato il “\ |LINK1|\ ” \ |STYLE0|\  che
 Dati di riferimento: indicatore/indicatori
 ******************************************
 
-\ |LINK2|\  - \ |STYLE1|\ . 
+\ |STYLE1|\  \ |LINK2|\ 
 
-Il bilancio energetico di Palermo equivale a oltre \ |STYLE2|\ , attribuibili  per  la  quasi  totalità  a  fonti  fossili  (prodotti  petroliferi  e  gas  naturale, quest’ultimo con un consumo prossimo ai 90 Mm3/anno) ed energia elettrica (circa 160 ktep nel 2012, fonte: Istat). 
+|REPLACE2|
+
+\ |LINK3|\  - \ |STYLE2|\ . 
+
+Il bilancio energetico di Palermo equivale a oltre \ |STYLE3|\ , attribuibili  per  la  quasi  totalità  a  fonti  fossili  (prodotti  petroliferi  e  gas  naturale, quest’ultimo con un consumo prossimo ai 90 Mm3/anno) ed energia elettrica (circa 160 ktep nel 2012, fonte: Istat). 
 
 Si caratterizza per la mitezza delle condizioni climatiche (quasi 19 °C di temperatura media annuale, solo 750 °C gradi‐giorno) e per un consumo specifico pari a meno della metà della media nazionale (0,75 tep/ab), con una netta prevalenza di dei settori trasporti (60%, rispetto a una quota regionale pari al 45%) e residenziale (23%). 
 
@@ -49,7 +53,7 @@ Governance territoriale
 Piano di Azione per l’Energia Sostenibile - PAES (2013)
 =======================================================
 
-\ |LINK3|\  Patto dei Sindaci dell’unione Europea.
+\ |LINK4|\  Patto dei Sindaci dell’unione Europea.
 
 |
 
@@ -58,7 +62,7 @@ Piano di Azione per l’Energia Sostenibile - PAES (2013)
 Obiettivi di medio e lungo periodo
 **********************************
 
-Dal \ |LINK4|\ 
+Dal \ |LINK5|\ 
 
 .. _h1a6767726c44316522f442a6782:
 
@@ -145,7 +149,7 @@ Area di intervento 2 – Mobilità sostenibile
 Strategie 
 **********
 
-Dal \ |LINK5|\ 
+Dal \ |LINK6|\ 
 
 .. _h177e36474666553a831243c534c7047:
 
@@ -173,12 +177,42 @@ Area di intervento 3 - Informazione, formazione ed altre attività di comunicazi
 Azioni in corso 
 ****************
 
-Il Comune di Palermo ha aderito al progetto \ |STYLE3|\ , avviato dal Ministero dell’Ambiente e della Tutela del Territorio e del Mare - con il supporto del “PON Governance e Capacità Istituzionale 2014-2020” - linea 5 - \ |LINK6|\  “\ |STYLE4|\ ”. \ |LINK7|\ . [fonte: \ |LINK8|\ ] 
+Il Comune di Palermo ha aderito al progetto \ |STYLE4|\ , avviato dal Ministero dell’Ambiente e della Tutela del Territorio e del Mare - con il supporto del “PON Governance e Capacità Istituzionale 2014-2020” - linea 5 - \ |LINK7|\  “\ |STYLE5|\ ”. \ |LINK8|\ . [fonte: \ |LINK9|\ ] 
 
 .. _h2a1f625ca645c176c487a146b4e3612:
 
 Azioni di medio periodo
 ***********************
+
+La Giunta Comunale  ha approvato importanti progetti destinati a ridurre i disagi e i danni causati da eventi meteorici eccezionali (...) mediante la partecipazione dell’Amministrazione comunale all’\ |STYLE6|\ , sui fondi del “PO FESR SICILIA 2014-2020, Asse 5, Azione 5.1.1 A.
+
+Nel dettaglio, le operazioni approvate e candidate si riferiscono ai  seguenti progetti:
+
+1.      Asse 5, Azione 5.1.1 A “Interventi di messa in sicurezza e per l’aumento della resilienza dei territori più esposti a rischio idrogeologico e di erosione costiera”.
+
+a)   	Interventi finalizzati alla mitigazione dei rischi di allagamenti nell’area sud-orientale del territorio comunale (€ 11.800.000,00)
+
+L’intervento ha come obiettivo la riduzione degli allagamenti nelle borgate di Ciaculli, Croce Verde Giardini e nelle aree urbanizzate a monte e valle dell’autostrada PA-CT, mediante la regimazione di tre aste torrentizie (con operazioni di ingegneria naturalistica), la risagomatura e razionalizzazione del percorso del Canale Favara (dalla sorgente alla foce) e la realizzazione di trincee drenanti a monte dell’autostrada.
+
+b)   	Intervento di urgenza per la salvaguardia dagli allagamenti della borgata di Partanna Mondello ed aree a valle (€ 3.650.600,00).
+
+Tale intervento è finalizzato alla riduzione degli allagamenti nelle aree depresse della borgata di Partanna Mondello mediante la raccolta delle acque meteoriche in pozzi e vasche drenanti.
+
+c)   	Interventi finalizzati alla mitigazione del rischio idraulico per l’area del centro storico di via Porta di Castro (€ 6.500.000,00).
+
+L’intervento nel Centro Storico è volto a razionalizzare la fognatura esistente lungo l’asse del Kemonia (oggi tombato) che corrisponde nell’area che ha come dorsale la via Porta di Castro, e in occasioni di eventi meteorici intensi riacquista le caratteristiche di impluvio con conseguenti allagamenti dell’area Ovest del mercato di Ballarò. Si prevede la pulizia, razionalizzazione e parziale rifacimento della fognatura sulla via Porta di Castro e nelle aree limitrofe, in modo da ripristinare la capacità di deflusso.
+
+E’ prevista inoltre la realizzazione di un nuovo tratto di fognatura nella parte bassa di Corso Vittorio Emanuele, in modo da collegare la citata fognatura al collettore Cala.
+
+d)   	Parco litoraneo costa Sud - Intervento a mare per il  contrasto ai fenomeni di erosione costiera (€ 12.280.000,00).
+
+e)   	Parco litoraneo costa Sud – Interventi a terra di contrasto ai fenomeni di erosione costiera e di mitigazione del rischio geomorfologico (15.000.000,00).
+
+f)    	Consolidamento Mammellone Vergine Maria (€ 3.400.000,00)
+
+Gli interventi per la Costa sud-orientale sono finalizzati alla mitigazione del rischio e alla rigenerazione ambientale e consistono nella realizzazione di un’innovativa barriera soffolta, nella rimodellazione mirata della costa e nella rigenerazione dei suoli e delle aree attraverso la realizzazione di una infrastruttura verde con funzioni ecologiche e paesaggistiche. Le azioni di consolidamento a Vergine Maria sono volte a contenere i fenomeni di scalzamento al piede dell’ex discarica di inerti e la diffusione a mare degli inquinanti e a complementare la rigenerazione dell’intera fascia costiera palermitana.
+
+[fonte:\ |LINK10|\ ]
 
 
 .. bottom of content
@@ -186,18 +220,26 @@ Azioni di medio periodo
 
 .. |STYLE0| replace:: **PAES**
 
-.. |STYLE1| replace:: **Estratto della sezione “Produzione e uso finale di energia”**
+.. |STYLE1| replace:: **Banca dati climatici**
 
-.. |STYLE2| replace:: **500 ktep in termini di energia primaria**
+.. |STYLE2| replace:: **Estratto della sezione “Produzione e uso finale di energia”**
 
-.. |STYLE3| replace:: **CREiAMO PA**
+.. |STYLE3| replace:: **500 ktep in termini di energia primaria**
 
-.. |STYLE4| replace:: *Il Progetto mira a diffondere una cultura amministrativa orientata a tener conto, introdurre e consolidare, gli aspetti connessi alla sostenibilità ambientale nelle diverse fasi della propria azione (programmazione/pianificazione, attuazione, gestione, verifica/controllo, revisione), con riferimento alla struttura organizzativa nel suo complesso, adottando un approccio volto a superare logiche di tipo settoriale o monotematico*
+.. |STYLE4| replace:: **CREiAMO PA**
+
+.. |STYLE5| replace:: *Il Progetto mira a diffondere una cultura amministrativa orientata a tener conto, introdurre e consolidare, gli aspetti connessi alla sostenibilità ambientale nelle diverse fasi della propria azione (programmazione/pianificazione, attuazione, gestione, verifica/controllo, revisione), con riferimento alla struttura organizzativa nel suo complesso, adottando un approccio volto a superare logiche di tipo settoriale o monotematico*
+
+.. |STYLE6| replace:: *Avviso pubblico per la selezione di beneficiari e operazioni con procedura di valutazione delle domande a graduatoria*
 
 
 .. |REPLACE1| raw:: html
 
     <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/paes.png" width="250" /></a></p>
+.. |REPLACE2| raw:: html
+
+    <img src=”http://193.206.192.214/servertsutmwrite/Temperaturamassimaassolutam7lj8fo7vpknem890vbg8qb6v2104052PM.png” /></br>
+    Temperatura massima assoluta a Palermo (in °Centrigradi) dal 2003 al 2017
 
 .. |LINK1| raw:: html
 
@@ -205,15 +247,15 @@ Azioni di medio periodo
 
 .. |LINK2| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana (2017)</a>
+    <a href="https://bit.ly/bancadaticlimatici?fbclid=IwAR1R165_j8l296U-r4z0D6Vrs37BO1bTVHwiPEYoKGx_B9RSnLoXUwjDIJY" target="_blank">bit.ly/bancadaticlimatici</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo.</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_02022017135603.pdf" target="_blank">Documento di Strategia Urbana (2017)</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo.</a>
 
 .. |LINK5| raw:: html
 
@@ -221,13 +263,21 @@ Azioni di medio periodo
 
 .. |LINK6| raw:: html
 
-    <a href="http://www.minambiente.it/pagina/l5-rafforzamento-della-capacita-amministrativa-ladattamento-ai-cambiamenti-climatici" target="_blank">Rafforzamento della capacità amministrativa per l’adattamento ai cambiamenti climatici.</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank">Piano di Azione per l’Energia Sostenibile del Comune di Palermo</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://www.minambiente.it/pagina/creiamo-pa-competenze-e-reti-lintegrazione-ambientale-e-il-miglioramento-delle-organizzazioni" target="_blank">Competenze e reti per l’integrazione ambientale e per il miglioramento delle organizzazioni della PA</a>
+    <a href="http://www.minambiente.it/pagina/l5-rafforzamento-della-capacita-amministrativa-ladattamento-ai-cambiamenti-climatici" target="_blank">Rafforzamento della capacità amministrativa per l’adattamento ai cambiamenti climatici.</a>
 
 .. |LINK8| raw:: html
 
+    <a href="http://www.minambiente.it/pagina/creiamo-pa-competenze-e-reti-lintegrazione-ambientale-e-il-miglioramento-delle-organizzazioni" target="_blank">Competenze e reti per l’integrazione ambientale e per il miglioramento delle organizzazioni della PA</a>
+
+.. |LINK9| raw:: html
+
     <a href="www.pongovernance1420.gov.it">www.pongovernance1420.gov.it › Home › Progetti › #efficacia</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=15934" target="_blank">https://www.comune.palermo.it/noticext.php?id=15934</a>
 
