@@ -118,7 +118,7 @@ Il \ |LINK14|\  è uno strumento aggiuntivo di cui l’Amministrazione comunale 
 Documento di Strategia Urbana (edizione 2017)
 =============================================
 
-\ |LINK15|\  \ |STYLE2|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
+\ |LINK15|\  \ |STYLE2|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni 80 e 90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
 
 |
 
