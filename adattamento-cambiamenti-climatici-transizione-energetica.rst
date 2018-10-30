@@ -38,6 +38,16 @@ Banca dati climatici
 
 |
 
+.. _h26662b10292a593c7a2c75304c1a1:
+
+Dati climatici in tempo reale rappresentati graficamente 
+=========================================================
+
+
+|REPLACE5|
+
+|
+
 .. _h7458382631797d59163f21216263872:
 
 \ |LINK3|\  
@@ -254,6 +264,10 @@ Asse 5, Azione 5.1.1 A “Interventi di messa in sicurezza e per l’aumento del
 
     <img src="http://193.206.192.214/servertsutmwrite/Precipitazionicumulates46o6ba771blte0ghknief8ks5102230AM.png" /></br>
     Precipitazioni massime cumulate a Palermo (in mm) dal 2003 al 2017
+.. |REPLACE5| raw:: html
+
+    <img src="http://www.sias.regione.sicilia.it/RTMC/Pcum01_Screen.png" /></br>
+    <p><span style="font-weight: 400;">Visualizzazione dei dati sulle precipitazioni cumulate nell'ultima ora in Sicilia (in mm),&nbsp;</span>a cura del <a href="http://www.sias.regione.sicilia.it/home.htm" target="_blank" rel="noopener"><strong>Servizio Informativo Agrometereologico Siciliano (SIAS)</strong></a></p>
 
 .. |LINK1| raw:: html
 
