@@ -138,7 +138,7 @@ Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le azi
     <iframe width="100%" height="500px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887">Visualizza a schermo intero</a></p>
 .. |REPLACE5| raw:: html
 
-    <img src="http://www.rapspa.it/site/wp-content/uploads/2016/03/ingombranti-per-richiesta_semplice...jpg" /> 
+    <img src="http://www.rapspa.it/site/wp-content/uploads/2016/03/ingombranti-per-richiesta_semplice...jpg" width=700 /> 
 .. |REPLACE6| raw:: html
 
     <iframe src="https://www.google.com/maps/d/embed?mid=1tcTEms0NKyjHsm70gDcuZntLC98" width="100%" height="550"></iframe>
