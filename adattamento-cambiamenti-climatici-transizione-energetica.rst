@@ -9,9 +9,11 @@ Adattamento ai cambiamenti climatici e transizione energetica
 Inquadramento generale: politiche e strategie
 *********************************************
 
-Il Comune di Palermo nel 2013 ha approvato il “\ |LINK1|\ ” \ |STYLE0|\  che rappresenta la pianificazione nel campo dell’uso delle fonti energetiche per la riduzione delle emissioni climalteranti in coerenza con gli obiettivi dell’Unione Europea. Tale piano contiene la strategia attraverso la quale sono state individuate le singole azioni che di seguito sono riportate.
+Il Comune di Palermo nel 2013 ha approvato il “\ |LINK1|\ ” \ |STYLE0|\  che rappresenta la pianificazione nel campo dell’uso delle fonti energetiche per la riduzione delle emissioni climalteranti in coerenza con gli obiettivi dell’Unione Europea. 
 
 |REPLACE1|
+
+Tale piano contiene la strategia attraverso la quale sono state individuate le singole azioni che di seguito sono riportate.
 
 |
 
