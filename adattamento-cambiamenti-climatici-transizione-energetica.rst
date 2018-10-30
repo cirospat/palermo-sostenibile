@@ -33,6 +33,9 @@ Banca dati climatici
 
 |REPLACE3|
 
+
+|REPLACE4|
+
 |
 
 .. _h7458382631797d59163f21216263872:
@@ -247,6 +250,10 @@ Asse 5, Azione 5.1.1 A “Interventi di messa in sicurezza e per l’aumento del
 
     <img src="http://193.206.192.214/servertsutmwrite/Temperaturaminimaassolutam7lj8fo7vpknem890vbg8qb6v2105709PM.png" /></br>
     Temperatura minima assoluta a Palermo (in °Centrigradi) dal 2003 al 2017
+.. |REPLACE4| raw:: html
+
+    <img src="http://193.206.192.214/servertsutmwrite/Precipitazionicumulates46o6ba771blte0ghknief8ks5102230AM.png" /></br>
+    Precipitazioni massime cumulate a Palermo (in mm) dal 2003 al 2017
 
 .. |LINK1| raw:: html
 
