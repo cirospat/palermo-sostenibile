@@ -270,7 +270,7 @@ Asse 5, Azione 5.1.1 A “Interventi di messa in sicurezza e per l’aumento del
 .. |REPLACE5| raw:: html
 
     <img src="http://www.sias.regione.sicilia.it/RTMC/Pcum01_Screen.png" /></br>
-    <p><span style="font-weight: 400;">Visualizzazione dei dati sulle precipitazioni cumulate nell'ultima ora in Sicilia (in mm),&nbsp;</span>a cura del <a href="http://www.sias.regione.sicilia.it/home.htm" target="_blank" rel="noopener"><strong>Servizio Informativo Agrometereologico Siciliano (SIAS)</strong></a></p>
+    <p><span style="font-weight: 400;">Visualizzazione dei dati sulle precipitazioni cumulate nell'ultima ora in Sicilia (in mm),&nbsp;</span>a cura del <a href="http://www.sias.regione.sicilia.it/corpo_all.htm#map" target="_blank" rel="noopener"><strong>Servizio Informativo Agrometereologico Siciliano (SIAS)</strong></a></p>
 .. |REPLACE6| raw:: html
 
     <img src="http://www.sat24.com/image.ashx?country=it&type=loop&sat=ir" /></br>
