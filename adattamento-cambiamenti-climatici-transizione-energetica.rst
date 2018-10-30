@@ -274,7 +274,7 @@ Asse 5, Azione 5.1.1 A “Interventi di messa in sicurezza e per l’aumento del
 .. |REPLACE6| raw:: html
 
     <img src="http://www.sat24.com/image.ashx?country=it&type=loop&sat=ir" /></br>
-    <p><span style="font-weight: 400;">Visualizzazione delle condizioni metereologiche sulla Sicilia in tempo reale da satellite ,&nbsp;</span>a cura del <a href="http://www.sias.regione.sicilia.it/home.htm" target="_blank" rel="noopener"><strong>Sat24.com/Eumetsat/Met Office</strong></a></p>
+    <p><span style="font-weight: 400;">Visualizzazione delle condizioni metereologiche sulla Sicilia in tempo reale da satellite,&nbsp;</span>a cura del <a href="http://www.sat24.com/image.ashx?country=it&type=loop&sat=ir" target="_blank" rel="noopener"><strong>Sat24.com/Eumetsat/Met Office</strong></a></p>
 
 .. |LINK1| raw:: html
 
