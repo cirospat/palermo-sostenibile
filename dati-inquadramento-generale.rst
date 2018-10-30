@@ -207,6 +207,16 @@ Servizi digitali comunali a Palermo
 
 |REPLACE2|
 
+|
+
+.. _h545127c2e273972376f4f4d7369047:
+
+Open data
+*********
+
+
+|REPLACE3|
+
 
 .. bottom of content
 
@@ -222,6 +232,9 @@ Servizi digitali comunali a Palermo
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+.. |REPLACE3| raw:: html
+
+    <p>&Egrave; possibile accedere anche a diversi dataset tematici in formato aperto&nbsp;&rarr;&nbsp;<strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 5px; border-radius: 12px;">open data</span></a></strong>.</p>
 
 .. |LINK1| raw:: html
 
