@@ -253,7 +253,7 @@ Asse 5, Azione 5.1.1 A “Interventi di messa in sicurezza e per l’aumento del
 
 .. |REPLACE1| raw:: html
 
-    <p><a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/paes.png" width="250" /></a></p>
+    <a href="https://www.comune.palermo.it/js/server/uploads/_10072013112515.pdf" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/paes.png" width="250" /></a>
 .. |REPLACE2| raw:: html
 
     <img src="http://193.206.192.214/servertsutmwrite/Temperaturamassimaassolutam7lj8fo7vpknem890vbg8qb6v2104052PM.png" /></br>
