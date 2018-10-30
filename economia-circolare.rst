@@ -72,11 +72,13 @@ Azioni in corso
 
 \ |LINK9|\ . 
 
-\ |LINK10|\  Nel weekend 9-10-11 novembre a Palermo, presso la Fiera del Mediterraneo, si terrà la 5° edizione di "Fà la Cosa Giusta! Sicilia".
+\ |LINK10|\  Nel weekend 9-10-11 novembre a Palermo, presso la Fiera del Mediterraneo, si terrà la 5° edizione di "Fà la Cosa Giusta! Sicilia", Giornate europee dell'economia sociale e solidale.
+
+|REPLACE3|
 
 \ |LINK11|\ 
 
-|REPLACE3|
+|REPLACE4|
 
 |
 
@@ -91,7 +93,7 @@ Servizi in corso
 ------------------------------------
 
 
-|REPLACE4|
+|REPLACE5|
 
 .. _h513e646f1a1b43697a128502ee7f35:
 
@@ -99,7 +101,7 @@ Servizi in corso
 ------------------------------------
 
 
-|REPLACE5|
+|REPLACE6|
 
 .. _h3328f6452382b1c21317043614231a:
 
@@ -107,7 +109,7 @@ Raccolta oli vegetali esausti
 -----------------------------
 
 
-|REPLACE6|
+|REPLACE7|
 
 |
 
@@ -130,14 +132,17 @@ Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le azi
     <img src="https://www.comune.palermo.it/js/server/uploads/220x220/_25092018100554.png" /> 
 .. |REPLACE3| raw:: html
 
-    <iframe width="100%" height="500px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887">Visualizza a schermo intero</a></p>
+    <img src="https://www.comune.palermo.it/js/server/uploads/photos/_30102018115700.jpg" /> 
 .. |REPLACE4| raw:: html
 
-    <img src="http://www.rapspa.it/site/wp-content/uploads/2016/03/ingombranti-per-richiesta_semplice...jpg" /> 
+    <iframe width="100%" height="500px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887">Visualizza a schermo intero</a></p>
 .. |REPLACE5| raw:: html
 
-    <iframe src="https://www.google.com/maps/d/embed?mid=1tcTEms0NKyjHsm70gDcuZntLC98" width="100%" height="550"></iframe>
+    <img src="http://www.rapspa.it/site/wp-content/uploads/2016/03/ingombranti-per-richiesta_semplice...jpg" /> 
 .. |REPLACE6| raw:: html
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=1tcTEms0NKyjHsm70gDcuZntLC98" width="100%" height="550"></iframe>
+.. |REPLACE7| raw:: html
 
     <iframe src="https://www.google.com/maps/d/embed?mid=1o87PhUJB-CHEU-knWXLyAvOw7okrtswb" width="100%0" height="550"></iframe>
 
