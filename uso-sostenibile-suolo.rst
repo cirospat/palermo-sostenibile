@@ -78,8 +78,8 @@ Azioni di medio periodo
 .. |REPLACE1| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/isprageoviewer.PNG" /></br>
-    <p><a href="http://www.geoviewer.isprambiente.it/" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 5px; border-radius: 12px;"><strong>Geovisualizzatore dell'ISPRA per i tematismi ambientali</strong></span></a>&nbsp;</p>
-    <p>(consumo di suolo - copertura del suolo - siti protetti - mare e coste - idrografia - alluvioni - PAI frane - carta della natura - direttiva UE Habitat)</p>
+    <a href="http://www.geoviewer.isprambiente.it/" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 5px; border-radius: 12px;"><strong>Geovisualizzatore dell'ISPRA per i tematismi ambientali</strong></span></a>&nbsp;</br>
+    (consumo di suolo - copertura del suolo - siti protetti - mare e coste - idrografia - alluvioni - PAI frane - carta della natura - direttiva UE Habitat)
 
 .. |LINK1| raw:: html
 
