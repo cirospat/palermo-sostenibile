@@ -100,7 +100,7 @@ Azioni di medio periodo
 .. |REPLACE2| raw:: html
 
     <strong>Osservare il cambiamento di Palermo grazie alla cartografia</strong></br>
-    <iframe width="100%" height="600px" frameBorder="0" src="http://siciliahub.github.io/palermohub/index_atlante.html"></iframe></br>
+    <iframe width="100%" height="600px" frameBorder="0" src="https://siciliahub.github.io/palermohub/index_atlante.html"></iframe></br>
     <a href="http://siciliahub.github.io/palermohub/index_atlante.html" title="Visualizza l’Atlante delle carte tecniche storiche di Palermo a schermo intero">Visualizza a schermo intero</a>
 
 .. |LINK1| raw:: html
