@@ -4,6 +4,9 @@
 Ecosistemi, verde urbano e tutela della biodiversità
 ####################################################
 
+
+|REPLACE1|
+
 |
 
 .. _h327a231f3163241a8069125935c2f7d:
@@ -13,25 +16,27 @@ Inquadramento generale: politiche e strategie
 
 \ |STYLE0|\  \ |LINK1|\  \ |STYLE1|\  \ |LINK2|\ \ |STYLE2|\ 
 
-|REPLACE1|
-
-|
-
-\ |STYLE3|\ 
+Il  Piano Strategico di Palermo nasce dall’esigenza di individuare una visione che possa guidare i processi di sviluppo della città nel medio lungo periodo, all’interno di un quadro progettuale coerente e in linea con gli strumenti normativi vigenti.
 
 |REPLACE2|
 
 |
 
-\ |STYLE4|\ 
+\ |STYLE3|\ 
 
 |REPLACE3|
 
 |
 
-\ |STYLE5|\  
+\ |STYLE4|\ 
 
 |REPLACE4|
+
+|
+
+\ |STYLE5|\  
+
+|REPLACE5|
 
 |
 
@@ -51,7 +56,7 @@ Piano di Utilizzo delle Aree Demaniali Marittime del Comune di Palermo, SIC: ITA
 
 Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costruzione del tratto Oreto-Notarbartolo della Metropolitana Automatica Leggera di Palermo sul S.I.C. ITA020012 “\ |STYLE7|\ ”. La Valutazione di Incidenza viene definita come uno studio scientifico che deve avere come    obiettivo    di    individuare    e    valutare    gli    impatti    che    le    attività    umane    (piani/progetti/interventi) possono esercitare sugli habitat e le specie animali e vegetali dei SIC o delle ZPS che sono stati individuati e inseriti all’interno dei formulari Natura 2000. [\ |LINK5|\ ]  
 
-|REPLACE5|
+|REPLACE6|
 
 |
 
@@ -66,7 +71,7 @@ Luoghi da tutelare, i luoghi del cuore dell’iniziativa del F.A.I. edizione 201
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-|REPLACE6|
+|REPLACE7|
 
 L'\ |STYLE8|\  è un fiume siciliano che scorre nella Valle dell'Oreto e con un bacino che si estende nei territori dei comuni di Altofonte, Monreale e Palermo. Lungo circa 20 chilometri, ha la sorgente a sud di Palermo, nella cosiddetta Conca d'Oro, lungo la dorsale del Monte Matassaro Renna; da qui in poi scorre verso la periferia sud del capoluogo siciliano per andare a sfociare nel Mar Tirreno. La foce è visibile dal ponte del lungomare Sant'Erasmo. Corso d'acqua a carattere torrentizio, anche nei mesi più caldi conserva un deflusso sufficiente per la presenza di molte sorgive lungo il proprio corso e per la ricchezza della falda che lo alimenta: nel 1997, ultimo dato disponibile, la portata media mensile del fiume ha oscillato fra un massimo di 1,87 metri cubi al secondo (registrato in gennaio) e un minimo di 0,116 metri cubi al secondo (registrato in agosto). Dal 1980 al 1997, la portata massima si è registrata nel gennaio del 1981 (5,876) [\ |LINK7|\ ].
 
@@ -211,7 +216,7 @@ Nel 2017 sono state piantate circa 4500 essenze vegetali su tutto il territorio 
 
 Le essenze vegetali piantumate sono state in parte prodotte dal Vivaio Comunale.
 
-|REPLACE7|
+|REPLACE8|
 
 [Fonte: \ |LINK8|\ ].
 
@@ -276,25 +281,29 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a></p>
+    <img src="https://lh3.googleusercontent.com/9oERmiXJd5rQ0jjEQG1x9Y-j5abBYgjdMAg06TpQnwoBzPzx7syE56tiWDlW8VAh53asOumhSGuRI0MhERakgCqV5Sag7gpF7T2uesEfKpltQAgws_Ropa3TObyiWs5BVtXfJ6Hl5E3rkJG5zZIRe1oeQDOWbySLiWWXMRIazF77Lcgp3lj1QDRRxt_VUjxIjuSnNyjSJUl4mcW6dg9ubvdY4pfJ7YQuMUafMtDHc6ZoVicY-3I-R260gup7RsCB_Ha1GBAQ3xm7ppX-X6GEXlCrU-NQTnBgOzvEuNjVAv-J4jKooQcP0uuSUkmFJOgpqBVUj7oDWqcdVGb1TANEkUVkgIe1kUVs6rRnSbFPRNFsqdUAMVA3Wrop2yT_fsRyVtxP5TBAak5LxyyF39CRCTx-F23Crc8AjsjQuYVkjF4W7o2u2kK3x2hnKAOKH0cnBZsPKxlUk0yTW2WVGAfhI_ez4r8K-7T9l0F50ZNcMVIzpinWNO0UVzVtup2uCcFXYH12W-lEbeUmF_ouPTaCbyP8Sx-91Qu6UkAN6xPzKeDZYBGDprZ5y--Wsn3cAKu4e6yk8EM4owGUOEo9X2j_PXq1uw4oUP3cXAN2_877Kd652uDSJfJxrTKfXTcZnhXdt636XwcsFg6wtvwDBOUfr0maUT55iDruBNk4n0mU_YP0m60AO_IYU0o1PTZNXzOK8JLNjufQvYFlLVX4Xw=w859-h580-no" width=600 /></br>
+    Veduta di Palermo, Francesco Lo Jacono, 1875; <a href="http://m12.manifesta.org/oma-urban-study/?lang=it" target="_blank" rel="noopener">Palermo Atlas, coutesy OMA for Manifesta12</a>.&nbsp;
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521">Visualizza a schermo intero</a></p>
+    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a></p>
 .. |REPLACE3| raw:: html
 
-    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/spazi-verdi-fruibili-a-palermo-italia_14577#12/38.1529/13.3673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521">Visualizza a schermo intero</a></p>
+    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521">Visualizza a schermo intero</a></p>
 .. |REPLACE4| raw:: html
 
-    <iframe src="https://www.google.com/maps/d/embed?mid=1O_Uf4NEz5QuHrbSBIS7Q1dVt9IY&hl=it" width="100%" height="600"></iframe>
+    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/spazi-verdi-fruibili-a-palermo-italia_14577#12/38.1529/13.3673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521">Visualizza a schermo intero</a></p>
 .. |REPLACE5| raw:: html
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=1O_Uf4NEz5QuHrbSBIS7Q1dVt9IY&hl=it" width="100%" height="600"></iframe>
+.. |REPLACE6| raw:: html
 
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/C4a-1hpBOSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></br>
     "Oreto - The Urban Adventure" di Igor D'India - Vedipalermo 2013. Un video che ci porta in un viaggio all’interno del fiume facendoci scoprire elementi naturali sconosciuti.
-.. |REPLACE6| raw:: html
+.. |REPLACE7| raw:: html
 
     <img src="https://fai-platform.imgix.net/media/sicilia/pa/41226_fiume-oreto.jpg" width=600 /></br>
     Foto del FAI
-.. |REPLACE7| raw:: html
+.. |REPLACE8| raw:: html
 
     <img src="https://www.comune.palermo.it/js/server/uploads/bs/img/_20042018085651.jpg" width=600 /></br>
     <img src="https://www.comune.palermo.it/js/server/uploads/bs/img/_20042018085707.jpg" width=600 />
