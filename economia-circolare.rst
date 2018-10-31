@@ -135,7 +135,7 @@ Attivazione di un tavolo tecnico inter-istituzionale, che coinvolge tutte le azi
     <img src="https://www.comune.palermo.it/js/server/uploads/photos/_30102018115700.jpg" width=600 /> 
 .. |REPLACE4| raw:: html
 
-    <iframe width="100%" height="500px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887">Visualizza a schermo intero</a></p>
+    <iframe width="100%" height="500px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="http://umap.openstreetmap.fr/it/map/palermo-mercatini-del-biologico-e-del-contadino_31887">Visualizza a schermo intero</a>
 .. |REPLACE5| raw:: html
 
     <img src="http://www.rapspa.it/site/wp-content/uploads/2016/03/ingombranti-per-richiesta_semplice...jpg" width=670 /> 
