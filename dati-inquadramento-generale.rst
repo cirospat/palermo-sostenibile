@@ -14,6 +14,14 @@ Dati demografici
 
 La popolazione residente a Palermo al 31 dicembre del 2017 è risultata pari a 668.405 abitanti. Rispetto al 2016 si è registrata una diminuzione di 5.330 unità (-0,8%), determinata da un saldo naturale negativo per 1.176 unità e da un saldo migratorio e per altri motivi negativo per 4.154 unità. Rispetto al 15° Censimento generale della popolazione del 9 ottobre 2011, quando sono stati censiti 657.561 abitanti, la popolazione al 31 dicembre 2017 è più alta di 10.844 unità (+1,6%). Detto incremento è però interamente attribuibile alla revisione post-censuaria dell’anagrafe, che ha determinato nel 2013 un saldo positivo di 25.066 unità e nel 2014 un saldo positivo di 2.434 unità. [\ |LINK1|\ ].
 
+
+|REPLACE2|
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 |
 
 .. _h7d3512118507357e14321159621723:
@@ -205,7 +213,7 @@ Servizi digitali comunali a Palermo
 ***********************************
 
 
-|REPLACE2|
+|REPLACE3|
 
 |
 
@@ -215,7 +223,7 @@ Open data
 *********
 
 
-|REPLACE3|
+|REPLACE4|
 
 
 .. bottom of content
@@ -231,8 +239,12 @@ Open data
     <img src="https://elezioni.comune.palermo.it/img/aqu_79.png" />
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+    <img src="https://lh3.googleusercontent.com/hPHoTem5jOWNliksSZat5QpzZrYZ76TH5jfHggnEtD5_5kVpesAASnVYsTwMYg5FuKWm3oj6azFsJs-tIqxg07yLfWHvcTcED5Gg1inkQblVO_QY6052pri3NV3rg9GElrCaLNUcMCQ1AOOpOrIhveG2d4cirV6uBIzSQiAw5f_4oGf4rgOZSIgGCVKoy4zk37U78JqBQIDWxsQoFkZ09i00BC8K-wMJC2RGIp09HprhFZsYmsOVtPLqA3f2BtYiAeiOYUX1-Sss_X_A6ft1ZO1ZmIFVUqXL2x_nSpyvWk8gmdtz0CuMFt7b6OzG1RKJZz7JLXnxcGjZxOOTkIjhoS0IQHI-xTK6XRBFAoO19gG8-LB1gc93qxGniN0JG8_ccDoNJmfebdSj_yyNtjqal-anBasC6ktpZiwZONdSVa6Qgt38F32T9LkYWw83G2HTcta9aH6FANqH0o9sx8DPxNI-SHkMK_NwL--RIhB14KxBeyqgF3nSkjxXMwIxlFl0kBsrIOMnNQolaGJOMrUUfQR6tpTqeySXrCAs4gbCsNF8ZeMbczJMiJ4xLANqzOfjOlrekcB34IlmwsLm4bob2NFQ887EFboNx4Kn3rD4cwIpcUp2mNAK4LDPecE6eCPw5fMHYevfZs9x2Demy-Rx3g4ejZ-4IIZJ8xUw0iKRHiA_UNQaG3C59Aslt65hRMybVnFvQAhW0NC1iFPC8A=w854-h580-no" /></br>
+    <span style="font-weight: 400;"><strong><a href="http://m12.manifesta.org/oma-urban-study/?lang=it" target="_blank" rel="noopener">Map of communities</a></strong>, Palermo Atlas OMA for Manifesta12</span>
 .. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+.. |REPLACE4| raw:: html
 
     <p>&Egrave; possibile accedere anche a diversi dataset tematici in formato aperto&nbsp;&rarr;&nbsp;<strong><a href="https://opendata.comune.palermo.it/opendata-archivio-dataset.php#" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 5px; border-radius: 12px;">open data</span></a></strong>.</p>
 
