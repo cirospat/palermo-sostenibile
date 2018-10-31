@@ -29,10 +29,10 @@ Dati di riferimento: indicatore/indicatori
 
 |
 
-.. _h1a1269263e1e3349432e77696a71d7c:
+.. _h521b2a522337312829103850246f62d:
 
-Governance territoriale
-***********************
+Governance territoriale e Monitoraggio
+**************************************
 
 \ |LINK3|\ , a cura della Regione Sicilia, Dipartimento della Protezione Civile.
 
