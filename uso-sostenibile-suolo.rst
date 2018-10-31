@@ -99,7 +99,7 @@ Azioni di medio periodo
     <a href="http://www.geoviewer.isprambiente.it/" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 5px; border-radius: 12px;"><strong>Geovisualizzatore dell'ISPRA per i tematismi ambientali</strong></span></a>&nbsp; (consumo di suolo - copertura del suolo - siti protetti - mare e coste - idrografia - alluvioni - PAI frane - carta della natura - direttiva UE Habitat)
 .. |REPLACE2| raw:: html
 
-    <strong>Osservare il cambiamento di Palermo grazie alla cartografia</strong></br>
+    <strong>Osservare il cambiamento di Palermo grazie alla cartografia, a cura di Opendatasicilia</strong></br>
     <iframe width="100%" height="600px" frameBorder="0" src="https://palermohub.opendatasicilia.it/index_atlante.html#14/38.1113/13.3534"></iframe></br>
     <a href="http://siciliahub.github.io/palermohub/index_atlante.html" title="Visualizza l’Atlante delle carte tecniche storiche di Palermo a schermo intero">Visualizza a schermo intero</a>
 
