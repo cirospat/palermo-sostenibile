@@ -92,7 +92,7 @@ Azioni di medio periodo
     <a href="http://www.geoviewer.isprambiente.it/" target="_blank" rel="noopener"><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 5px; border-radius: 12px;"><strong>Geovisualizzatore dell'ISPRA per i tematismi ambientali</strong></span></a>&nbsp; (consumo di suolo - copertura del suolo - siti protetti - mare e coste - idrografia - alluvioni - PAI frane - carta della natura - direttiva UE Habitat)
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="900px" frameBorder="0" allowfullscreen src="https://public.tableau.com/views/SegnalazioniRAP-Palermo-04/DashboardMappasegnalazioniRAP?:embed=y&:display_count=yes&:toolbar=no"></iframe>
+    <iframe width="90%" height="700px" frameBorder="0" allowfullscreen src="https://public.tableau.com/views/SegnalazioniRAP-Palermo-04/DashboardMappasegnalazioniRAP?:embed=y&:display_count=yes&:toolbar=no"></iframe>
 
 .. |LINK1| raw:: html
 
