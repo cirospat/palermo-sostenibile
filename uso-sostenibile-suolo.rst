@@ -9,6 +9,14 @@ Uso sostenibile del Suolo e soluzioni basate sui processi naturali
 Inquadramento generale: politiche e strategie
 *********************************************
 
+Adozione delle \ |LINK1|\  con la \ |LINK2|\ :
+
+* adottare  le Linee  Guida  per  le  Green  City come  strumento  di  governance  della  città  di Palermo;
+
+* assumere  le Linee  Guida  per  le  Green  City  come  agenda  di  lavoro  per  tutte  le  attività  di pianificazione e progettazione del territorio comunale;
+
+* dare mandato a tutti gli uffici e dirigenti della Amministrazione Comunale affinché seguano, nella loro azione amministrativa, le disposizioni e le strategie delle Linee Guida per le Green City, che dovrà  essere  considerata  come  prioritaria  e  peculiare  metodologia  operativa  per  tutti  gli  interventi sui temi della sostenibilità ambientale integrata.
+
 | 
 
 .. _h256f632c362f5d7f681e84f73221c:
@@ -26,9 +34,9 @@ Dati di riferimento: indicatore/indicatori
 Governance territoriale
 ***********************
 
-\ |LINK1|\ , a cura della Regione Sicilia, Dipartimento della Protezione Civile.
+\ |LINK3|\ , a cura della Regione Sicilia, Dipartimento della Protezione Civile.
 
-\ |LINK2|\ , a cura della Regione Sicilia, Dipartimento della Protezione Civile.
+\ |LINK4|\ , a cura della Regione Sicilia, Dipartimento della Protezione Civile.
 
 |
 
@@ -37,7 +45,7 @@ Governance territoriale
 Piano Utilizzazione Demanio Marittimo - Deliberazione di Consiglio Comunale n.376/2014 
 =======================================================================================
 
-[Fonte dati: \ |LINK3|\ ].
+[Fonte dati: \ |LINK5|\ ].
 
 |
 
@@ -60,9 +68,9 @@ Strategie
 Azioni in corso
 ***************
 
-* \ |LINK4|\ .
+* \ |LINK6|\ .
 
-* \ |LINK5|\ . 
+* \ |LINK7|\ . 
 
 |
 
@@ -82,21 +90,29 @@ Azioni di medio periodo
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.regione.sicilia.it/presidenza/protezionecivile/pp/archivio_idro.asp" target="_blank">Archivio degli avvisi di allerta rischio idrogeologico</a>
+    <a href="https://palermo-sostenibile.readthedocs.io/it/latest/linee-guida-green-city.html" target="_blank">Linee Guida delle Green City</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://www.regione.sicilia.it/presidenza/protezionecivile/pp/archivio_incendi.asp" target="_blank">Archivio degli avvisi di allerta incendi e ondate di calore</a>
+    <a href="https://docs.google.com/document/u/1/d/e/2PACX-1vSpSuW1f9yylBCszBp5smA5WsqQ25A5K2qfF74M6QdQIphOED5uMy9B3cAQK9BP6gF2ZkkB__lFgJmG/pub" target="_blank">Deliberazione di Giunta Municipale n. 134 del 20.09.2018</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=107&bsel=123" target="_blank">Amministrazione Trasparente / Pianificazione e governo del territorio / Strumenti urbanistici di attuazione / Piani particolareggiati adottati</a>
+    <a href="http://www.regione.sicilia.it/presidenza/protezionecivile/pp/archivio_idro.asp" target="_blank">Archivio degli avvisi di allerta rischio idrogeologico</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?id=13924" target="_blank">Proposta di regolamento per orti urbani e giardini condivisi</a>
+    <a href="http://www.regione.sicilia.it/presidenza/protezionecivile/pp/archivio_incendi.asp" target="_blank">Archivio degli avvisi di allerta incendi e ondate di calore</a>
 
 .. |LINK5| raw:: html
+
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=107&bsel=123" target="_blank">Amministrazione Trasparente / Pianificazione e governo del territorio / Strumenti urbanistici di attuazione / Piani particolareggiati adottati</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=13924" target="_blank">Proposta di regolamento per orti urbani e giardini condivisi</a>
+
+.. |LINK7| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?id=18270" target="_blank">Giardini e orti contro il degrado. Così i quartieri si rigenerano</a>
 
