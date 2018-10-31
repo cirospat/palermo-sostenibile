@@ -12,15 +12,14 @@ Dati d’inquadramento generale della Città di Palermo
 Dati demografici
 ****************
 
-La popolazione residente a Palermo al 31 dicembre del 2017 è risultata pari a 668.405 abitanti. Rispetto al 2016 si è registrata una diminuzione di 5.330 unità (-0,8%), determinata da un saldo naturale negativo per 1.176 unità e da un saldo migratorio e per altri motivi negativo per 4.154 unità. Rispetto al 15° Censimento generale della popolazione del 9 ottobre 2011, quando sono stati censiti 657.561 abitanti, la popolazione al 31 dicembre 2017 è più alta di 10.844 unità (+1,6%). Detto incremento è però interamente attribuibile alla revisione post-censuaria dell’anagrafe, che ha determinato nel 2013 un saldo positivo di 25.066 unità e nel 2014 un saldo positivo di 2.434 unità. [\ |LINK1|\ ].
+La popolazione residente a Palermo al 31 dicembre del 2017 è risultata pari a 668.405 abitanti. 
+
+Rispetto al 2016 si è registrata una diminuzione di 5.330 unità (-0,8%), determinata da un saldo naturale negativo per 1.176 unità e da un saldo migratorio e per altri motivi negativo per 4.154 unità. 
+
+Rispetto al 15° Censimento generale della popolazione del 9 ottobre 2011, quando sono stati censiti 657.561 abitanti, la popolazione al 31 dicembre 2017 è più alta di 10.844 unità (+1,6%). Detto incremento è però interamente attribuibile alla revisione post-censuaria dell’anagrafe, che ha determinato nel 2013 un saldo positivo di 25.066 unità e nel 2014 un saldo positivo di 2.434 unità. [\ |LINK1|\ ].
 
 
 |REPLACE2|
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
 
 |
 
@@ -29,47 +28,49 @@ La popolazione residente a Palermo al 31 dicembre del 2017 è risultata pari a 6
 Dati economici
 **************
 
-Con riguardo all’articolazione della struttura economica della Città, rileva il carattere decisamente prevalente delle attività “terziarie” con una elevata incidenza di addetti nei servizi, vendibili e non, ed una quota patologicamente bassa nelle attività produttive industriali. Il 9° Censimento generale dell’industria e dei servizi ha rilevato 35.947 imprese con sede centrale a Palermo (+6,6% rispetto al 2001), che danno lavoro a 115.875 addetti (+10,2% rispetto al 2001). 
+Con riguardo all’articolazione della struttura economica della Città, rileva il carattere decisamente prevalente delle \ |STYLE0|\  con una elevata incidenza di addetti nei servizi, vendibili e non, ed una quota patologicamente bassa nelle attività produttive industriali. 
 
-Passando dalle sedi centrali alle unità locali, a Palermo sono state censite 38.118 unità locali delle imprese (+6% rispetto al 2001), con 126.83 3 addetti (+13,7% rispetto al 2001). L’analisi per settore di attività economica evidenzia una distribuzione delle unità locali fortemente concentrata in pochi settori. 
+Il 9° Censimento generale dell’industria e dei servizi ha rilevato 35.947 imprese con sede centrale a Palermo (+6,6% rispetto al 2001), che danno lavoro a 115.875 addetti (+10,2% rispetto al 2001). 
 
-Il numero più elevato di unità locali, 13.009 (pari ad oltre un terzo del totale, il 34,1%) opera nel settore del commercio, e assorbe 32.170 addetti, pari al 25,4% del totale. 
+Passando dalle sedi centrali alle unità locali, a Palermo sono state censite 38.118 unità locali delle imprese (+6% rispetto al 2001), con 126.83 3 addetti (+13,7% rispetto al 2001). L’analisi per settore di \ |STYLE1|\  evidenzia una distribuzione delle unità locali fortemente concentrata in pochi settori. 
+
+Il numero più elevato di unità locali, 13.009 (pari ad oltre un terzo del totale, il 34,1%) opera nel \ |STYLE2|\ , e assorbe 32.170 addetti, pari al 25,4% del totale. 
 
 Segue il settore delle attività professionali, scientifiche e tecniche, con 7.187 unità locali, pari al 18,9% del totale, e 11.154 addetti, pari all’8,8% del totale.
 
 Il settore della sanità e assistenza sociale conta 3.256 unità locali, pari all’8,5%, e 9.411 addetti, pari al 7,4%. 
 
-Le attività manifatturiere contano 2.299 unità locali, pari al 6%, e 8.843 addetti, pari al 7%. 
+Le \ |STYLE3|\  contano 2.299 unità locali, pari al 6%, e 8.843 addetti, pari al 7%. 
 
-Il settore delle costruzioni conta 2.137 unità locali, pari al 5,6%, e 8.031 addetti, pari al 6,3%. 
+Il settore delle \ |STYLE4|\  conta 2.137 unità locali, pari al 5,6%, e 8.031 addetti, pari al 6,3%. 
 
-Il settore delle attività dei servizi di alloggio e di ristorazione conta 2.058 unità locali, pari al 5,4%, e 8.384 addetti, pari al 6,6%. 
+Il settore delle \ |STYLE5|\  conta 2.058 unità locali, pari al 5,4%, e 8.384 addetti, pari al 6,6%. 
 
 Questi primi sei settori assorbono il 78,6% delle unità locali, e il 61,5% degli addetti.
 
-Rispetto al Censimento 2001, l’incremento più elevato di unità locali si è registrato, in termini assoluti, nel settore attività professionali, scientifiche e tecniche: si è passati da 5.907 a 7.187 unità locali, con un incremento di 1.280 unità. 
+Rispetto al Censimento 2001, l’incremento più elevato di unità locali si è registrato, in termini assoluti, nel settore \ |STYLE6|\ : si è passati da 5.907 a 7.187 unità locali, con un incremento di 1.280 unità. 
 
 La diminuzione maggiore di unità  locali,  in  termini  assoluti,  si  è  invece  registrata  nel  settore  delle  attività manifatturiere: si è passati da 3.103 a 2.299 unità locali, con una diminuzione del 25,9%. 
 
-Passando dalle unità locali agli addetti, l’incremento più elevato si è registrato nel settore della sanità e assistenza sociale: si è passati da 5.113 a 9.411 addetti, con un incremento di 4.298 addetti (+84,1%). 
+Passando dalle unità locali agli addetti, l’incremento più elevato si è registrato nel settore della \ |STYLE7|\ : si è passati da 5.113 a 9.411 addetti, con un incremento di 4.298 addetti (+84,1%). 
 
-Il settore che ha fatto registrare la contrazione maggiore del numero di addetti è quello delle attività manifatturiere: si è passati da 10.875 a 8.843 addetti, con una diminuzione di 2.032 unità.
+Il settore che ha fatto registrare la contrazione maggiore del numero di addetti è quello delle attività \ |STYLE8|\ : si è passati da 10.875 a 8.843 addetti, con una diminuzione di 2.032 unità.
 
-Con riferimento al numero di addetti per unità locale, il sistema produttivo della Città di Palermo si presenta estremamente parcellizzato: ben il 60,6% delle unità locali ha un solo addetto, il 13,1% 2 addetti, e il 12,7% da 3 a 5 addetti. 
+Con riferimento al numero di addetti per unità locale, il \ |STYLE9|\  della Città di Palermo si presenta estremamente parcellizzato: ben il 60,6% delle unità locali ha un solo addetto, il 13,1% 2 addetti, e il 12,7% da 3 a 5 addetti. 
 
 Complessivamente, l’86,4% delle unità locali non supera i 5 addetti, percentuale che sale al 95,4% se consideriamo tutte le unità  locali  sotto  i  10 addetti  (comprese  quelle  senza  addetti).  
 
 Per  converso,  è estremamente ridotto il numero di unità locali con molti addetti: soltanto il 4,6% delle unità locali ha 10 o più addetti, l’1,7% 20 o più addetti, e lo 0,3% 100 o più addetti. Le unità locali con più di 500 addetti sono complessivamente 15, di cui soltanto 2 superano i 1000 addetti. 
 
-Negli anni più recenti, l’economia cittadina sta risentendo fortemente degli effetti della perdurante recessione come è testimoniato, ad esempio, dall’andamento delle vendite di auto e moto e dalla crisi del mercato immobiliare. 
+Negli anni più recenti, l’economia cittadina sta risentendo fortemente degli effetti della \ |STYLE10|\  come è testimoniato, ad esempio, dall’andamento delle vendite di auto e moto e dalla crisi del mercato immobiliare. 
 
-Nel corso del 2013 sono state immatricolate a Palermo 8.908 nuove autovetture, con un decremento del 9,1% rispetto alle 9.804 autovetture immatricolate nel corso del 2012, e addirittura del 26,7% rispetto alle 13.634 auto immatricolate nel 2011. Il dato relativo alle immatricolazioni del 2013 è il più basso degli ultimi 10 anni. Con riferimento ai motocicli, le diminuzioni sono ancora più consistenti: le immatricolazioni del 2013 sono state 2.264, con una diminuzione di oltre un quarto (25,6%) rispetto al 2012, e di oltre la metà (53,2%) al 2011. Notizie negative anche dal mercato immobiliare: nel 2013 si sono registrate a Palermo 3.736 compravendite di immobili residenziali (‐7% rispetto al 2012). 
+Nel corso del 2013 sono state immatricolate a Palermo 8.908 nuove \ |STYLE11|\ , con un decremento del 9,1% rispetto alle 9.804 autovetture immatricolate nel corso del 2012, e addirittura del 26,7% rispetto alle 13.634 auto immatricolate nel 2011. Il dato relativo alle immatricolazioni del 2013 è il più basso degli ultimi 10 anni. Con riferimento ai \ |STYLE12|\ , le diminuzioni sono ancora più consistenti: le immatricolazioni del 2013 sono state 2.264, con una diminuzione di oltre un quarto (25,6%) rispetto al 2012, e di oltre la metà (53,2%) al 2011. Notizie negative anche dal \ |STYLE13|\ : nel 2013 si sono registrate a Palermo 3.736 compravendite di immobili residenziali (‐7% rispetto al 2012). 
 
-Si conferma così il trend fortemente decrescente del mercato immobiliare residenziale cittadino, che in dieci anni (dal 2003 al 2013) è diminuito del 45,1%. La crisi non è limitata ai soli immobili residenziali: le compravendite di uffici sono diminuite del 16,7% rispetto al 2012, e addirittura del 61,2% rispetto al 2003; le compravendite di negozi sono diminuite del 4,6% rispetto al 2012 e del 40,8% rispetto al 2003; le compravendite di magazzini sono diminuite del 15,2% rispetto al 2012 e del 42% rispetto al 2003.
+Si conferma così il \ |STYLE14|\  cittadino, che in dieci anni (dal 2003 al 2013) è diminuito del 45,1%. La crisi non è limitata ai soli immobili residenziali: le \ |STYLE15|\  sono diminuite del 16,7% rispetto al 2012, e addirittura del 61,2% rispetto al 2003; le \ |STYLE16|\  sono diminuite del 4,6% rispetto al 2012 e del 40,8% rispetto al 2003; le compravendite di magazzini sono diminuite del 15,2% rispetto al 2012 e del 42% rispetto al 2003.
 
-E’ il lavoro (qui misurato attraverso il tasso di occupazione nella fascia tra 15 e 64 anni di età) il più grave e persistente problema della società palermitana; il dato, sia pure riferito alla dimensione provinciale, si ragguaglia ad un modesto 43%, decisamente lontano dal valore medio nazionale che supera il 58%. Conseguentemente il tasso di disoccupazione si attesta a un preoccupante 18,6% e ciò malgrado negli ultimi anni abbia segnato un recupero che va oltre i dieci punti percentuali. Anche il confronto con la media regionale risulta penalizzante, tenuto conto che il dato isolano è pari al 13,5%, mentre addirittura la provincia di Ragusa si attesta al 6,7%.
+E’ il \ |STYLE17|\  (qui misurato attraverso il tasso di occupazione nella fascia tra 15 e 64 anni di età) \ |STYLE18|\ ; il dato, sia pure riferito alla dimensione provinciale, si ragguaglia ad un modesto 43%, decisamente lontano dal valore medio nazionale che supera il 58%. Conseguentemente il tasso di \ |STYLE19|\  si attesta a un preoccupante 18,6% e ciò malgrado negli ultimi anni abbia segnato un recupero che va oltre i dieci punti percentuali. Anche il confronto con la media regionale risulta penalizzante, tenuto conto che il dato isolano è pari al 13,5%, mentre addirittura la provincia di Ragusa si attesta al 6,7%.
 
-Tra le aree che segnalano una dinamica più interessante, uno spazio particolare compete al turismo incoming; frutto di una sensibile espansione nell’offerta ricettiva, segnalata da un deciso incremento dei posti letto nelle categorie alberghiere a quattro e cinque stelle, e di una crescita  esponenziale nel turismo crocieristico, la componente turistica straniera ha segnato una brillante crescita nella provincia palermitana. Il Censis segnala addirittura un incremento del 98% della spesa dei turisti stranieri nell’arco di un quinquennio, a fronte di un dato medio meridionale del +9% ed una flessione del 10% nella media italiana. 
+Tra le aree che segnalano una dinamica più interessante, uno spazio particolare compete al \ |STYLE20|\ ; frutto di una sensibile espansione nell’offerta ricettiva, segnalata da un deciso incremento dei posti letto nelle \ |STYLE21|\  a quattro e cinque stelle, e di una crescita  esponenziale nel \ |STYLE22|\ , la componente turistica straniera ha segnato una brillante crescita nella provincia palermitana. Il Censis segnala addirittura un incremento del 98% della spesa dei turisti stranieri nell’arco di un quinquennio, a fronte di un dato medio meridionale del +9% ed una flessione del 10% nella media italiana. 
 
 [\ |LINK2|\ ].
 
@@ -82,11 +83,11 @@ Dati ambientali
 
 l raggiungimento di uno sviluppo urbano sostenibile passa necessariamente attraverso il progressivo miglioramento delle condizioni delle varie matrici ambientali, caratterizzate da un elevato grado di complessità e d’interconnessione. La configurazione climatica ed urbanistica, unita all’attuale situazione demografica ed economica – aspetti che mostrano analogie con altre città del bacino mediterraneo – conducono all’identificazione di questioni ambientali che risultano di cruciale importanza per il complessivo innalzamento della qualità della vita. 
 
-\ |STYLE0|\ 
+\ |STYLE23|\ 
 
 Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  posseggono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni '80 e '90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano. 
 
-\ |STYLE1|\ 
+\ |STYLE24|\ 
 
 Il bilancio energetico di Palermo equivale a oltre 500 ktep in termini di energia primaria, attribuibili  per  la  quasi  totalità  a  fonti  fossili  (prodotti  petroliferi  e  gas  naturale, quest’ultimo con un consumo prossimo ai 90 Mm3/anno) ed energia elettrica (circa 160 ktep nel 2012, fonte: Istat). Si caratterizza per la mitezza delle condizioni climatiche (quasi 19 °C di temperatura media annuale, solo 750 °C gradi‐giorno) e per un consumo specifico pari a meno della metà della media nazionale (0,75 tep/ab), con una netta prevalenza di dei settori trasporti (60%, rispetto a una quota regionale pari al 45%) e residenziale (23%). In ambito comunale, un terzo dei consumi di energia elettrica (circa 30 GWh/anno, fonte: AMG, 2014) è dovuto  all’insieme di pubblica illuminazione (circa 50.000 punti) e semafori (circa 7.000 lanterne). Una fotografia dei limiti di una città che vede assottigliarsi i consumi energetici per fini produttivi (l’industria pesa meno del 4%), anche nel terziario (inferiore al 10%), e che peraltro non riesce a sfruttare a pieno l’elevato potenziale di energia rinnovabile (specie la radiazione solare, equivalente a un barile di petrolio per ogni metro quadrato, ovvero 1.800 kWh/m2), mostrando un misero 0,1 kW di potenza fotovoltaica installata ogni 1.000 abitanti, rispetto a una media nazionale di 2,4 (fonte: Istat 2012). D’altra parte, i settori maggiormente energivori prima menzionati, offrono ampi margini di razionalizzazione e risparmio. 
 
@@ -229,9 +230,55 @@ Open data
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Mobilità**
+.. |STYLE0| replace:: **attività “terziarie”**
 
-.. |STYLE1| replace:: **Produzione e uso finale di energia**
+.. |STYLE1| replace:: **attività economica**
+
+.. |STYLE2| replace:: **settore del commercio**
+
+.. |STYLE3| replace:: **attività manifatturiere**
+
+.. |STYLE4| replace:: **costruzioni**
+
+.. |STYLE5| replace:: **attività dei servizi di alloggio e di ristorazione**
+
+.. |STYLE6| replace:: **attività professionali, scientifiche e tecniche**
+
+.. |STYLE7| replace:: **sanità e assistenza sociale**
+
+.. |STYLE8| replace:: **manifatturiere**
+
+.. |STYLE9| replace:: **sistema produttivo**
+
+.. |STYLE10| replace:: **perdurante recessione**
+
+.. |STYLE11| replace:: **autovetture**
+
+.. |STYLE12| replace:: **motocicli**
+
+.. |STYLE13| replace:: **mercato immobiliare**
+
+.. |STYLE14| replace:: **trend fortemente decrescente del mercato immobiliare residenziale**
+
+.. |STYLE15| replace:: **compravendite di uffici**
+
+.. |STYLE16| replace:: **compravendite di negozi**
+
+.. |STYLE17| replace:: **lavoro**
+
+.. |STYLE18| replace:: **il più grave e persistente problema della società palermitana**
+
+.. |STYLE19| replace:: **disoccupazione**
+
+.. |STYLE20| replace:: **turismo incoming**
+
+.. |STYLE21| replace:: **categorie alberghiere**
+
+.. |STYLE22| replace:: **turismo crocieristico**
+
+.. |STYLE23| replace:: **Mobilità**
+
+.. |STYLE24| replace:: **Produzione e uso finale di energia**
 
 
 .. |REPLACE1| raw:: html
