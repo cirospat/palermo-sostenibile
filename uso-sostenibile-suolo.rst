@@ -72,6 +72,13 @@ Azioni in corso
 
 \ |LINK7|\ . 
 
+.. _h742c335f7c7a673a1726656b34b4f15:
+
+Azioni civiche
+==============
+
+\ |LINK8|\ .
+
 |
 
 .. _h2a1f625ca645c176c487a146b4e3612:
@@ -115,4 +122,8 @@ Azioni di medio periodo
 .. |LINK7| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?id=18270" target="_blank">Giardini e orti contro il degrado. Così i quartieri si rigenerano</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://public.tableau.com/profile/gbvitrano#!/vizhome/SegnalazioniRAP-Palermo-04/DashboardMappasegnalazioniRAP" target="_blank">Mappa delle segnalazioni civiche alla Società per l’igiene ambientale RAP SpA tramite app</a>
 
