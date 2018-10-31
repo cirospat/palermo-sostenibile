@@ -100,7 +100,7 @@ Azioni di medio periodo
 .. |REPLACE2| raw:: html
 
     <strong>Osservare il cambiamento di Palermo grazie alla cartografia, a cura di Opendatasicilia</strong></br>
-    <iframe width="100%" height="600px" frameBorder="0" src="https://palermohub.opendatasicilia.it/index_atlante.html#14/38.1113/13.3534"></iframe></br>
+    <iframe width="100%" height="800px" frameBorder="0" src="https://palermohub.opendatasicilia.it/index_atlante.html#14/38.1113/13.3534"></iframe></br>
     <a href="http://siciliahub.github.io/palermohub/index_atlante.html" title="Visualizza l’Atlante delle carte tecniche storiche di Palermo a schermo intero">Visualizza a schermo intero</a>
 
 .. |LINK1| raw:: html
