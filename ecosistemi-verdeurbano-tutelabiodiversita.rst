@@ -252,7 +252,7 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
 
 .. |STYLE2| replace:: **]**
 
-.. |STYLE3| replace:: **Biodiversità, mappa dell’Orto Botanico di Palermo**
+.. |STYLE3| replace:: **Mappa dei SIC (Siti di Importanza Comunitari) e ZPS (Zone Protezione Speciale) della Sicilia**
 
 .. |STYLE4| replace:: **Mappa degli spazi verdi pubblici fruibili di Palermo**
 
@@ -289,7 +289,7 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
     <a href="http://umap.openstreetmap.fr/it/map/palermo-tipologia-delle-risorse-naturali_182120">Visualizza a schermo intero</a>
 .. |REPLACE3| raw:: html
 
-    <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521">Visualizza a schermo intero</a>
+    <iframe width="100%" height="300px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/it/map/sic-e-zps-della-sicilia_261539?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="http://umap.openstreetmap.fr/it/map/sic-e-zps-della-sicilia_261539">Visualizza a schermo intero</a>
 .. |REPLACE4| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/spazi-verdi-fruibili-a-palermo-italia_14577#12/38.1529/13.3673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="http://umap.openstreetmap.fr/it/map/orto-botanico-di-palermo_182521">Visualizza a schermo intero</a>
