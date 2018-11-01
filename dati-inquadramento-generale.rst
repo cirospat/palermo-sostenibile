@@ -129,42 +129,81 @@ Le  emergenze  dovute  a  fenomeni sociali  quali  difficoltà  alloggiative,  p
 
 |
 
+.. _hb543f45466d2973f485e648014264d:
+
+Dati culturali
+**************
+
+\ |STYLE25|\ 
+
+Nel 2018 risiedono nel comune di Palermo 668.405 abitanti. La popolazione è in calo da almeno un quarto di secolo (i residenti erano oltre 734 mila nel 1990). Dagli anni duemila si assiste inoltre ad un \ |STYLE26|\ : l’età media è passata dai 39 anni del 2002 ai 43,3 del 2018, sebbene resti al di sotto di quella media nazionale (45,2 anni).
+
+La presenza straniera si è quasi triplicata negli anni duemila raggiungendo a gennaio 2018 il livello di 25.663 cittadini (il 3,8% dei residenti, è l’8,5% a livello nazionale) con un rapporto di genere abbastanza equilibrato.
+
+Palermo si contraddistingue tra i comuni siciliani per una maggiore \ |STYLE27|\ : gli stranieri residenti sono di 127 differenti nazionalità. Questa specificità è testimoniata tanto dal crogiolo di lingue parlate quanto dalle diverse “culture” presenti.
+
+Tra le lingue parlate un ruolo importante spetta ancora al \ |STYLE28|\ . La Sicilia si caratterizza, infatti, per un maggior ricorso al dialetto rispetto alla media nazionale in tutti gli ambiti del vivere quotidiano. Nel 2015, il 25,5% dei siciliani parla prevalentemente dialetto in famiglia (rispetto al 14,1% della media italiana), il 19,7% con gli amici (contro il 12,1%) e il 5,7% sul lavoro (3,4% livello nazionale).
+
+Con il consolidarsi della presenza straniera, anche in Sicilia, come nel resto dell’Italia, nel tempo è aumentata la quota di persone che dichiarano di esprimersi abitualmente in famiglia in lingue diverse dall’italiano e dal dialetto (3,6% nel 2015 contro lo 0,2% nel 1995).
+
+Il \ |STYLE29|\  della città è molto ricco e si caratterizza per la varietà dei musei e degli spazi espositivi. L’ultimo censimento dei musei condotto dall’Istat nel 2015 ne conta 25 aperti al pubblico. Tale patrimonio attrae un numero consistente di visitatori: nel 2015 oltre 450 mila persone, un volume di utenti pari a 7 visitatori ogni dieci abitanti.
+
+Nel 2016 la Sicilia, con 6.135 \ |STYLE30|\  e 196.178 posti letto, rappresenta circa il 4% dell’offerta ricettiva dell’Italia, collocandosi poco al di sotto della media nazionale (5%). La provincia di Palermo copre il 14,6% dell’offerta complessiva regionale e il 17,3% in termini di posti letto.
+
+Sono i \ |STYLE31|\  i luoghi del patrimonio preferiti dai cittadini residenti in Sicilia e nel Sud. Nel 2015, sono stati scelti dal 54,3% dei siciliani e dal 58,1% dei residenti del Mezzogiorno contro il 50,9% della media nazionale.
+
+Nel 2015-2016, i cittadini di Palermo si sono recati \ |STYLE32|\  più di frequente rispetto alla media nazionale: il 23,4% si è recato al teatro almeno una volta all’anno e il 29,2% è andato al cinema quattro o più volte in un anno, contro un dato nazionale rispettivamente di 19,8% e 21,5%.
+
+La \ |STYLE33|\  della città è testimoniata anche dal livello di partecipazione dei residenti alle attività culturali (26,9% nel 2015-2016), superiore alla media della regione e della ripartizione (20,5%) e in linea col valore medio nazionale (28,3%). Tale partecipazione risulta in aumento rispetto a quanto registrato dieci anni prima (media 2005-2006 17,8%).
+
+Per informazioni:
+
+* Emanuela Bologna, e-mail \ |LINK6|\ , tel. 06 4673.7422
+
+* Roberto Foderà, e-mail \ |LINK7|\ , tel. 06 4673.5925 
+
+* Alessandra Federici, e-mail \ |LINK8|\ , tel. 06 4673.7265
+
+\ |LINK9|\ . \ |LINK10|\ .   [\ |LINK11|\ ] 
+
+|
+
 .. _h3f287e6b45744b203e1523467a735a26:
 
 Assetto amministrativo dell’Amministrazione comunale di Palermo
 ***************************************************************
 
-* \ |LINK6|\  
-
-* \ |LINK7|\  
-
-* \ |LINK8|\  
-
-* \ |LINK9|\ 
-
-* \ |LINK10|\ 
-
-* \ |LINK11|\  
-
 * \ |LINK12|\  
 
-* \ |LINK13|\  		
+* \ |LINK13|\  
 
 * \ |LINK14|\  
 
-* \ |LINK15|\  
+* \ |LINK15|\ 
 
-* \ |LINK16|\  
+* \ |LINK16|\ 
 
 * \ |LINK17|\  
 
-* \ |LINK18|\ 
+* \ |LINK18|\  
 
-* \ |LINK19|\   
+* \ |LINK19|\  		
 
-* \ |LINK20|\  		
+* \ |LINK20|\  
 
-[\ |LINK21|\  aggiornati a ottobre 2018]
+* \ |LINK21|\  
+
+* \ |LINK22|\  
+
+* \ |LINK23|\  
+
+* \ |LINK24|\ 
+
+* \ |LINK25|\   
+
+* \ |LINK26|\  		
+
+[\ |LINK27|\  aggiornati a ottobre 2018]
 
 |
 
@@ -280,6 +319,24 @@ Open data
 
 .. |STYLE24| replace:: **Produzione e uso finale di energia**
 
+.. |STYLE25| replace:: **PALERMO CITTÀ DELLA CULTURA**
+
+.. |STYLE26| replace:: **progressivo invecchiamento**
+
+.. |STYLE27| replace:: **presenza multietnica**
+
+.. |STYLE28| replace:: **dialetto locale**
+
+.. |STYLE29| replace:: **patrimonio artistico**
+
+.. |STYLE30| replace:: **esercizi ricettivi**
+
+.. |STYLE31| replace:: **musei archeologici e di arte antica**
+
+.. |STYLE32| replace:: **al cinema e al teatro**
+
+.. |STYLE33| replace:: **vivacità culturale**
+
 
 .. |REPLACE1| raw:: html
 
@@ -317,65 +374,89 @@ Open data
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=73" target="_blank">Staff direttore generale</a>
+    <a href="mailto:bologna@istat.it">bologna@istat.it</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=78" target="_blank">Coordinamento interventi coime</a>
+    <a href="mailto:fodera@istat.it">fodera@istat.it</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=69" target="_blank">Relazioni istituzionali sviluppo e risorse umane</a>
+    <a href="mailto:federici@istat.it">federici@istat.it</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=79" target="_blank">Staff sindaco</a>
+    <a href="https://www.istat.it/it/files//2018/10/Palermo_interculturale_29_10_2018.pdf" target="_blank">Documento integrale</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=56" target="_blank">Staff organi istituzionali segreteria generale</a>
+    <a href="https://www.istat.it/it/files//2018/10/Tavole_allegate_focus_palermo.xlsx" target="_blank">Tavole in formato tabellare</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=80" target="_blank">Staff consiglio comunale</a>
+    <a href="https://www.istat.it/it/archivio/223010?fbclid=IwAR139mtkyFZCK8r6tNe9Bs0jjPtXpVlMY8_JkuK1QGZa1lKTdBGhqC9HV2c" target="_blank">Fonte dati Istat</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=4" target="_blank">Avvocatura comunale</a>
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=73" target="_blank">Staff direttore generale</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=75" target="_blank">Ragioneria generale tributi e patrimonio</a>
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=78" target="_blank">Coordinamento interventi coime</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=68" target="_blank">Offerta dei servizi culturali</a>
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=69" target="_blank">Relazioni istituzionali sviluppo e risorse umane</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=72" target="_blank">Servizi ai cittadini</a>
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=79" target="_blank">Staff sindaco</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=66" target="_blank">Servizi alla città</a>
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=56" target="_blank">Staff organi istituzionali segreteria generale</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=70" target="_blank">Cittadinanza solidale</a>
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=80" target="_blank">Staff consiglio comunale</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=76" target="_blank">Riqualificazione urbana e pianificazione urbanistica</a>
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=4" target="_blank">Avvocatura comunale</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=77" target="_blank">Rigenerazione urbana, oo.pp. e attuazione delle politiche di coesione</a>
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=75" target="_blank">Ragioneria generale tributi e patrimonio</a>
 
 .. |LINK20| raw:: html
 
-    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=15" target="_blank">Polizia municipale</a>
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=68" target="_blank">Offerta dei servizi culturali</a>
 
 .. |LINK21| raw:: html
+
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=72" target="_blank">Servizi ai cittadini</a>
+
+.. |LINK22| raw:: html
+
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=66" target="_blank">Servizi alla città</a>
+
+.. |LINK23| raw:: html
+
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=70" target="_blank">Cittadinanza solidale</a>
+
+.. |LINK24| raw:: html
+
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=76" target="_blank">Riqualificazione urbana e pianificazione urbanistica</a>
+
+.. |LINK25| raw:: html
+
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=77" target="_blank">Rigenerazione urbana, oo.pp. e attuazione delle politiche di coesione</a>
+
+.. |LINK26| raw:: html
+
+    <a href="https://www.comune.palermo.it/masterpage.php?func=aree&sel=15" target="_blank">Polizia municipale</a>
+
+.. |LINK27| raw:: html
 
     <a href="https://www.comune.palermo.it/masterpage.php?apt=4" target="_blank">Fonte dati</a>
 
