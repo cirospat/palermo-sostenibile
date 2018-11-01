@@ -41,6 +41,9 @@ Governance territoriale e Monitoraggio
 
 |REPLACE2|
 
+
+|REPLACE3|
+
 |
 
 .. _h7b6969585c4c223f62541816121b4d:
@@ -100,8 +103,12 @@ Azioni di medio periodo
 .. |REPLACE2| raw:: html
 
     <strong>Osservare il cambiamento di Palermo grazie alla cartografia, a cura di Opendatasicilia</strong></br>
-    <iframe width="100%" height="800px" frameBorder="0" src="https://palermohub.opendatasicilia.it/index_atlante.html#14/38.1113/13.3534"></iframe></br>
+    <iframe width="100%" height="700px" frameBorder="0" src="https://palermohub.opendatasicilia.it/index_atlante.html#14/38.1113/13.3534"></iframe></br>
     <a href="http://siciliahub.github.io/palermohub/index_atlante.html" title="Visualizza l’Atlante delle carte tecniche storiche di Palermo a schermo intero">Visualizza a schermo intero</a>
+.. |REPLACE3| raw:: html
+
+    <strong>Rischio geomorfologico a Palermo</strong></br>
+    <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/it/map/palermo-rischio-geomorfologico-2015_261648?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="http://umap.openstreetmap.fr/it/map/palermo-rischio-geomorfologico-2015_261648">Visualizza a schermo intero</a>
 
 .. |LINK1| raw:: html
 
