@@ -300,7 +300,7 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
     <iframe src="https://www.google.com/maps/d/embed?mid=1O_Uf4NEz5QuHrbSBIS7Q1dVt9IY&hl=it" width="100%" height="600"></iframe>
 .. |REPLACE6| raw:: html
 
-    <iframe width="100%" height="500px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/parco-delloreto_261796?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="https://umap.openstreetmap.fr/it/map/parco-delloreto_261796">Visualizza a schermo intero</a>
+    <iframe width="100%" height="500px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/parco-delloreto_261796?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true"></iframe></br><a href="https://umap.openstreetmap.fr/it/map/parco-delloreto_261796">Visualizza a schermo intero</a>
 .. |REPLACE7| raw:: html
 
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/C4a-1hpBOSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></br>
