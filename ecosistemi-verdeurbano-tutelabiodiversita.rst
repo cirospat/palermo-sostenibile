@@ -54,9 +54,11 @@ Governance territoriale
 
 Piano di Utilizzo delle Aree Demaniali Marittime del Comune di Palermo, SIC: ITA 020012 - “\ |STYLE6|\ ” [\ |LINK4|\ ].
 
+|REPLACE6|
+
 Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costruzione del tratto Oreto-Notarbartolo della Metropolitana Automatica Leggera di Palermo sul S.I.C. ITA020012 “\ |STYLE7|\ ”. La Valutazione di Incidenza viene definita come uno studio scientifico che deve avere come    obiettivo    di    individuare    e    valutare    gli    impatti    che    le    attività    umane    (piani/progetti/interventi) possono esercitare sugli habitat e le specie animali e vegetali dei SIC o delle ZPS che sono stati individuati e inseriti all’interno dei formulari Natura 2000. [\ |LINK5|\ ]  
 
-|REPLACE6|
+|REPLACE7|
 
 |
 
@@ -71,7 +73,7 @@ Luoghi da tutelare, i luoghi del cuore dell’iniziativa del F.A.I. edizione 201
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-|REPLACE7|
+|REPLACE8|
 
 L'\ |STYLE8|\  è un fiume siciliano che scorre nella Valle dell'Oreto e con un bacino che si estende nei territori dei comuni di Altofonte, Monreale e Palermo. Lungo circa 20 chilometri, ha la sorgente a sud di Palermo, nella cosiddetta Conca d'Oro, lungo la dorsale del Monte Matassaro Renna; da qui in poi scorre verso la periferia sud del capoluogo siciliano per andare a sfociare nel Mar Tirreno. La foce è visibile dal ponte del lungomare Sant'Erasmo. Corso d'acqua a carattere torrentizio, anche nei mesi più caldi conserva un deflusso sufficiente per la presenza di molte sorgive lungo il proprio corso e per la ricchezza della falda che lo alimenta: nel 1997, ultimo dato disponibile, la portata media mensile del fiume ha oscillato fra un massimo di 1,87 metri cubi al secondo (registrato in gennaio) e un minimo di 0,116 metri cubi al secondo (registrato in agosto). Dal 1980 al 1997, la portata massima si è registrata nel gennaio del 1981 (5,876) [\ |LINK7|\ ].
 
@@ -216,7 +218,7 @@ Nel 2017 sono state piantate circa 4500 essenze vegetali su tutto il territorio 
 
 Le essenze vegetali piantumate sono state in parte prodotte dal Vivaio Comunale.
 
-|REPLACE8|
+|REPLACE9|
 
 [Fonte: \ |LINK8|\ ].
 
@@ -298,13 +300,16 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
     <iframe src="https://www.google.com/maps/d/embed?mid=1O_Uf4NEz5QuHrbSBIS7Q1dVt9IY&hl=it" width="100%" height="600"></iframe>
 .. |REPLACE6| raw:: html
 
+    <iframe width="100%" height="500px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/parco-delloreto_261796?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="https://umap.openstreetmap.fr/it/map/parco-delloreto_261796">Visualizza a schermo intero</a>
+.. |REPLACE7| raw:: html
+
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/C4a-1hpBOSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></br>
     "Oreto - The Urban Adventure" di Igor D'India - Vedipalermo 2013. Un video che ci porta in un viaggio all’interno del fiume facendoci scoprire elementi naturali sconosciuti.
-.. |REPLACE7| raw:: html
+.. |REPLACE8| raw:: html
 
     <img src="https://fai-platform.imgix.net/media/sicilia/pa/41226_fiume-oreto.jpg" width=600 /></br>
     Foto del FAI
-.. |REPLACE8| raw:: html
+.. |REPLACE9| raw:: html
 
     <img src="https://www.comune.palermo.it/js/server/uploads/bs/img/_20042018085651.jpg" width=600 /></br>
     <img src="https://www.comune.palermo.it/js/server/uploads/bs/img/_20042018085707.jpg" width=600 />
