@@ -108,7 +108,7 @@ Azioni di medio periodo
 .. |REPLACE3| raw:: html
 
     <strong>Rischio geomorfologico a Palermo</strong></br>
-    <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/it/map/palermo-rischio-geomorfologico-2015_261648?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="http://umap.openstreetmap.fr/it/map/palermo-rischio-geomorfologico-2015_261648">Visualizza a schermo intero</a>
+    <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-rischio-geomorfologico-2015_261648?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="https://umap.openstreetmap.fr/it/map/palermo-rischio-geomorfologico-2015_261648">Visualizza a schermo intero</a>
 
 .. |LINK1| raw:: html
 
