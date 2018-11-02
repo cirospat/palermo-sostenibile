@@ -44,6 +44,9 @@ Governance territoriale e Monitoraggio
 
 |REPLACE3|
 
+|
+
+\ |STYLE0|\ . L’Amministrazione comunale di Palermo ha redatto la cartografia con la proposta di aggiornamento delle aree di attesa, cioè di quelle aree che in occasione di eventi emergenziali, rappresentano le aree sicure che devono essere raggiunte dalla popolazione in attesa dei soccorsi. [\ |LINK5|\ ].
 
 |REPLACE4|
 
@@ -54,7 +57,7 @@ Governance territoriale e Monitoraggio
 Piano Utilizzazione Demanio Marittimo - Deliberazione di Consiglio Comunale n.376/2014 
 =======================================================================================
 
-[Fonte dati: \ |LINK5|\ ].
+[Fonte dati: \ |LINK6|\ ].
 
 |
 
@@ -77,16 +80,16 @@ Strategie
 Azioni in corso
 ***************
 
-\ |LINK6|\ .
+\ |LINK7|\ .
 
-\ |LINK7|\ . 
+\ |LINK8|\ . 
 
 .. _h742c335f7c7a673a1726656b34b4f15:
 
 Azioni civiche
 ==============
 
-\ |LINK8|\ .
+\ |LINK9|\ .
 
 |
 
@@ -97,6 +100,9 @@ Azioni di medio periodo
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Piano di Protezione Civile di Palermo**
 
 
 .. |REPLACE1| raw:: html
@@ -114,7 +120,7 @@ Azioni di medio periodo
     <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-rischio-geomorfologico-2015_261648?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="https://umap.openstreetmap.fr/it/map/palermo-rischio-geomorfologico-2015_261648">Visualizza a schermo intero</a>
 .. |REPLACE4| raw:: html
 
-    <strong>Piano di Protezione Civile di Palermo (da open data comunali)
+    <strong>Mappa del Piano di Protezione Civile di Palermo (da open data comunali)
     </strong></br>
     <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/piano-protezione-civile-palermo-da-open-data-comun_89239?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="https://umap.openstreetmap.fr/it/map/piano-protezione-civile-palermo-da-open-data-comun_89239">Visualizza a schermo intero</a>
 
@@ -136,17 +142,21 @@ Azioni di medio periodo
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=107&bsel=123" target="_blank">Amministrazione Trasparente / Pianificazione e governo del territorio / Strumenti urbanistici di attuazione / Piani particolareggiati adottati</a>
+    <a href="https://www.comune.palermo.it/noticext.php?id=4778" target="_blank">Fonte</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?id=13924" target="_blank">Proposta di regolamento per orti urbani e giardini condivisi</a>
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=19&asel=107&bsel=123" target="_blank">Amministrazione Trasparente / Pianificazione e governo del territorio / Strumenti urbanistici di attuazione / Piani particolareggiati adottati</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?id=18270" target="_blank">Giardini e orti contro il degrado. Così i quartieri si rigenerano</a>
+    <a href="https://www.comune.palermo.it/noticext.php?id=13924" target="_blank">Proposta di regolamento per orti urbani e giardini condivisi</a>
 
 .. |LINK8| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=18270" target="_blank">Giardini e orti contro il degrado. Così i quartieri si rigenerano</a>
+
+.. |LINK9| raw:: html
 
     <a href="https://public.tableau.com/profile/gbvitrano#!/vizhome/SegnalazioniRAP-Palermo-04/DashboardMappasegnalazioniRAP" target="_blank">Mappa delle segnalazioni civiche alla Società per l’igiene ambientale RAP SpA tramite app</a>
 
