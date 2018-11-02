@@ -282,7 +282,7 @@ Asse 5, Azione 5.1.1 A “Interventi di messa in sicurezza e per l’aumento del
 .. |REPLACE7| raw:: html
 
     <img src="http://oiswww.eumetsat.org/IPPS/html/latestImages/EUMETSAT_MSG_RGBMicrophysics_WesternEurope.jpg" /></br>
-    <span style="font-weight: 400;">Visualizzazione delle condizioni metereologiche sull’Europa centrale in tempo reale da satellite,&nbsp;</span>a cura del <a href="http://www.sat24.com/image.ashx?country=it&type=loop&sat=ir" target="_blank" rel="noopener"><strong>Sat24.com/Eumetsat/Met Office - Microphysics</strong></a>
+    <span style="font-weight: 400;">Visualizzazione delle condizioni metereologiche sull’Europa centrale in tempo reale da satellite,&nbsp;</span>a cura del <a href="http://www.sat24.com/" target="_blank" rel="noopener"><strong>Sat24.com/Eumetsat/Met Office - Microphysics</strong></a>
 
 .. |LINK1| raw:: html
 
