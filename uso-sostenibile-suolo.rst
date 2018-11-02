@@ -44,6 +44,9 @@ Governance territoriale e Monitoraggio
 
 |REPLACE3|
 
+
+|REPLACE4|
+
 |
 
 .. _h7b6969585c4c223f62541816121b4d:
@@ -109,6 +112,11 @@ Azioni di medio periodo
 
     <strong>Rischio geomorfologico a Palermo</strong></br>
     <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/palermo-rischio-geomorfologico-2015_261648?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="https://umap.openstreetmap.fr/it/map/palermo-rischio-geomorfologico-2015_261648">Visualizza a schermo intero</a>
+.. |REPLACE4| raw:: html
+
+    <strong>Piano di Protezione Civile di Palermo (da open data comunali)
+    </strong></br>
+    <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/piano-protezione-civile-palermo-da-open-data-comun_89239?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="https://umap.openstreetmap.fr/it/map/piano-protezione-civile-palermo-da-open-data-comun_89239">Visualizza a schermo intero</a>
 
 .. |LINK1| raw:: html
 
