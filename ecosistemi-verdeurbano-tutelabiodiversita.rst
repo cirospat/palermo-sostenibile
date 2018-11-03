@@ -275,7 +275,7 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
 
 .. |STYLE7| replace:: **Valle del Fiume Oreto**
 
-.. |STYLE8| replace:: **Il Parco Agrumicolo di Ciaculli, una buona prassi nella sostenibilità ambientale a tutela della biodiversità della Conce d’Oro di Palermo**
+.. |STYLE8| replace:: **Il Parco Agrumicolo di Ciaculli, una buona prassi nella sostenibilità ambientale a tutela della biodiversità della Conca d’Oro di Palermo**
 
 .. |STYLE9| replace:: **Oreto**
 
