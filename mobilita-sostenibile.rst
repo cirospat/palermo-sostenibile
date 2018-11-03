@@ -47,7 +47,7 @@ Governance territoriale
 
 ⇒ \ |LINK4|\  (2007).
 
-⇒ \ |LINK5|\  (a cura di Next Nuove Energie, 2014). Risultato di un’azione di ricerca condotta nell'ambito del progetto “MUOVITY – Mobilità smart per comunità intelligenti”, finalizzato alla realizzazione di un servizio di condivisione di passaggi su mezzi privati (car-pooling) nell'area metropolitana di Palermo. Il progetto rientra tra quelli cofinanziati nel 2012 dal Ministero dell'Istruzione, dell'Università e della Ricerca (MIUR) per favorire lo sviluppo di soluzioni innovative a problemi di scala urbana e metropolitana, attraverso l'impiego di tecnologie della informazione e della comunicazione nonché di dispositivi sociali e organizzativi per la promozione di comunità più attente e consapevoli ai temi del risparmio e dell'efficienza energetica.
+⇒ \ |LINK5|\  (a cura di Next Nuove Energie, 2014). Risultato di un’azione di ricerca condotta nell'ambito del progetto “MUOVITY – Mobilità smart per comunità intelligenti”, finalizzato alla realizzazione di un servizio di condivisione di passaggi su mezzi privati (\ |STYLE2|\ ) nell'area metropolitana di Palermo. Il progetto rientra tra quelli cofinanziati nel 2012 dal Ministero dell'Istruzione, dell'Università e della Ricerca (MIUR) per favorire lo sviluppo di soluzioni innovative a problemi di scala urbana e metropolitana, attraverso l'impiego di tecnologie della informazione e della comunicazione nonché di dispositivi sociali e organizzativi per la promozione di comunità più attente e consapevoli ai temi del risparmio e dell'efficienza energetica.
 
 .. _h5848122fa71302c172c255419407b10:
 
@@ -87,7 +87,7 @@ Governance territoriale della Mobilità
 Piano Generale del Traffico Urbano (2013)
 =========================================
 
-\ |STYLE2|\  \ |LINK13|\  - Il  Piano  Generale  del  Traffico Urbano  della  città  di Palermo costituisce  la definizione di 1° livello della fase progettuale preliminare e conoscitiva.
+\ |STYLE3|\  \ |LINK13|\  - Il  Piano  Generale  del  Traffico Urbano  della  città  di Palermo costituisce  la definizione di 1° livello della fase progettuale preliminare e conoscitiva.
 
 Il  PGTU  è  un  piano  di  breve  termine. Gli  obiettivi  di  carattere generale   proposti   dalle  Direttive   Ministeriali   (miglioramento   delle   condizioni   di circolazione,  miglioramento  della  sicurezza  stradale,  riduzione  dell’inquinamento atmosferico  ed  acustico,  risparmio  energetico) da  conseguirsi  in  accordo  con  gli strumenti  urbanistici  vigenti  e  nel  rispetto  dei  valori  ambientali  ed  applicati  alla  realtà specifica di Palermo, sono traducibili in obiettivi specifici ed operativi quali: 
 
@@ -120,7 +120,7 @@ Piano Strategico per la Mobilità Sostenibile (edizione 2007)
 Documento di Strategia Urbana (edizione 2017)
 =============================================
 
-\ |STYLE3|\  \ |LINK16|\  \ |STYLE4|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni 80 e 90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
+\ |STYLE4|\  \ |LINK16|\  \ |STYLE5|\ : Gran parte della mobilità urbana viene tuttora attuata affidandosi al mezzo di trasporto privato. Si  calcola  che  8  residenti  palermitani  su  10  possiedono  ed  utilizzano un'automobile con un parco circolante di oltre 500.000 autovetture (fonte: AMAT, 2014). Il trend verso l'utilizzo dell'autovettura privata per gli spostamenti di ambito urbano è in costante crescita fin dalla fine degli anni '60 ed ha avuto la sua accelerazione negli anni 80 e 90. Palermo continua inoltre a scontare forti criticità nelle dinamiche per la circolazione di persone e merci, con una prolificazione di automobili nel centro urbano.
 
 |
 
@@ -162,11 +162,13 @@ Strategie
 
 .. |STYLE1| replace:: **Avvisi della Polizia Municipale sulla mobilità a Palermo in real time aggiornato ogni giorno**
 
-.. |STYLE2| replace:: **⇒**
+.. |STYLE2| replace:: **car-pooling**
 
 .. |STYLE3| replace:: **⇒**
 
-.. |STYLE4| replace:: **- Estratto dalla sezione Mobilità**
+.. |STYLE4| replace:: **⇒**
+
+.. |STYLE5| replace:: **- Estratto dalla sezione Mobilità**
 
 
 .. |REPLACE1| raw:: html
