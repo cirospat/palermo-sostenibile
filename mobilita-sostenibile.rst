@@ -169,6 +169,8 @@ Strategie
 
 .. |REPLACE1| raw:: html
 
+    <p><span class="footer_small">Se non compaiono punti nella mappa significa che oggi la Polizia Municipale non ha effettuato rilevamenti o comunicazioni su criticità della mobilità urbana.</span></p>
+    
     <iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe></br><a href="https://umap.openstreetmap.fr/it/map/mappa-delle-centraline-fisse-per-il-rilevamento-de_260673">Visualizza a schermo intero</a>
 .. |REPLACE2| raw:: html
 
