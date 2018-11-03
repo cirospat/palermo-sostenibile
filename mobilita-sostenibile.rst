@@ -47,7 +47,7 @@ Governance territoriale
 
 ⇒ \ |LINK4|\  (2007).
 
-⇒ \ |LINK5|\  (a cura di Next Nuove Energie, 2014). Risultato di un’azione di ricerca condotta nell'ambito del progetto “MUOVITY – Mobilità smart per comunità intelligenti”, finalizzato alla realizzazione di un servizio di condivisione di passaggi su mezzi privati (\ |STYLE2|\ ) nell'area metropolitana di Palermo. Il progetto rientra tra quelli cofinanziati nel 2012 dal Ministero dell'Istruzione, dell'Università e della Ricerca (MIUR) per favorire lo sviluppo di soluzioni innovative a problemi di scala urbana e metropolitana, attraverso l'impiego di tecnologie della informazione e della comunicazione nonché di dispositivi sociali e organizzativi per la promozione di comunità più attente e consapevoli ai temi del risparmio e dell'efficienza energetica.
+⇒ \ |LINK5|\  (pubblicazione a cura di Next Nuove Energie, 2014). Risultato di un’azione di ricerca condotta nell'ambito del progetto “MUOVITY – Mobilità smart per comunità intelligenti”, finalizzato alla realizzazione di un servizio di condivisione di passaggi su mezzi privati (\ |STYLE2|\ ) nell'area metropolitana di Palermo. Il progetto rientra tra quelli cofinanziati nel 2012 dal Ministero dell'Istruzione, dell'Università e della Ricerca (MIUR) per favorire lo sviluppo di soluzioni innovative a problemi di scala urbana e metropolitana, attraverso l'impiego di tecnologie della informazione e della comunicazione nonché di dispositivi sociali e organizzativi per la promozione di comunità più attente e consapevoli ai temi del risparmio e dell'efficienza energetica.
 
 .. _h5848122fa71302c172c255419407b10:
 
