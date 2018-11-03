@@ -9,7 +9,7 @@ Sostenibilità a Palermo
 
 Dalla \ |LINK1|\  alla ``sostenibilità`` nel territorio urbano di Palermo. Una piattaforma contenente la documentazione che illustra informazioni e dati su azioni, politiche e obiettivi concernenti la sostenibilità della città. Un'iniziativa che nasce nell’autunno del 2018 dentro alcune stanze degli uffici comunali di Palermo per la necessità di mettere a sistema tanti pezzi di informazione che risultano frammentati, e che è in continuo aggiornamento al fine di essere punto di riferimento culturale a livello locale.
 
-Un progetto informativo che intende \ |LINK2|\  i soggetti e le associazioni della società civile impegnati a vario titolo in azioni della sostenibilità nella città di Palermo, al fine di condividere contenuti e cultura ambientale.
+Un progetto informativo che intende \ |LINK2|\  i soggetti e le associazioni della società civile impegnati a vario titolo in azioni della sostenibilità nella città di Palermo, al fine di condividere contenuti e cultura ambientale. Informazioni e dati condivisi anche attraverso l’uso delle mappe interattive e delle infografiche.
 
 .. _h502d6c7a7f1119544d695d357912255c:
 
