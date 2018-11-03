@@ -45,6 +45,11 @@ Il  Piano Strategico di Palermo nasce dall’esigenza di individuare una visione
 Dati di riferimento: indicatore/indicatori
 ******************************************
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h43104565a44a2c6b501a66f162e43:
 
 Governance territoriale 
@@ -62,6 +67,12 @@ Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costr
 
 |
 
+\ |STYLE8|\ 
+
+|REPLACE8|
+
+|
+
 .. _h0686821523b385e435a2a761ff4b45:
 
 Obiettivi di medio e lungo periodo
@@ -73,9 +84,9 @@ Luoghi da tutelare, i luoghi del cuore dell’iniziativa del F.A.I. edizione 201
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-|REPLACE8|
+|REPLACE9|
 
-L'\ |STYLE8|\  è un fiume siciliano che scorre nella Valle dell'Oreto e con un bacino che si estende nei territori dei comuni di Altofonte, Monreale e Palermo. Lungo circa 20 chilometri, ha la sorgente a sud di Palermo, nella cosiddetta Conca d'Oro, lungo la dorsale del Monte Matassaro Renna; da qui in poi scorre verso la periferia sud del capoluogo siciliano per andare a sfociare nel Mar Tirreno. La foce è visibile dal ponte del lungomare Sant'Erasmo. Corso d'acqua a carattere torrentizio, anche nei mesi più caldi conserva un deflusso sufficiente per la presenza di molte sorgive lungo il proprio corso e per la ricchezza della falda che lo alimenta: nel 1997, ultimo dato disponibile, la portata media mensile del fiume ha oscillato fra un massimo di 1,87 metri cubi al secondo (registrato in gennaio) e un minimo di 0,116 metri cubi al secondo (registrato in agosto). Dal 1980 al 1997, la portata massima si è registrata nel gennaio del 1981 (5,876) [\ |LINK7|\ ].
+L'\ |STYLE9|\  è un fiume siciliano che scorre nella Valle dell'Oreto e con un bacino che si estende nei territori dei comuni di Altofonte, Monreale e Palermo. Lungo circa 20 chilometri, ha la sorgente a sud di Palermo, nella cosiddetta Conca d'Oro, lungo la dorsale del Monte Matassaro Renna; da qui in poi scorre verso la periferia sud del capoluogo siciliano per andare a sfociare nel Mar Tirreno. La foce è visibile dal ponte del lungomare Sant'Erasmo. Corso d'acqua a carattere torrentizio, anche nei mesi più caldi conserva un deflusso sufficiente per la presenza di molte sorgive lungo il proprio corso e per la ricchezza della falda che lo alimenta: nel 1997, ultimo dato disponibile, la portata media mensile del fiume ha oscillato fra un massimo di 1,87 metri cubi al secondo (registrato in gennaio) e un minimo di 0,116 metri cubi al secondo (registrato in agosto). Dal 1980 al 1997, la portata massima si è registrata nel gennaio del 1981 (5,876) [\ |LINK7|\ ].
 
 |
 
@@ -218,7 +229,7 @@ Nel 2017 sono state piantate circa 4500 essenze vegetali su tutto il territorio 
 
 Le essenze vegetali piantumate sono state in parte prodotte dal Vivaio Comunale.
 
-|REPLACE9|
+|REPLACE10|
 
 [Fonte: \ |LINK8|\ ].
 
@@ -227,22 +238,22 @@ Le essenze vegetali piantumate sono state in parte prodotte dal Vivaio Comunale.
 Progetto: Un albero per ogni neonato.
 =====================================
 
-Durante l’ultimo quinquennio, a fronte di circa \ |STYLE9|\  tra il 2012 ed il 2016, sono state \ |STYLE10|\  [\ |LINK9|\ ].
+Durante l’ultimo quinquennio, a fronte di circa \ |STYLE10|\  tra il 2012 ed il 2016, sono state \ |STYLE11|\  [\ |LINK9|\ ].
 
 .. _h2a1f625ca645c176c487a146b4e3612:
 
 Azioni di medio periodo
 ***********************
 
-Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti progetti destinati a (...) ripristinare e valorizzare le connessioni ecologiche e la qualità paesaggistica dei Siti della Rete Ecologica comunale e a riequilibrare il sistema fisico, ambientale e socio-economico della \ |STYLE11|\  e del \ |STYLE12|\ . La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’Avviso pubblico per la selezione di beneficiari e operazioni con procedura di valutazione delle domande a graduatoria, sui fondi del “PO FESR SICILIA 2014-2020, Asse 6, Azioni 6.5.1 e 6.6.1:
+Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti progetti destinati a (...) ripristinare e valorizzare le connessioni ecologiche e la qualità paesaggistica dei Siti della Rete Ecologica comunale e a riequilibrare il sistema fisico, ambientale e socio-economico della \ |STYLE12|\  e del \ |STYLE13|\ . La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’Avviso pubblico per la selezione di beneficiari e operazioni con procedura di valutazione delle domande a graduatoria, sui fondi del “PO FESR SICILIA 2014-2020, Asse 6, Azioni 6.5.1 e 6.6.1:
 
 * Asse 6, Azione 6.5.1 “Azioni previste nei Prioritized Action Framework (PAF) e nei Piani di Gestione della Rete Natura 2000”.
 
-    * \ |STYLE13|\  - SIC ITA020023 – \ |STYLE14|\  - Intervento di rinaturalizzazione della foce. L’intervento nel SIC ITA 020012 Valle dell’Oreto rappresenta la prima importante sperimentazione di risarcimento ambientale del tratto urbano del Fiume dove emergono le maggiori minacce e criticità, che il progetto intende arginare attraverso opere di rigenerazione delle matrici ambientali e di ripopolamento degli habitat e delle specie, coerenti con il Piano di gestione “Monti di Palermo e Valle dell’Oreto” e con gli obiettivi del Protocollo d’Intesa siglato con i Comuni di Altofonte e di Monreale per l’avvio del Parco dell’Oreto.
+    * \ |STYLE14|\  - SIC ITA020023 – \ |STYLE15|\  - Intervento di rinaturalizzazione della foce. L’intervento nel SIC ITA 020012 Valle dell’Oreto rappresenta la prima importante sperimentazione di risarcimento ambientale del tratto urbano del Fiume dove emergono le maggiori minacce e criticità, che il progetto intende arginare attraverso opere di rigenerazione delle matrici ambientali e di ripopolamento degli habitat e delle specie, coerenti con il Piano di gestione “Monti di Palermo e Valle dell’Oreto” e con gli obiettivi del Protocollo d’Intesa siglato con i Comuni di Altofonte e di Monreale per l’avvio del Parco dell’Oreto.
 
 * Asse 6, Azione 6.6.1 “Interventi per la tutela e la valorizzazione di aree di attrazione di rilevanza strategica (aree protette in ambito terrestre e marino, paesaggi tutelati) tali da consolidare e promuovere processi di sviluppo”.
 
-    * \ |STYLE15|\  – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00). Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK10|\ ].
+    * \ |STYLE16|\  – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00). Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK10|\ ].
 
 
 .. bottom of content
@@ -264,21 +275,23 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
 
 .. |STYLE7| replace:: **Valle del Fiume Oreto**
 
-.. |STYLE8| replace:: **Oreto**
+.. |STYLE8| replace:: **Il Parco Agrumicolo di Ciaculli, una buona prassi nella sostenibilità ambientale a tutela della biodiversità della Conce d’Oro di Palermo**
 
-.. |STYLE9| replace:: **29 mila bambini nati**
+.. |STYLE9| replace:: **Oreto**
 
-.. |STYLE10| replace:: **piantate 30.200 essenze legnose tra alberi (circa il 30%) e arbusti, per una media di circa 1,03 piante per ogni nuovo nato.**
+.. |STYLE10| replace:: **29 mila bambini nati**
 
-.. |STYLE11| replace:: **Costa**
+.. |STYLE11| replace:: **piantate 30.200 essenze legnose tra alberi (circa il 30%) e arbusti, per una media di circa 1,03 piante per ogni nuovo nato.**
 
-.. |STYLE12| replace:: **Fiume Oreto**
+.. |STYLE12| replace:: **Costa**
 
-.. |STYLE13| replace:: **Parco litoraneo costa Sud**
+.. |STYLE13| replace:: **Fiume Oreto**
 
-.. |STYLE14| replace:: **Valle del fiume Oreto**
+.. |STYLE14| replace:: **Parco litoraneo costa Sud**
 
-.. |STYLE15| replace:: **Percorso ciclopedonale all’Addaura**
+.. |STYLE15| replace:: **Valle del fiume Oreto**
+
+.. |STYLE16| replace:: **Percorso ciclopedonale all’Addaura**
 
 
 .. |REPLACE1| raw:: html
@@ -306,9 +319,12 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
     "Oreto - The Urban Adventure" di Igor D'India - Vedipalermo 2013. Un video che ci porta in un viaggio all’interno del fiume facendoci scoprire elementi naturali sconosciuti.
 .. |REPLACE8| raw:: html
 
+    <iframe width="100%" height="550px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/parco-agrumicolo-di-ciaculli_262087?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe></br><a href="https://umap.openstreetmap.fr/it/map/parco-agrumicolo-di-ciaculli_262087">Visualizza a schermo intero</a>
+.. |REPLACE9| raw:: html
+
     <img src="https://fai-platform.imgix.net/media/sicilia/pa/41226_fiume-oreto.jpg" width=600 /></br>
     Foto del FAI
-.. |REPLACE9| raw:: html
+.. |REPLACE10| raw:: html
 
     <img src="https://www.comune.palermo.it/js/server/uploads/bs/img/_20042018085651.jpg" width=600 /></br>
     <img src="https://www.comune.palermo.it/js/server/uploads/bs/img/_20042018085707.jpg" width=600 />
