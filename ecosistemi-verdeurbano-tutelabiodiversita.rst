@@ -71,6 +71,32 @@ Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costr
 
 |REPLACE8|
 
+\ |STYLE9|\ 
+
+\ |LINK6|\  (1- La memoria e il futuro, 2- Una strategia agricola tra città e campagna, 3- Conca d'Oro, immagine di un giardino, 4- Un parco agricolo urbano in cui stupirsi e istruirsi, 5- La valorizzazione dell'agricoltura nelle aree periurbane. Un’esperienza progettuale di sostenibilità urbana).
+
+\ |STYLE10|\ 
+
+* \ |LINK7|\ 
+
+* \ |LINK8|\ 
+
+* \ |LINK9|\   
+
+* \ |LINK10|\ 
+
+\ |STYLE11|\ 
+
+* \ |LINK11|\ 
+
+* \ |LINK12|\ 
+
+* \ |LINK13|\ 
+
+* \ |LINK14|\ 
+
+* \ |LINK15|\ 
+
 |
 
 .. _h0686821523b385e435a2a761ff4b45:
@@ -78,15 +104,15 @@ Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costr
 Obiettivi di medio e lungo periodo
 **********************************
 
-.. _h4a2a70da7f2754671c695e40103c50:
+.. _ha75174d5f47f1b3a316e4143775b80:
 
-Luoghi da tutelare, i luoghi del cuore dell’iniziativa del F.A.I. edizione 2018, il censimento dei luoghi italiani da non dimenticare: \ |LINK6|\ 
---------------------------------------------------------------------------------------------------------------------------------------------------
+Luoghi da tutelare, i luoghi del cuore dell’iniziativa del F.A.I. edizione 2018, il censimento dei luoghi italiani da non dimenticare: \ |LINK16|\ 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 |REPLACE9|
 
-L'\ |STYLE9|\  è un fiume siciliano che scorre nella Valle dell'Oreto e con un bacino che si estende nei territori dei comuni di Altofonte, Monreale e Palermo. Lungo circa 20 chilometri, ha la sorgente a sud di Palermo, nella cosiddetta Conca d'Oro, lungo la dorsale del Monte Matassaro Renna; da qui in poi scorre verso la periferia sud del capoluogo siciliano per andare a sfociare nel Mar Tirreno. La foce è visibile dal ponte del lungomare Sant'Erasmo. Corso d'acqua a carattere torrentizio, anche nei mesi più caldi conserva un deflusso sufficiente per la presenza di molte sorgive lungo il proprio corso e per la ricchezza della falda che lo alimenta: nel 1997, ultimo dato disponibile, la portata media mensile del fiume ha oscillato fra un massimo di 1,87 metri cubi al secondo (registrato in gennaio) e un minimo di 0,116 metri cubi al secondo (registrato in agosto). Dal 1980 al 1997, la portata massima si è registrata nel gennaio del 1981 (5,876) [\ |LINK7|\ ].
+L'\ |STYLE12|\  è un fiume siciliano che scorre nella Valle dell'Oreto e con un bacino che si estende nei territori dei comuni di Altofonte, Monreale e Palermo. Lungo circa 20 chilometri, ha la sorgente a sud di Palermo, nella cosiddetta Conca d'Oro, lungo la dorsale del Monte Matassaro Renna; da qui in poi scorre verso la periferia sud del capoluogo siciliano per andare a sfociare nel Mar Tirreno. La foce è visibile dal ponte del lungomare Sant'Erasmo. Corso d'acqua a carattere torrentizio, anche nei mesi più caldi conserva un deflusso sufficiente per la presenza di molte sorgive lungo il proprio corso e per la ricchezza della falda che lo alimenta: nel 1997, ultimo dato disponibile, la portata media mensile del fiume ha oscillato fra un massimo di 1,87 metri cubi al secondo (registrato in gennaio) e un minimo di 0,116 metri cubi al secondo (registrato in agosto). Dal 1980 al 1997, la portata massima si è registrata nel gennaio del 1981 (5,876) [\ |LINK17|\ ].
 
 |
 
@@ -231,29 +257,29 @@ Le essenze vegetali piantumate sono state in parte prodotte dal Vivaio Comunale.
 
 |REPLACE10|
 
-[Fonte: \ |LINK8|\ ].
+[Fonte: \ |LINK18|\ ].
 
 .. _h3011562c3f105445225456475784d4c:
 
 Progetto: Un albero per ogni neonato.
 =====================================
 
-Durante l’ultimo quinquennio, a fronte di circa \ |STYLE10|\  tra il 2012 ed il 2016, sono state \ |STYLE11|\  [\ |LINK9|\ ].
+Durante l’ultimo quinquennio, a fronte di circa \ |STYLE13|\  tra il 2012 ed il 2016, sono state \ |STYLE14|\  [\ |LINK19|\ ].
 
 .. _h2a1f625ca645c176c487a146b4e3612:
 
 Azioni di medio periodo
 ***********************
 
-Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti progetti destinati a (...) ripristinare e valorizzare le connessioni ecologiche e la qualità paesaggistica dei Siti della Rete Ecologica comunale e a riequilibrare il sistema fisico, ambientale e socio-economico della \ |STYLE12|\  e del \ |STYLE13|\ . La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’Avviso pubblico per la selezione di beneficiari e operazioni con procedura di valutazione delle domande a graduatoria, sui fondi del “PO FESR SICILIA 2014-2020, Asse 6, Azioni 6.5.1 e 6.6.1:
+Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti progetti destinati a (...) ripristinare e valorizzare le connessioni ecologiche e la qualità paesaggistica dei Siti della Rete Ecologica comunale e a riequilibrare il sistema fisico, ambientale e socio-economico della \ |STYLE15|\  e del \ |STYLE16|\ . La Giunta ha deliberato la partecipazione dell’Amministrazione comunale all’Avviso pubblico per la selezione di beneficiari e operazioni con procedura di valutazione delle domande a graduatoria, sui fondi del “PO FESR SICILIA 2014-2020, Asse 6, Azioni 6.5.1 e 6.6.1:
 
 * Asse 6, Azione 6.5.1 “Azioni previste nei Prioritized Action Framework (PAF) e nei Piani di Gestione della Rete Natura 2000”.
 
-    * \ |STYLE14|\  - SIC ITA020023 – \ |STYLE15|\  - Intervento di rinaturalizzazione della foce. L’intervento nel SIC ITA 020012 Valle dell’Oreto rappresenta la prima importante sperimentazione di risarcimento ambientale del tratto urbano del Fiume dove emergono le maggiori minacce e criticità, che il progetto intende arginare attraverso opere di rigenerazione delle matrici ambientali e di ripopolamento degli habitat e delle specie, coerenti con il Piano di gestione “Monti di Palermo e Valle dell’Oreto” e con gli obiettivi del Protocollo d’Intesa siglato con i Comuni di Altofonte e di Monreale per l’avvio del Parco dell’Oreto.
+    * \ |STYLE17|\  - SIC ITA020023 – \ |STYLE18|\  - Intervento di rinaturalizzazione della foce. L’intervento nel SIC ITA 020012 Valle dell’Oreto rappresenta la prima importante sperimentazione di risarcimento ambientale del tratto urbano del Fiume dove emergono le maggiori minacce e criticità, che il progetto intende arginare attraverso opere di rigenerazione delle matrici ambientali e di ripopolamento degli habitat e delle specie, coerenti con il Piano di gestione “Monti di Palermo e Valle dell’Oreto” e con gli obiettivi del Protocollo d’Intesa siglato con i Comuni di Altofonte e di Monreale per l’avvio del Parco dell’Oreto.
 
 * Asse 6, Azione 6.6.1 “Interventi per la tutela e la valorizzazione di aree di attrazione di rilevanza strategica (aree protette in ambito terrestre e marino, paesaggi tutelati) tali da consolidare e promuovere processi di sviluppo”.
 
-    * \ |STYLE16|\  – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00). Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK10|\ ].
+    * \ |STYLE19|\  – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00). Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK20|\ ].
 
 
 .. bottom of content
@@ -277,21 +303,27 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
 
 .. |STYLE8| replace:: **Il Parco Agrumicolo di Ciaculli, una buona prassi nella sostenibilità ambientale a tutela della biodiversità della Conca d’Oro di Palermo**
 
-.. |STYLE9| replace:: **Oreto**
+.. |STYLE9| replace:: **Un modello di gestione per la tutela e la valorizzazione dell'area agricola periurbana di Ciaculli, Croceverde Giardina.**
 
-.. |STYLE10| replace:: **29 mila bambini nati**
+.. |STYLE10| replace:: **Il Territorio**
 
-.. |STYLE11| replace:: **piantate 30.200 essenze legnose tra alberi (circa il 30%) e arbusti, per una media di circa 1,03 piante per ogni nuovo nato.**
+.. |STYLE11| replace:: **Le azioni del progetto**
 
-.. |STYLE12| replace:: **Costa**
+.. |STYLE12| replace:: **Oreto**
 
-.. |STYLE13| replace:: **Fiume Oreto**
+.. |STYLE13| replace:: **29 mila bambini nati**
 
-.. |STYLE14| replace:: **Parco litoraneo costa Sud**
+.. |STYLE14| replace:: **piantate 30.200 essenze legnose tra alberi (circa il 30%) e arbusti, per una media di circa 1,03 piante per ogni nuovo nato.**
 
-.. |STYLE15| replace:: **Valle del fiume Oreto**
+.. |STYLE15| replace:: **Costa**
 
-.. |STYLE16| replace:: **Percorso ciclopedonale all’Addaura**
+.. |STYLE16| replace:: **Fiume Oreto**
+
+.. |STYLE17| replace:: **Parco litoraneo costa Sud**
+
+.. |STYLE18| replace:: **Valle del fiume Oreto**
+
+.. |STYLE19| replace:: **Percorso ciclopedonale all’Addaura**
 
 
 .. |REPLACE1| raw:: html
@@ -351,21 +383,61 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.fondoambiente.it/luoghi/fiume-oreto?ldc#section2" target="_blank">il fiume Oreto</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/Ciaculli%20presentazione.PDF" target="_blank">Presentazione</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://www.fondoambiente.it/luoghi/fiume-oreto?ldc#section2" target="_blank">fonte</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/IL%20TERRITORIO-Le%20trasf_%20dei%20car_fisi_paesaggio%20agrario.PDF" target="_blank">Le trasformazioni dei caratteri fisici del paesaggio agrario (di Laura Cobello e Carlo Simonetti)</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://www.comune.palermo.it/bilancio_sociale.php?anno=2017&indice=2" target="_blank">Bilancio Sociale comunale, anno 2017</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/L%20arboricoltura%20periurbana%20della%20Conca%20d%20Oro.PDF" target="_blank">L'arboricoltura periurbana della Conca d'Oro (di Giuseppe Barbera)</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://www.ilsicilia.it/un-albero-per-ogni-neonato-palermo-tra-le-citta-piu-verdi-ditalia/" target="_blank">Fonte</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/Il%20tardivo%20di%20Ciacullu%20nell%20econ_agric_del%20terr_PDF.PDF" target="_blank">Il "TARDIVO" di Ciaculli nell'economia agricola del territorio (di Giorgio Schifani e Giovanni Guccione)</a>
 
 .. |LINK10| raw:: html
+
+    <a href="http://spazioinwind.libero.it/ambientepalermo/L%20evoluzione%20delle%20tecn_nell%20agricolt.PDF" target="_blank">L'evoluzione delle tecniche nell'agrumicoltura (di Tommaso La Mantia)</a>
+
+.. |LINK11| raw:: html
+
+    <a href="http://spazioinwind.libero.it/ambientepalermo/Le%20linee%20guida%20del%20progetto.PDF" target="_blank">Le linee guida del progetto (di Laura Cobello e Carlo Simonetti)</a>
+
+.. |LINK12| raw:: html
+
+    <a href="http://spazioinwind.libero.it/ambientepalermo/Il%20miglior_genetico%20del%20mandar_tard_di%20Ciaculli.PDF" target="_blank">Il miglioramento genetico del mandarino tardivo di Ciaculli (di Paola Quatrini e Giovanni Gugliuzza)</a>
+
+.. |LINK13| raw:: html
+
+    <a href="http://spazioinwind.libero.it/ambientepalermo/La%20conservaz_%20della%20biodivers_frutticola.PDF" target="_blank">La conservazione della biodiversità frutticola (di Tommaso La Mantia e Giovanni Gugliuzza)</a>
+
+.. |LINK14| raw:: html
+
+    <a href="http://spazioinwind.libero.it/ambientepalermo/La%20partecipazione%20e%20il%20consenso%20sociale.PDF" target="_blank">La partecipazione e il consenso sociale ( di Salvino Bonaccorso)</a>
+
+.. |LINK15| raw:: html
+
+    <a href="http://spazioinwind.libero.it/ambientepalermo/Considerazioni%20conclusive.PDF" target="_blank">Considerazioni conclusive (di Nicola Stolfi)</a>
+
+.. |LINK16| raw:: html
+
+    <a href="https://www.fondoambiente.it/luoghi/fiume-oreto?ldc#section2" target="_blank">il fiume Oreto</a>
+
+.. |LINK17| raw:: html
+
+    <a href="https://www.fondoambiente.it/luoghi/fiume-oreto?ldc#section2" target="_blank">fonte</a>
+
+.. |LINK18| raw:: html
+
+    <a href="https://www.comune.palermo.it/bilancio_sociale.php?anno=2017&indice=2" target="_blank">Bilancio Sociale comunale, anno 2017</a>
+
+.. |LINK19| raw:: html
+
+    <a href="https://www.ilsicilia.it/un-albero-per-ogni-neonato-palermo-tra-le-citta-piu-verdi-ditalia/" target="_blank">Fonte</a>
+
+.. |LINK20| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?id=15934" target="_blank">Fonte</a>
 
