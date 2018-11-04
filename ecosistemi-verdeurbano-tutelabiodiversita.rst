@@ -71,23 +71,21 @@ Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costr
 
 |REPLACE8|
 
-\ |STYLE9|\ 
+\ |STYLE9|\  (\ |LINK6|\ ).
 
-\ |LINK6|\  (1- La memoria e il futuro, 2- Una strategia agricola tra città e campagna, 3- Conca d'Oro, immagine di un giardino, 4- Un parco agricolo urbano in cui stupirsi e istruirsi, 5- La valorizzazione dell'agricoltura nelle aree periurbane. Un’esperienza progettuale di sostenibilità urbana).
+\ |LINK7|\  (1- La memoria e il futuro, 2- Una strategia agricola tra città e campagna, 3- Conca d'Oro, immagine di un giardino, 4- Un parco agricolo urbano in cui stupirsi e istruirsi, 5- La valorizzazione dell'agricoltura nelle aree periurbane. Un’esperienza progettuale di sostenibilità urbana).
 
 \ |STYLE10|\ 
 
-* \ |LINK7|\ 
-
 * \ |LINK8|\ 
 
-* \ |LINK9|\   
+* \ |LINK9|\ 
 
-* \ |LINK10|\ 
-
-\ |STYLE11|\ 
+* \ |LINK10|\   
 
 * \ |LINK11|\ 
+
+\ |STYLE11|\ 
 
 * \ |LINK12|\ 
 
@@ -97,6 +95,8 @@ Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costr
 
 * \ |LINK15|\ 
 
+* \ |LINK16|\ 
+
 |
 
 .. _h0686821523b385e435a2a761ff4b45:
@@ -104,15 +104,15 @@ Studio di Incidenza Ambientale (Screening) del progetto preliminare per la costr
 Obiettivi di medio e lungo periodo
 **********************************
 
-.. _ha75174d5f47f1b3a316e4143775b80:
+.. _h103a59546756662e572e13a567d42:
 
-Luoghi da tutelare, i luoghi del cuore dell’iniziativa del F.A.I. edizione 2018, il censimento dei luoghi italiani da non dimenticare: \ |LINK16|\ 
+Luoghi da tutelare, i luoghi del cuore dell’iniziativa del F.A.I. edizione 2018, il censimento dei luoghi italiani da non dimenticare: \ |LINK17|\ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 |REPLACE9|
 
-L'\ |STYLE12|\  è un fiume siciliano che scorre nella Valle dell'Oreto e con un bacino che si estende nei territori dei comuni di Altofonte, Monreale e Palermo. Lungo circa 20 chilometri, ha la sorgente a sud di Palermo, nella cosiddetta Conca d'Oro, lungo la dorsale del Monte Matassaro Renna; da qui in poi scorre verso la periferia sud del capoluogo siciliano per andare a sfociare nel Mar Tirreno. La foce è visibile dal ponte del lungomare Sant'Erasmo. Corso d'acqua a carattere torrentizio, anche nei mesi più caldi conserva un deflusso sufficiente per la presenza di molte sorgive lungo il proprio corso e per la ricchezza della falda che lo alimenta: nel 1997, ultimo dato disponibile, la portata media mensile del fiume ha oscillato fra un massimo di 1,87 metri cubi al secondo (registrato in gennaio) e un minimo di 0,116 metri cubi al secondo (registrato in agosto). Dal 1980 al 1997, la portata massima si è registrata nel gennaio del 1981 (5,876) [\ |LINK17|\ ].
+L'\ |STYLE12|\  è un fiume siciliano che scorre nella Valle dell'Oreto e con un bacino che si estende nei territori dei comuni di Altofonte, Monreale e Palermo. Lungo circa 20 chilometri, ha la sorgente a sud di Palermo, nella cosiddetta Conca d'Oro, lungo la dorsale del Monte Matassaro Renna; da qui in poi scorre verso la periferia sud del capoluogo siciliano per andare a sfociare nel Mar Tirreno. La foce è visibile dal ponte del lungomare Sant'Erasmo. Corso d'acqua a carattere torrentizio, anche nei mesi più caldi conserva un deflusso sufficiente per la presenza di molte sorgive lungo il proprio corso e per la ricchezza della falda che lo alimenta: nel 1997, ultimo dato disponibile, la portata media mensile del fiume ha oscillato fra un massimo di 1,87 metri cubi al secondo (registrato in gennaio) e un minimo di 0,116 metri cubi al secondo (registrato in agosto). Dal 1980 al 1997, la portata massima si è registrata nel gennaio del 1981 (5,876) [\ |LINK18|\ ].
 
 |
 
@@ -257,14 +257,14 @@ Le essenze vegetali piantumate sono state in parte prodotte dal Vivaio Comunale.
 
 |REPLACE10|
 
-[Fonte: \ |LINK18|\ ].
+[Fonte: \ |LINK19|\ ].
 
 .. _h3011562c3f105445225456475784d4c:
 
 Progetto: Un albero per ogni neonato.
 =====================================
 
-Durante l’ultimo quinquennio, a fronte di circa \ |STYLE13|\  tra il 2012 ed il 2016, sono state \ |STYLE14|\  [\ |LINK19|\ ].
+Durante l’ultimo quinquennio, a fronte di circa \ |STYLE13|\  tra il 2012 ed il 2016, sono state \ |STYLE14|\  [\ |LINK20|\ ].
 
 .. _h2a1f625ca645c176c487a146b4e3612:
 
@@ -279,7 +279,7 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
 
 * Asse 6, Azione 6.6.1 “Interventi per la tutela e la valorizzazione di aree di attrazione di rilevanza strategica (aree protette in ambito terrestre e marino, paesaggi tutelati) tali da consolidare e promuovere processi di sviluppo”.
 
-    * \ |STYLE19|\  – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00). Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK20|\ ].
+    * \ |STYLE19|\  – Valorizzazione del SIC ITA020014 Monte Pellegrino (€ 5.800.000,00). Il progetto del percorso dell’Addaura intende valorizzare questa significativa porzione della Zona di Conservazione Speciale 020014 Monte Pellegrino, attraverso la riqualificazione e la promozione dell’importante itinerario naturalistico-culturale della costa nord occidentale, capace di generare un’importantissima offerta di territorio e una significativa integrazione con l’offerta culturale e turistica della Città di Palermo, perseguita attraverso le azioni individuate per la Rete Ecologica Siciliana e connessa al Sito UNESCO e a Palermo Capitale della Cultura. [\ |LINK21|\ ].
 
 
 .. bottom of content
@@ -303,7 +303,7 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
 
 .. |STYLE8| replace:: **Il Parco Agrumicolo di Ciaculli, una buona prassi nella sostenibilità ambientale a tutela della biodiversità della Conca d’Oro di Palermo**
 
-.. |STYLE9| replace:: **Un modello di gestione per la tutela e la valorizzazione dell'area agricola periurbana di Ciaculli, Croceverde Giardina.**
+.. |STYLE9| replace:: **Un modello di gestione per la tutela e la valorizzazione dell'area agricola periurbana di Ciaculli, Croceverde Giardina**
 
 .. |STYLE10| replace:: **Il Territorio**
 
@@ -383,61 +383,65 @@ Nella seduta del 10 ottobre 2017, la Giunta Comunale  ha approvato importanti pr
 
 .. |LINK6| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/Ciaculli%20presentazione.PDF" target="_blank">Presentazione</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_25012014161441.pdf" target="_blank">testo completo</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/IL%20TERRITORIO-Le%20trasf_%20dei%20car_fisi_paesaggio%20agrario.PDF" target="_blank">Le trasformazioni dei caratteri fisici del paesaggio agrario (di Laura Cobello e Carlo Simonetti)</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/Ciaculli%20presentazione.PDF" target="_blank">Presentazione</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/L%20arboricoltura%20periurbana%20della%20Conca%20d%20Oro.PDF" target="_blank">L'arboricoltura periurbana della Conca d'Oro (di Giuseppe Barbera)</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/IL%20TERRITORIO-Le%20trasf_%20dei%20car_fisi_paesaggio%20agrario.PDF" target="_blank">Le trasformazioni dei caratteri fisici del paesaggio agrario (di Laura Cobello e Carlo Simonetti)</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/Il%20tardivo%20di%20Ciacullu%20nell%20econ_agric_del%20terr_PDF.PDF" target="_blank">Il "TARDIVO" di Ciaculli nell'economia agricola del territorio (di Giorgio Schifani e Giovanni Guccione)</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/L%20arboricoltura%20periurbana%20della%20Conca%20d%20Oro.PDF" target="_blank">L'arboricoltura periurbana della Conca d'Oro (di Giuseppe Barbera)</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/L%20evoluzione%20delle%20tecn_nell%20agricolt.PDF" target="_blank">L'evoluzione delle tecniche nell'agrumicoltura (di Tommaso La Mantia)</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/Il%20tardivo%20di%20Ciacullu%20nell%20econ_agric_del%20terr_PDF.PDF" target="_blank">Il "TARDIVO" di Ciaculli nell'economia agricola del territorio (di Giorgio Schifani e Giovanni Guccione)</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/Le%20linee%20guida%20del%20progetto.PDF" target="_blank">Le linee guida del progetto (di Laura Cobello e Carlo Simonetti)</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/L%20evoluzione%20delle%20tecn_nell%20agricolt.PDF" target="_blank">L'evoluzione delle tecniche nell'agrumicoltura (di Tommaso La Mantia)</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/Il%20miglior_genetico%20del%20mandar_tard_di%20Ciaculli.PDF" target="_blank">Il miglioramento genetico del mandarino tardivo di Ciaculli (di Paola Quatrini e Giovanni Gugliuzza)</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/Le%20linee%20guida%20del%20progetto.PDF" target="_blank">Le linee guida del progetto (di Laura Cobello e Carlo Simonetti)</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/La%20conservaz_%20della%20biodivers_frutticola.PDF" target="_blank">La conservazione della biodiversità frutticola (di Tommaso La Mantia e Giovanni Gugliuzza)</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/Il%20miglior_genetico%20del%20mandar_tard_di%20Ciaculli.PDF" target="_blank">Il miglioramento genetico del mandarino tardivo di Ciaculli (di Paola Quatrini e Giovanni Gugliuzza)</a>
 
 .. |LINK14| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/La%20partecipazione%20e%20il%20consenso%20sociale.PDF" target="_blank">La partecipazione e il consenso sociale ( di Salvino Bonaccorso)</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/La%20conservaz_%20della%20biodivers_frutticola.PDF" target="_blank">La conservazione della biodiversità frutticola (di Tommaso La Mantia e Giovanni Gugliuzza)</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/Considerazioni%20conclusive.PDF" target="_blank">Considerazioni conclusive (di Nicola Stolfi)</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/La%20partecipazione%20e%20il%20consenso%20sociale.PDF" target="_blank">La partecipazione e il consenso sociale ( di Salvino Bonaccorso)</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.fondoambiente.it/luoghi/fiume-oreto?ldc#section2" target="_blank">il fiume Oreto</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/Considerazioni%20conclusive.PDF" target="_blank">Considerazioni conclusive (di Nicola Stolfi)</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.fondoambiente.it/luoghi/fiume-oreto?ldc#section2" target="_blank">fonte</a>
+    <a href="https://www.fondoambiente.it/luoghi/fiume-oreto?ldc#section2" target="_blank">il fiume Oreto</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.comune.palermo.it/bilancio_sociale.php?anno=2017&indice=2" target="_blank">Bilancio Sociale comunale, anno 2017</a>
+    <a href="https://www.fondoambiente.it/luoghi/fiume-oreto?ldc#section2" target="_blank">fonte</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://www.ilsicilia.it/un-albero-per-ogni-neonato-palermo-tra-le-citta-piu-verdi-ditalia/" target="_blank">Fonte</a>
+    <a href="https://www.comune.palermo.it/bilancio_sociale.php?anno=2017&indice=2" target="_blank">Bilancio Sociale comunale, anno 2017</a>
 
 .. |LINK20| raw:: html
+
+    <a href="https://www.ilsicilia.it/un-albero-per-ogni-neonato-palermo-tra-le-citta-piu-verdi-ditalia/" target="_blank">Fonte</a>
+
+.. |LINK21| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?id=15934" target="_blank">Fonte</a>
 
