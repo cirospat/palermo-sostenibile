@@ -4,15 +4,9 @@
 Economia circolare
 ##################
 
-.. _h20207f2c5139301b636463694e296531:
-
 Nell’economia circolare il valore dei prodotti, delle materie prime e delle risorse si mantiene lungo il loro di ciclo di vita il più a lungo possibile. Gli scarti e gli sprechi sono ridotti al massimo.
-==========================================================================================================================================================================================================
 
-.. _h3d7c5e198e455d3ed22273c0371a:
-
-La transizione verso un'economia efficiente nell’uso delle risorse, a basse emissioni di carbonio e resiliente ai cambiamenti climatici, costituisce oggi la più importante sfida a livello mondiale per raggiungere una crescita sostenibile ed inclusiva…\ |LINK1|\ 
-======================================================================================================================================================================================================================================================================
+La transizione verso un'economia efficiente nell’uso delle risorse, a basse emissioni di carbonio e resiliente ai cambiamenti climatici, costituisce oggi la più importante sfida a livello mondiale per raggiungere una crescita sostenibile ed inclusiva… \ |LINK1|\ 
 
 .. _h327a231f3163241a8069125935c2f7d:
 
