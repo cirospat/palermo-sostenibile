@@ -82,7 +82,7 @@ Definizione di “sostenibilità”
     <iframe width="100%" height="350" src="https://www.youtube.com/embed/hyke-OUTW68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE3| raw:: html
 
-    <iframe width="100%" height="350" src="https://video.corriere.it/video-embed/c3403f08-f54d-11e8-9c84-9babb02b8ffd" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" height="500" src="https://video.corriere.it/video-embed/c3403f08-f54d-11e8-9c84-9babb02b8ffd" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 .. |LINK1| raw:: html
 
