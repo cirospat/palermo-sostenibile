@@ -27,12 +27,14 @@ Definizione di “sostenibilità”
     Sono trascorsi 11 anni da quando è stata redatta la \ |LINK4|\ , avvenuta nel 2006 [Fonte: \ |LINK5|\ ]. Diverse le azioni avviate e le pianificazioni introdotte in questo decennio per una maggiore tutela dell’ambiente e della biodiversità. Questa piattaforma è un contenitore quanto più possibile organizzato di informazioni e dati. 
 
 
+|REPLACE3|
+
+
 .. toctree:: 
     :maxdepth: 3
     :caption: Introduzione e dati 
 
     introduzione
-    linee-guida-green-city
     dati-inquadramento-generale
     pianificazione-comunale-2018
 
@@ -45,8 +47,10 @@ Definizione di “sostenibilità”
     economia-circolare
     ecosistemi-verdeurbano-tutelabiodiversita
     mobilita-sostenibile
+    qualità dell’aria
     adattamento-cambiamenti-climatici-transizione-energetica
     uso-sostenibile-suolo
+    risparmio e riqualificazione delle acque
 
 
 .. toctree:: 
@@ -76,6 +80,9 @@ Definizione di “sostenibilità”
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="350" src="https://www.youtube.com/embed/hyke-OUTW68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="350" src="https://video.corriere.it/video-embed/c3403f08-f54d-11e8-9c84-9babb02b8ffd" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 .. |LINK1| raw:: html
 
