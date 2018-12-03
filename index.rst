@@ -82,7 +82,7 @@ Definizione di “sostenibilità”
     <iframe width="100%" height="350" src="https://www.youtube.com/embed/hyke-OUTW68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE3| raw:: html
 
-    <iframe width="100%" height="505" src="https://video.corriere.it/video-embed/c3403f08-f54d-11e8-9c84-9babb02b8ffd" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></br>
+    <iframe width="100%" height="510" src="https://video.corriere.it/video-embed/c3403f08-f54d-11e8-9c84-9babb02b8ffd" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></br>
     <a href="https://www.corriere.it/speciale/cronache/2018/palermo-anno-2018/?fbclid=IwAR38N_r5-9P6yxpLP97fDnEXUwNFGZpgftfBDoOeIsk83-pn-TovW6TgrWY" target="_blank">Da Capitale della Mafia a Capitale della Cultura e sede di Manifesta 12. Un documentario per raccontare il cambiamento. Di Alessandra Borghese, Corriere TV</a> 
 
 .. |LINK1| raw:: html
