@@ -21,6 +21,9 @@ prova-codice
 |REPLACE4|
 
 
+|REPLACE5|
+
+
 .. bottom of content
 
 
@@ -37,4 +40,8 @@ prova-codice
     <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 .. |REPLACE4| raw:: html
 
+    <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+.. |REPLACE5| raw:: html
+
+    <p data-height="541" data-theme-id="0" data-slug-hash="KrGYvM" data-default-tab="js,result" data-user="nelsonr" data-pen-title="Whack a Dino! (Game)" class="codepen">See the Pen <a href="https://codepen.io/nelsonr/pen/KrGYvM/">Whack a Dino! (Game)</a> by Nelson Rodrigues (<a href="https://codepen.io/nelsonr">@nelsonr</a>) on <a href="https://codepen.io">CodePen</a>.</p>
     <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
