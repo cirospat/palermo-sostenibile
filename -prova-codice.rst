@@ -18,6 +18,9 @@ prova-codice
 |REPLACE3|
 
 
+|REPLACE4|
+
+
 .. bottom of content
 
 
@@ -30,5 +33,8 @@ prova-codice
     <p><span class="footer_small">Il portale &egrave; realizzato con <a href="http://sphinx-doc.org" target="_blank" rel="noopener">Spinx</a>&nbsp;utilizzando il tema <a href="https://github.com/rtfd/sphinx_rtd_theme" target="_blank" rel="noopener">Sphinx Theme</a> fornito da <a href="https://readthedocs.org" target="_blank" rel="noopener">Read the Docs</a>.</span></p>
 .. |REPLACE3| raw:: html
 
-    <p data-height="265" data-theme-id="0" data-slug-hash="rQgzKb" data-default-tab="js,result" data-user="rafaelcastrocouto" data-pen-title="Toddler Color Game" class="codepen">See the Pen <a href="https://codepen.io/rafaelcastrocouto/pen/rQgzKb/">Toddler Color Game</a> by rafaelcastrocouto (<a href="https://codepen.io/rafaelcastrocouto">@rafaelcastrocouto</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+    <p data-height="500" data-theme-id="0" data-slug-hash="rQgzKb" data-default-tab="js,result" data-user="rafaelcastrocouto" data-pen-title="Toddler Color Game" class="codepen">See the Pen <a href="https://codepen.io/rafaelcastrocouto/pen/rQgzKb/">Toddler Color Game</a> by rafaelcastrocouto (<a href="https://codepen.io/rafaelcastrocouto">@rafaelcastrocouto</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+    <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+.. |REPLACE4| raw:: html
+
     <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
