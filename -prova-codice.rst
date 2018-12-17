@@ -20,6 +20,9 @@ prova-codice
 |REPLACE5|
 
 
+|REPLACE6|
+
+
 .. bottom of content
 
 
@@ -40,4 +43,8 @@ prova-codice
 .. |REPLACE5| raw:: html
 
     <p data-height="560" data-theme-id="0" data-slug-hash="KrGYvM" data-default-tab="js,result" data-user="nelsonr" data-pen-title="Whack a Dino! (Game)" class="codepen">See the Pen <a href="https://codepen.io/nelsonr/pen/KrGYvM/">Whack a Dino! (Game)</a> by Nelson Rodrigues (<a href="https://codepen.io/nelsonr">@nelsonr</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+    <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+.. |REPLACE6| raw:: html
+
+    <p data-height="465" data-theme-id="0" data-slug-hash="mGMLXO" data-default-tab="js,result" data-user="ykadosh" data-pen-title="3D Tic Tac Toe (React)" class="codepen">See the Pen <a href="https://codepen.io/ykadosh/pen/mGMLXO/">3D Tic Tac Toe (React)</a> by Yoav Kadosh (<a href="https://codepen.io/ykadosh">@ykadosh</a>) on <a href="https://codepen.io">CodePen</a>.</p>
     <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
