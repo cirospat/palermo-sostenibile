@@ -20,9 +20,6 @@ prova-codice
 |REPLACE5|
 
 
-|REPLACE6|
-
-
 .. bottom of content
 
 
@@ -44,8 +41,4 @@ prova-codice
 .. |REPLACE5| raw:: html
 
     <p data-height="750" data-theme-id="0" data-slug-hash="zyBaoO" data-default-tab="js,result" data-user="cirospat" data-pen-title="JS Planet defense game" class="codepen">See the Pen <a href="https://codepen.io/cirospat/pen/zyBaoO/">JS Planet defense game</a> by ciro spataro (<a href="https://codepen.io/cirospat">@cirospat</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-    <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-.. |REPLACE6| raw:: html
-
-    <p data-height="365" data-theme-id="0" data-slug-hash="bOwojj" data-default-tab="html,result" data-user="cirospat" data-pen-title="Avatar Water Tribes" class="codepen">See the Pen <a href="https://codepen.io/cirospat/pen/bOwojj/">Avatar Water Tribes</a> by ciro spataro (<a href="https://codepen.io/cirospat">@cirospat</a>) on <a href="https://codepen.io">CodePen</a>.</p>
     <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
