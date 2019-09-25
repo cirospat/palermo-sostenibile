@@ -75,7 +75,7 @@ Definizione di “sostenibilità”
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" src="http://www.climate-lab-book.ac.uk/files/2018/12/spiral_2018_WMO_large.gif" frameborder="0" allow="autoplay”
+    <iframe width="100%" src="https://www.climate-lab-book.ac.uk/files/2018/12/spiral_2018_WMO_large.gif" frameborder="0" allow="autoplay”
 .. |REPLACE2| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/palermo-sostenibile/master/static/territorio.png" width=50 />
